@@ -1,0 +1,205 @@
+[base-local]
+name=CentOS 6.4 x86_64 base
+failovermethod=priority
+baseurl=http://raoul-yum/
+enabled=1
+gpgcheck=0
+
+http://apt.sw.be/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
+
+qt-x11 libGL qt SDL libpng libXt libXmu libXinerama libXcursor make gcc kernel-devel
+
+mvn release:prepare -Darguments="-DskipTests"
+
+search.maven.org
+
+ctrl+shift+g references in project in windows
+ctrl+tab next editor in windows
+alt+d max active view or editor in windows
+alt+q copy line editing text
+
+%APPDATA%\Microsoft\Windows\SendTo
+
+sudo arp-scan -I p4p1 -l
+nmap -sP 10.2.0.211/22
+
+log=/var/log/mysql-query.log
+
+.bash_profile
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+
+[base-local]
+name=CentOS 6.4 x86_64 base
+failovermethod=priority
+baseurl=http://10.2.1.93
+enabled=1
+gpgcheck=0
+
+scp -r 
+
+ctrl+V at first pos, select to last line and I # Esc to add or x to delete
+
+mvn release:prepare -Darguments="-DskipTests"
+
+jstack -l JAVA_PID > jstack.out
+
+for i in {1..100} 
+do
+	TW=`netstat | grep TIME_WAIT | wc -l`;
+	MP=`ps -eLf | grep mycampus | wc -l`;
+	echo "TIME WAIT = $TW";
+	echo "MyCampus Processes = $MP";
+done
+
+ssh-copy-id -i id_rsa.pub vagrant@raoul-tomcat
+
+wget --no-check-certificate --no-cookies --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2Ftechnetwork%2Fjava%2Fjavase%2Fdownloads%2Fjdk7-downloads-1880260.html;" http://download.oracle.com/otn-pub/java/jdk/7u25-b15/jdk-7u25-linux-x64.rpm
+
+It is recommended to run two commands before you commit:
+• svn update to synchronize with the central repository. If any of your changes conflict with changes made to the repository, you will resolve these before you commit.
+• svn status to check which changes will be sent.
+
+keytool password displaying when typed
+keytool error: gnu.javax.crypto.keyring.MalformedKeyringException: incorrect magic
+The error is due to the fact that, you have more than one versions of keytool running on your machine, with the help of locate command in unix, identify the directories where keytool is install. Next type the command with the complete path like /usr/local/jdk_1.6_02/bin/keytool
+
+smbpasswd -a username
+
+NET VIEW \\raoul-virtual
+net use \\raoul-virtual\slash /delete
+
+sed -i -e "s/80/8999/g" /etc/httpd/conf/httpd.conf
+
+rsync -avrt rsync://rsync.gtlib.gatech.edu/centos/6.4/updates/x86_64/ --exclude=debug/ /var/www/yum/updates/6/x86_64
+rsync -avrt rsync://rsync.gtlib.gatech.edu/centos/6.4/os/x86_64/Packages/ /var/www/yum/base/6/x86_64
+
+free memory
+echo 1 > /proc/sys/vm/drop_caches
+echo 2 > /proc/sys/vm/drop_caches
+echo 3 > /proc/sys/vm/drop_caches
+swapoff -a && swapon -a
+
+vpn from shell
+install package
+sudo add-apt-repository ppa:network-manager/trunk  
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install network-manager
+---------------------------------------------
+nmcli con
+nmcli con up id ConnectionName
+nmcli con down id Connectionname
+
+adduser -m raoul
+passwd raoul
+echo 'useraccount ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
+
+external applications in svn is QuickLinksSSO
+
+
+find last 10 changes in svn
+
+svn log https://svn.campuseai.org/svn/portlets/projects/LiveIntegration/trunk/ -v --limit 10
+
+
+
+if mvn release gives auth error
+
+mvn release:prepare -Dusername=[username] -Dpassword=[password]
+
+
+disable ivy checksum
+
+in ivysettings.xml, add <property name="ivy.checksums" value=""/> under <ivysettings>.
+
+
+
+<c:foreach varStatus="counter"
+${counter.index} starts from 0
+${counter.count} starts from 1
+
+
+ERROR 2006 (HY000) at line 1374: MySQL server has gone away
+
+in my.cnf/ini, add max_allowed_packet = 16M restart server
+
+
+
+check jquery version
+
+alert(jQuery.fn.jquery);
+
+
+
+increase tomcat memory
+
+add the following line to catalina.sh below the last JAVA_OPTS setting (eg JAVA_OPTS="$JAVA_OPTS $LOGGING_MANAGER") OUTSIDE any blocks
+
+JAVA_OPTS="$JAVA_OPTS -Xms4096m -Xmx4096m -XX:MaxPermSize=768m"
+
+
+
+do NOT run tests during a maven build
+
+mvn clean package -Dmaven.test.skip=true
+
+
+
+JAVA_HOME in ubuntu
+add the following line at the end of .bashrc
+
+export JAVA_HOME="/home/raoul/Programs/jdk1.6.0_38"
+
+
+
+start tomcat in debug mode
+
+startup.sh add jpda before start
+
+
+
+junit executing cached class in eclipse maven project
+
+rt clk on src/test/java, build path > configure output folder, specific output folder - target/test-classes
+
+
+
+ubuntu no such file or directory
+
+trying to install a 32-bit package on a 64-bit system
+
+
+
+liferay multiple versions of jQuery
+<script type='text/javascript' src='js/jquery_1.4.js'></script>  
+
+<script type='text/javascript'>
+	
+var $jq = jQuery.noConflict(true);
+
+</script>  
+  
+
+
+<script type='text/javascript' src='js/jquery_1.2.6.js'></script>
+
+
+$jq('.classname').hide() -- uses jQuery 1.4
+
+jQuery(.'classname').hide() -- uses jQuery 1.2.6
+
+
+
+
+liferay portlet does not deploy
+
+1. stop portal
+
+2. delete all of what is inside temp and work -- but be sure that those two dirs are still in place
+
+3. start portal
+let it start up completely to finish.
+
+4. copy war into deploy dir as normal.
+
+

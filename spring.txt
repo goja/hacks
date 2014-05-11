@@ -1,0 +1,49 @@
+IOC
+<import resource="services.xml"/>
+id class name scope constructor-args properties autowire lazy-init init-method destroy-method
+p:email="jibe@goja.org" p:personService-ref="personService"
+autowire - no byName byType constructor
+scopes - singleton prototype request session global-session
+
+<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+	<property name="locations" value="classpath:com/foo/jdbc.properties"/>
+</bean>
+OR
+<context:property-placeholder location="classpath:com/foo/jdbc.properties"/>
+<property name="username" value="${jdbc.username}"/>
+jdbc.username=sa
+
+<context:annotation-config/>
+<context:component-scan base-package="org.goja"/>
+<mvc:annotation-driven/>
+
+@Required - setters
+@Autowired(required=false) - setters contstructors fields
+@Qualifier
+@Component @Repository @Service @Controller class
+@Configuration class with @Bean
+@Bean bean definition, same as <bean>. return new beanImpl();
+@Scope("singleton")
+@Lazy
+@Import(Config.class)
+@ImportResource("classpath:/com/acme/properties-config.xml")
+private @Value("${jdbc.url}") String url;
+
+JSR-250
+@Resource(name="myBean") - autowire by name, setters fields
+@PostConstruct @PreDestroy
+
+JSR-330
+@Inject same as @Autowired
+@Named("myBean") same as @Component
+
+ReloadableResourceBundleMessageSource
+
+
+MVC
+@RequestMapping(value="/owners/{ownerId}", method=RequestMethod.GET)
+@PathVariable("ownerId") String owner OR @PathVariable String ownerId
+@RequestParam("categoryId") Long categoryId
+@ModelAttribute on method & as parameter
+@SessionAttributes
+
