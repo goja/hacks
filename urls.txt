@@ -58,6 +58,7 @@ http://www.programcreek.com/2011/08/the-most-widely-used-java-apis/
 http://www.nearform.com/nodecrunch/?p=109#.UnujOj_CeaA
 http://uaihebert.com/complete-web-application-angular-twitter-bootstrap-spring-mvc-data-and-security/
 http://java.dzone.com/articles/java-enterprise-software
+http://www.methodsandtools.com/archive/onionsoftwarearchitecture.php
 
 snippets
 http://www.jacopretorius.net/2013/12/prevent-a-user-navigating-away-from-a-page-with-unsaved-changes.html
@@ -87,6 +88,7 @@ android
 http://java.dzone.com/articles/big-list-android-dev-resources
 http://hmkcode.com/android-layout-design-by-example-sign-inup-screens/
 http://creative-punch.net/2014/03/make-basic-single-touch-drawing-app-android/
+http://java.dzone.com/articles/collection-resources-android
 
 ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
@@ -133,6 +135,9 @@ http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configur
 
 
 
+http://sagarkarnati.wordpress.com/2014/05/12/unittesting-daos-with-h2-in-spring-hibernate-environment/
+http://www.sitepoint.com/time-complexity-algorithms/
+http://www.de-swaef.com/spring-data-jpa/
 http://krams915.blogspot.in/p/tutorials.html
 http://blog.paralleluniverse.co/2014/05/01/modern-java/
 http://java.dzone.com/articles/hibernate-debugging-where-does
@@ -341,7 +346,7 @@ https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
 http://wiki.centos.org/HowTos/SetUpSamba
 
 cas
-https://wiki.jasig.org/display/CASUM/Best+Practice+-+Setting+Up+CAS+Locally+using+the+Maven2+WAR+Overlay+Method
+https://wiki.jasig.org/display/CASUM/Best+Practice+-+Setting+Up+CAS+Locally+using+the+Maven+WAR+Overlay+Method
 https://wikihub.berkeley.edu/display/calnet/How+CAS+Works
 
 messaging
@@ -412,6 +417,7 @@ http://java.dzone.com/articles/monitoring-and-detecting
 http://java.dzone.com/articles/java-memory-leak
 
 responsive
+http://www.script-tutorials.com/neat-and-modern-design-responsive/
 http://www.dzone.com/links/r/popular_web_design_trends_for_responsive_navigati.html
 
 there yet?
