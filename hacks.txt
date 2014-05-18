@@ -1,3 +1,22 @@
+git cygwin mysql virtualbox wireshark
+sourcegear diffmerge
+autohotkey ditto sysinternalssuite
+ant jmeter maven tomcat groovy
+conemupack eclipse heidisql sublime hxden
+7zip adfssetup 
+collabnet subversion client
+cropper fiddler vagrant
+
+firefox
+cookies manager firebug poster selenium ide tamperdata
+
+eclipse
+subclipse objectaid memory analyzer m2e jvm monitor
+findbugs git eclemma 
+
+
+CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m"
+
 [base-local]
 name=CentOS 6.4 x86_64 base
 failovermethod=priority

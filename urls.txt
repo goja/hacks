@@ -1,3 +1,7 @@
+tools
+http://smartbear.com/products/
+http://java-source.net/open-source/profilers
+
 craft
 http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -136,6 +140,10 @@ http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configur
 
 
 
+
+http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
+http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
+http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
 http://sagarkarnati.wordpress.com/2014/05/12/unittesting-daos-with-h2-in-spring-hibernate-environment/
 http://www.sitepoint.com/time-complexity-algorithms/
 http://www.de-swaef.com/spring-data-jpa/
@@ -257,6 +265,7 @@ https://ochronus.com/git-tips-from-the-trenches/
 gc
 http://www.cubrid.org/blog/tags/Garbage%20Collection/
 http://insightfullogic.com/blog/2013/may/7/garbage-collection-java-3/
+http://michalplachta.com/garbage-collection-101/
 
 jms
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
