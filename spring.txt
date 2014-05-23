@@ -1,6 +1,3 @@
-it is easier to bleed than to sweat
-
-
 IOC
 <import resource="services.xml"/>
 id class name scope constructor-args properties autowire lazy-init init-method destroy-method
@@ -16,9 +13,8 @@ OR
 <property name="username" value="${jdbc.username}"/>
 jdbc.username=sa
 
-<context:annotation-config/>
+<context:annotation-config/> not required when adding
 <context:component-scan base-package="org.goja"/>
-<mvc:annotation-driven/>
 
 @Required - setters
 @Autowired(required=false) - setters contstructors fields
@@ -49,4 +45,26 @@ MVC
 @RequestParam("categoryId") Long categoryId
 @ModelAttribute on method & as parameter
 @SessionAttributes
+
+
+VALIDATION
+add validator to classpath
+<mvc:annotation-driven/>
+@NotNull @NotBlank @Size @Min ...
+@Valid @ModelAttribute(...) BindingResult
+@InitBinder
+
+
+TX
+<tx:annotation-driven />
+@Transactional
+propagation required requires_new nested supports not_supported mandatory never
+
+I	 dirty NRR phantom
+RU 				
+RC 		x		
+RR 		x	x	
+S 		x	x	x
+
+readOnly timeout rollbackFor/noRollbackFor
 

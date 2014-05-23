@@ -31,6 +31,7 @@ mysql
 http://shanto.me/how-to-see-currently-running-mysql-queries/
 
 rest
+http://java.dzone.com/articles/rest-api-best-practices
 http://codeplanet.io/principles-good-restful-api-design/
 http://examples.javacodegeeks.com/enterprise-java/rest/restful-java-client-with-java-net-url/
 http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/xml-example-with-resteasy-jaxb/
@@ -48,6 +49,7 @@ http://stackoverflow.com/questions/2977649/is-there-an-easy-way-to-turn-empty-ja
 http://forum.springsource.org/showthread.php?83873-Can-t-set-update-nullable-reference-field-to-null
 
 blogs
+http://blog.mgechev.com/
 http://www.sachtechnologies.com/blogs/
 http://www.ntu.edu.sg/home/ehchua/programming/
 https://blog.codecentric.de/en/
@@ -141,6 +143,8 @@ http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configur
 
 
 
+
+http://jmeter-plugins.org/
 http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
@@ -436,7 +440,6 @@ Cassandra, Elasticsearch, MongoDB, Kafka, Zookeeper, and Redis
 
 http
 http://css.dzone.com/articles/http-katas
-browser http connections
 http://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser
 http://stackoverflow.com/questions/5751515/official-references-for-default-values-of-concurrent-http-1-1-connections-per-se
 
