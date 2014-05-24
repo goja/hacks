@@ -101,6 +101,9 @@ ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 
 angular
+http://www.learn-angular.org/
+http://www.cheatography.com/proloser/cheat-sheets/angularjs/
+http://www.ng-newsletter.com/posts/how-to-learn-angular.html
 http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/
 http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e78b7e505a417713000002
 http://www.codeproject.com/Articles/657970/Understanding-AngularJS
@@ -138,12 +141,14 @@ http://zeroturnaround.com/blog/release-apps-twice-a-week-with-99point99-percent-
 
 jpa/hibernate/jooq/
 http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configuration/
+http://blog.jhades.org/logging-the-actualreal-sql-queries-of-a-springhibernate-application/
 
 
 
 
 
-
+https://inventropy.us/blog/50-linux-resources-for-developers/
+http://geektub.com/2014/05/20-best-ebooks-for-html5-learner/
 http://jmeter-plugins.org/
 http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
