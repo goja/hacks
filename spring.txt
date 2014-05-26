@@ -68,3 +68,11 @@ S 		x	x	x
 
 readOnly timeout rollbackFor/noRollbackFor
 
+
+
+
+JPA
+@Entity @EntityListeners @Table @Id @GeneratedValue @Column @JoinColumn
+@OneToOne...
+@MappedSuperclass @Version
+@PrePersist @PostPersist @PreRemove @PostRemove @PreUpdate @PostUpdate @PostLoad

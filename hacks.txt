@@ -1,3 +1,7 @@
+SET GLOBAL general_log = 'ON';
+SET GLOBAL general_log = 'OFF';
+
+
 git cygwin mysql virtualbox wireshark
 sourcegear diffmerge
 autohotkey ditto sysinternalssuite
