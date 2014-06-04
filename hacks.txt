@@ -1,6 +1,8 @@
+autossh -M 20000 -f -N -p 22 -g -c 3des -D 1080 example@example.com
+autossh -M 20000 -p 22 -D 1080 raoul@raoul-vm
+
 SET GLOBAL general_log = 'ON';
 SET GLOBAL general_log = 'OFF';
-
 
 git cygwin mysql virtualbox wireshark
 sourcegear diffmerge

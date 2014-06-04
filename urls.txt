@@ -16,6 +16,7 @@ https://github.com/thomasdavis/best-practices
 http://server.dzone.com/articles/best-best-practices-ever
 http://java.dzone.com/articles/10-subtle-best-practices-when
 http://alfasin.com/20-tips-for-becoming-a-better-programmer/
+http://zach-adams.com/2014/05/music-to-listen-to-while-coding/
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -49,6 +50,7 @@ http://stackoverflow.com/questions/2977649/is-there-an-easy-way-to-turn-empty-ja
 http://forum.springsource.org/showthread.php?83873-Can-t-set-update-nullable-reference-field-to-null
 
 blogs
+http://www.captaindebug.com/
 http://blog.mgechev.com/
 http://www.sachtechnologies.com/blogs/
 http://www.ntu.edu.sg/home/ehchua/programming/
@@ -76,7 +78,6 @@ http://www.dzone.com/links/r/top_5_useful_hidden_eclipse_features.html
 java
 http://jlunaquiroga.blogspot.in/2013/08/java-collections-framework-part-7.html
 http://javarevisited.blogspot.sg/2013/10/what-is-priorityqueue-data-structure-java-example-tutorial.html
-http://plumbr.eu/blog/when-and-how-to-use-a-threadlocal
 http://java.dzone.com/articles/javalangoutofmemory-permgen
 http://www.dzone.com/links/r/top_10_questions_for_java_regular_expression.html
 http://java.dzone.com/articles/painless-introduction-javas-threadlocal-storage
@@ -87,6 +88,7 @@ testing
 http://www.sw-engineering-candies.com/blog-1/unit-testing-best-practices
 http://www.dzone.com/links/r/running_junit_tests_in_parallel_with_maven_3.html
 http://softwarecave.wordpress.com/2014/01/12/test-driven-development-using-junit-and-maven/
+http://www.smissltd.com/blog/selenium-webdriver
 
 jsf
 http://www.byteslounge.com/tutorials/how-to-configure-jsf-in-tomcat-example
@@ -101,6 +103,7 @@ ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 
 angular
+http://www.jptacek.com/2014/06/angularJS-intro-to-directives/
 http://www.learn-angular.org/
 http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 http://www.ng-newsletter.com/posts/how-to-learn-angular.html
@@ -124,6 +127,7 @@ in-memory
 http://gridgaintech.wordpress.com/2013/09/03/gridgain-in-memory-database-plain-english-overview/
 http://anton-shakhmin.blogspot.ru/2014/01/gridgain-how-easy-imdb-can-be-to-start.html
 http://atlassian.gridgain.com/wiki/display/GG60/Home
+http://www.redhat.com/magazine/001nov04/features/vm/
 
 sql
 http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
@@ -144,9 +148,23 @@ http://www.objectdb.com/
 http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configuration/
 http://blog.jhades.org/logging-the-actualreal-sql-queries-of-a-springhibernate-application/
 
+aclocal
+https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
 
 
 
+
+
+
+http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
+http://java.dzone.com/articles/mysql-transaction-isolation
+http://www.mediawiki.org/wiki/Git/Gerrit_evaluation
+http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
+http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
+http://java.dzone.com/articles/performance-tuning
+http://java67.blogspot.sg/2012/09/what-is-copyonwritearraylist-in-java-example-vs-arraylist.html
+http://wildlyinaccurate.com/a-hackers-guide-to-git
+http://java.dzone.com/articles/spring-31-caching-and-ehcache
 https://code.google.com/p/guava-libraries/wiki/GuavaExplained
 https://inventropy.us/blog/50-linux-resources-for-developers/
 http://geektub.com/2014/05/20-best-ebooks-for-html5-learner/
@@ -265,6 +283,7 @@ http://www.tldp.org/LDP/abs/html/index.html
 security
 http://code.google.com/p/owasp-esapi-java/
 http://css.dzone.com/articles/attacking-web-applications
+https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet
 
 508
 http://www.w3.org/TR/WCAG10/
@@ -316,6 +335,7 @@ http://jlunaquiroga.blogspot.in/
 
 cheatsheet
 http://inspiretrends.com/fresh-cheat-sheet-for-designers-and-developers/
+http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
 
 ssh
 http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/

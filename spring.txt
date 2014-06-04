@@ -76,3 +76,5 @@ JPA
 @OneToOne...
 @MappedSuperclass @Version
 @PrePersist @PostPersist @PreRemove @PostRemove @PreUpdate @PostUpdate @PostLoad
+@NamedQuery
+
