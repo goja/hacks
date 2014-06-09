@@ -54,6 +54,9 @@ log=/var/log/mysql-query.log
 bind '"\e[A":history-search-backward'
 bind '"\e[B":history-search-forward'
 
+PS1='\u@\h \W \$ '
+export PS1
+
 [base-local]
 name=CentOS 6.4 x86_64 base
 failovermethod=priority

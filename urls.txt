@@ -111,7 +111,6 @@ http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/
 http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e78b7e505a417713000002
 http://www.codeproject.com/Articles/657970/Understanding-AngularJS
 http://www.dzone.com/links/r/tutorial_how_to_create_a_responsive_website_with.html angular
-http://www.dzone.com/links/r/angularjs_at_its_simplest.html
 http://www.designyourway.net/blog/resources/so-you-want-to-learn-angularjs-start-with-these-tutorials-and-resources/
 
 security
@@ -156,6 +155,9 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
+
+http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
+http://java.dzone.com/articles/devops-apache-tomcattomee-and?mz=110215-high-perf
 http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
 http://java.dzone.com/articles/mysql-transaction-isolation
 http://www.mediawiki.org/wiki/Git/Gerrit_evaluation
@@ -284,12 +286,16 @@ security
 http://code.google.com/p/owasp-esapi-java/
 http://css.dzone.com/articles/attacking-web-applications
 https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+https://www.owasp.org/index.php/OWASP_Guide_Project
+https://www.owasp.org/index.php/OWASP_Testing_Project
 
 508
 http://www.w3.org/TR/WCAG10/
 
 git
 https://ochronus.com/git-tips-from-the-trenches/
+https://www.digitalocean.com/community/articles/how-to-install-git-on-a-centos-6-4-vps
 
 gc
 http://www.cubrid.org/blog/tags/Garbage%20Collection/
