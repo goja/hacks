@@ -50,6 +50,7 @@ http://stackoverflow.com/questions/2977649/is-there-an-easy-way-to-turn-empty-ja
 http://forum.springsource.org/showthread.php?83873-Can-t-set-update-nullable-reference-field-to-null
 
 blogs
+http://www.programsji.com/
 http://www.captaindebug.com/
 http://blog.mgechev.com/
 http://www.sachtechnologies.com/blogs/
@@ -103,13 +104,12 @@ ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 
 angular
+http://tutorials.jenkov.com/angularjs/index.html
 http://www.jptacek.com/2014/06/angularJS-intro-to-directives/
 http://www.learn-angular.org/
 http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 http://www.ng-newsletter.com/posts/how-to-learn-angular.html
-http://lostechies.com/gabrielschenker/2013/12/05/angularjspart-1/
 http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e78b7e505a417713000002
-http://www.codeproject.com/Articles/657970/Understanding-AngularJS
 http://www.dzone.com/links/r/tutorial_how_to_create_a_responsive_website_with.html angular
 http://www.designyourway.net/blog/resources/so-you-want-to-learn-angularjs-start-with-these-tutorials-and-resources/
 
@@ -154,8 +154,8 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
-
-
+https://plumbr.eu/outofmemoryerror
+http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
 http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
 http://java.dzone.com/articles/devops-apache-tomcattomee-and?mz=110215-high-perf
 http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
@@ -296,6 +296,7 @@ http://www.w3.org/TR/WCAG10/
 git
 https://ochronus.com/git-tips-from-the-trenches/
 https://www.digitalocean.com/community/articles/how-to-install-git-on-a-centos-6-4-vps
+https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
 
 gc
 http://www.cubrid.org/blog/tags/Garbage%20Collection/

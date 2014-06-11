@@ -1,3 +1,9 @@
+post-receive
+curl -k https://raoul-ci/jenkins/git/notifyCommit?url=git@raoul-ci:/git/tracker.git
+
+WARNING: 'aclocal-1.13' is missing on your system.
+aclocal && libtoolize –-force && autoreconf
+
 autossh -M 20000 -f -N -p 22 -g -c 3des -D 1080 example@example.com
 autossh -M 20000 -p 22 -D 1080 raoul@raoul-vm
 
