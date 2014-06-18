@@ -3,6 +3,7 @@ http://smartbear.com/products/
 http://java-source.net/open-source/profilers
 
 craft
+http://www.takipiblog.com/2014/06/18/42-newsletters-for-developers-the-ultimate-list/
 http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 http://java.dzone.com/articles/top-10-lists-common-java
@@ -42,6 +43,7 @@ http://examples.javacodegeeks.com/enterprise-java/rest/jersey/json-example-with-
 http://blog.eviac.com/2013/11/restful-web-services-with-java.html
 
 spring mvc
+https://hop2croft.wordpress.com/2011/07/06/jpa-basic-example-with-entitymanager-spring-and-maven/
 http://www.programsji.com/spring/crud
 http://examples.javacodegeeks.com/enterprise-java/maven/create-web-application-project-with-maven-example/
 http://java.dzone.com/articles/add-rest-standalone-java-jetty
@@ -50,6 +52,8 @@ http://stackoverflow.com/questions/2977649/is-there-an-easy-way-to-turn-empty-ja
 http://forum.springsource.org/showthread.php?83873-Can-t-set-update-nullable-reference-field-to-null
 
 blogs
+http://dada.theblogbowl.in/2014/01/10-common-mistakes-by-wordpress.html#more
+http://appointzilla.com/publish-code-in-wordpress-two-easy-ways/
 http://www.programsji.com/
 http://www.captaindebug.com/
 http://blog.mgechev.com/
@@ -62,6 +66,7 @@ logstash
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
 
 architecture
+http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
 http://www.aosabook.org/en/index.html
 http://www.dzone.com/links/r/4_great_programming_architectures_you_should_know.html
 http://www.programcreek.com/2011/08/the-most-widely-used-java-apis/
@@ -104,6 +109,7 @@ ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 
 angular
+http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
 http://tutorials.jenkov.com/angularjs/index.html
 http://www.jptacek.com/2014/06/angularJS-intro-to-directives/
 http://www.learn-angular.org/
@@ -153,7 +159,12 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
-
+http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
+https://browserhacker.com/toc/toc_index.html
+http://techarena51.com/index.php/linux-memory-usage/
+http://openbookproject.net/thinkcs/python/english2e/
+http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/
+http://contino.co.uk/use-docker-continuous-delivery-part-2/
 https://plumbr.eu/outofmemoryerror
 http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
 http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
@@ -308,6 +319,7 @@ http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
 http://java.dzone.com/articles/spring-jms-activemq
 
 jpa
+http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
 http://www.petrikainulainen.net/spring-data-jpa-tutorial
 http://stackoverflow.com/questions/3393515/jpa-how-to-have-one-to-many-relation-of-the-same-entity-type
 
@@ -393,8 +405,16 @@ https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
 http://wiki.centos.org/HowTos/SetUpSamba
 
 cas
-https://wiki.jasig.org/display/CASUM/Best+Practice+-+Setting+Up+CAS+Locally+using+the+Maven+WAR+Overlay+Method
+http://jasig.github.io/cas/4.0.0/index.html
+https://wiki.jasig.org/display/JSG/Home
 https://wikihub.berkeley.edu/display/calnet/How+CAS+Works
+https://wiki.jasig.org/display/CASUM/Home
+https://wiki.jasig.org/display/CASC/Home
+https://code.google.com/p/cas-client-test/
+http://www.jasig.org/cas/protocol
+https://wiki.jasig.org/display/CAS/Home
+http://www.jasig.org/cas/cas2-architecture
+http://sites.ewu.edu/jgasper/ws-federation-cas-user-manual/
 
 messaging
 http://architects.dzone.com/articles/drastically-improving-your
@@ -492,14 +512,10 @@ https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.ht
 http://wiki.centos.org/HowTos
 http://www.cyberciti.biz/tips/howto-apache-force-https-secure-connections.html
 http://www.theunixschool.com/2012/09/grep-vs-awk-examples-for-pattern-search.html
-http://www.jasig.org/cas/cas2-architecture
 http://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/
 http://yifanpeng.blogspot.in/2012/02/bashprofile-vs-bashrc.html
 http://www.pixelstech.net/article/1378265382-Time-saving-tips-Linux-users-should-know
 http://www.pixelstech.net/article/1332336423-Linux-Command-Line-tips-that-every-Linux-user-should-know-t
-https://wiki.jasig.org/display/CASUM/Home
-https://wiki.jasig.org/display/CASC/Home
-https://code.google.com/p/cas-client-test/
 http://www.pixelstech.net/article/1379335573-37-powerful-Linux-shell-commands
 http://www.bentobox.io/
 http://www.programcreek.com/
@@ -523,4 +539,12 @@ http://css-tricks.com/multiple-simultaneous-ajax-requests-one-callback-jquery/
 
 http://thornelabs.net/2013/01/10/linux-install-cmatrix-from-rpm-deb-xz-or-source.html
 http://www.tuomistolari.net/blog/2014/3/1/journey-to-windows-identity-part-2-claims
+
+vpn
+http://www.rackspace.com/knowledge_center/article/installing-rhel-epel-repo-on-centos-5x-or-6x
+http://wiki.centos.org/HowTos/vpnc
+
+kerberos
+https://help.ubuntu.com/10.04/serverguide/kerberos.html
+http://linuxproblems.org/wiki/Set_up_kerberos_on_Centos_6
 

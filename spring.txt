@@ -73,8 +73,12 @@ readOnly timeout rollbackFor/noRollbackFor
 
 JPA
 @Entity @EntityListeners @Table @Id @GeneratedValue @Column @JoinColumn
-@OneToOne...
+@OneToOne @OneToMany mappedBy cascade fetch @ManyToOne @ManyToMany
 @MappedSuperclass @Version
 @PrePersist @PostPersist @PreRemove @PostRemove @PreUpdate @PostUpdate @PostLoad
 @NamedQuery
+READ WRITE OPTIMISTIC OPTIMISTIC_FORCE_INCREMENT PESSIMISTIC_READ
+PESSIMISTIC_WRITE PESSIMISTIC_FORCE_INCREMENT NONE
+
+
 

@@ -23,7 +23,7 @@ firefox
 cookies manager firebug poster selenium ide tamperdata
 
 eclipse
-subclipse objectaid memory analyzer m2e jvm monitor
+subclipse objectaid memory analyzer jvm monitor
 findbugs git eclemma 
 
 
