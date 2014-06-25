@@ -1,6 +1,7 @@
 tools
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
+http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
 
 craft
 http://www.takipiblog.com/2014/06/18/42-newsletters-for-developers-the-ultimate-list/
@@ -159,6 +160,11 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
+
+
+https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
+http://angularjs.io/6-rules-for-mastering-angularjs/
+http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
 https://browserhacker.com/toc/toc_index.html
 http://techarena51.com/index.php/linux-memory-usage/
@@ -439,6 +445,7 @@ http://www.hubberspot.com/2012/12/how-to-implement-dynamic-proxy-design.html
 patterns
 http://jlordiales.wordpress.com/2012/12/13/the-builder-pattern-in-practice/
 http://www.dzone.com/links/r/bridge_design_pattern_in_java_2.html
+http://www.programcreek.com/java-design-patterns-in-stories/
 
 hibernate caching
 http://apmblog.compuware.com/2009/02/16/understanding-caching-in-hibernate-part-one-the-session-cache/
@@ -527,6 +534,7 @@ http://i-programmer.info/programming/theory/6431-functional-and-dysfunctional-pr
 hazelcast
 http://www.dzone.com/links/r/recommended_viewingdemo_hazelcasts_distributed_ja.html
 http://www.data4j.org/distributed-spring-beans-via-infinispan/
+http://darylmathison.wordpress.com/2014/06/22/beginners-guide-to-hazelcast-part-3/
 
 bootstrap
 http://getbootstrap.com/

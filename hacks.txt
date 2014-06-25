@@ -1,3 +1,6 @@
+LD_LIBRARY_PATH="/lib/:/usr/local/curl/lib"
+export LD_LIBRARY_PATH 
+
 post-receive
 curl -k https://raoul-ci/jenkins/git/notifyCommit?url=git@raoul-ci:/git/tracker.git
 
