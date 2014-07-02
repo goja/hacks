@@ -2,8 +2,11 @@ tools
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
 http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
+https://github.com/kahun/awesome-sysadmin
 
 craft
+http://java.dzone.com/articles/you-want-become-software
+http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects
 http://www.takipiblog.com/2014/06/18/42-newsletters-for-developers-the-ultimate-list/
 http://javarevisited.blogspot.sg/2014/05/10-articles-every-programmer-must-read.html
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
@@ -29,6 +32,7 @@ https://github.com/mitchellh/vagrant/issues/1446
 https://blog.codecentric.de/en/2014/01/lightweight-virtual-machines-made-simple-docker-run-100-virtual-maschines/
 http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/
 https://github.com/dotless-de/vagrant-vbguest
+http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
 
 mysql
 http://shanto.me/how-to-see-currently-running-mysql-queries/
@@ -124,6 +128,7 @@ security
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
 http://spenserj.com/blog/2013/07/15/securing-a-linux-server/
 http://blog.smartbear.com/security/your-death-by-kerberos/
+http://umeshagunasinghe.blogspot.in/2014/06/saml2-sso-with-is-500.html
 
 tomcat
 http://www.coolestguyplanettech.com/redirecting-http-https-tomcat/
@@ -142,6 +147,7 @@ http://jaxenter.com/advanced-mysql-query-tuning-49150.html
 
 algorithms
 http://algs4.cs.princeton.edu/code/
+http://bost.ocks.org/mike/algorithms/
 
 collaboration
 https://softwaremill.com/online-meeting-that-works/
@@ -162,6 +168,15 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
+http://www.informit.com/articles/article.aspx?p=2221791
+http://syntx.io/
+http://www.itsprite.com/
+https://blog.logentries.com/2014/06/smart-integration-testing/
+http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
+http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
+http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
+http://ajenti.org/
+http://vimawesome.com/
 https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
 http://angularjs.io/6-rules-for-mastering-angularjs/
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
