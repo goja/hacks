@@ -33,6 +33,7 @@ https://blog.codecentric.de/en/2014/01/lightweight-virtual-machines-made-simple-
 http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/
 https://github.com/dotless-de/vagrant-vbguest
 http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
+http://www.mattstine.com/microservices
 
 mysql
 http://shanto.me/how-to-see-currently-running-mysql-queries/
@@ -48,6 +49,7 @@ http://examples.javacodegeeks.com/enterprise-java/rest/jersey/json-example-with-
 http://blog.eviac.com/2013/11/restful-web-services-with-java.html
 
 spring mvc
+https://raymondhlee.wordpress.com/2011/06/08/using-initbinder-in-spring-3-controller/
 https://hop2croft.wordpress.com/2011/07/06/jpa-basic-example-with-entitymanager-spring-and-maven/
 http://www.programsji.com/spring/crud
 http://examples.javacodegeeks.com/enterprise-java/maven/create-web-application-project-with-maven-example/
@@ -131,6 +133,7 @@ http://blog.smartbear.com/security/your-death-by-kerberos/
 http://umeshagunasinghe.blogspot.in/2014/06/saml2-sso-with-is-500.html
 
 tomcat
+http://blog.markshead.com/1129/connecting-visual-vm-to-tomcat-7/
 http://www.coolestguyplanettech.com/redirecting-http-https-tomcat/
 http://java.dzone.com/articles/how-configure-tomcatjboss-and
 

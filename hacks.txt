@@ -1,3 +1,10 @@
+<Listener className="org.apache.catalina.mbeans.JmxRemoteLifecycleListener" rmiRegistryPortPlatform="8055" rmiServerPortPlatform="10002" />
+CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m \
+-Dcom.sun.management.jmxremote \
+-Dcom.sun.management.jmxremote.authenticate=false \
+-Dcom.sun.management.jmxremote.ssl=false \
+-Djava.rmi.server.hostname=192.168.33.50"
+
 identity & access management
 provisioning automation
 performance & availability monitoring
@@ -9,7 +16,7 @@ LD_LIBRARY_PATH="/lib/:/usr/local/curl/lib"
 export LD_LIBRARY_PATH 
 
 post-receive
-curl -k https://raoul-ci/jenkins/git/notifyCommit?url=git@raoul-ci:/git/tracker.git
+curl -k https://raoul-wp/jenkins/git/notifyCommit?url=git@raoul-wp:/git/tracker.git
 
 WARNING: 'aclocal-1.13' is missing on your system.
 aclocal && libtoolize –-force && autoreconf

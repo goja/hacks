@@ -90,3 +90,10 @@ ALL PERSIST MERGE REMOVE REFRESH DETACH
 
 
 
+AOP
+aspect joinpoint advice pointcut introduction target proxy weaving
+before after returning throwing finally around
+
+<aop:aspectj-autoproxy/>
+@Aspect @Pointcut @Before @AfterRetruning @AfterThrowing @After @Around
+
