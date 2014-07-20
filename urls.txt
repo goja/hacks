@@ -3,6 +3,7 @@ http://smartbear.com/products/
 http://java-source.net/open-source/profilers
 http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
 https://github.com/kahun/awesome-sysadmin
+http://namingschemes.com/
 
 craft
 http://java.dzone.com/articles/you-want-become-software
@@ -21,7 +22,7 @@ https://github.com/thomasdavis/best-practices
 http://server.dzone.com/articles/best-best-practices-ever
 http://java.dzone.com/articles/10-subtle-best-practices-when
 http://alfasin.com/20-tips-for-becoming-a-better-programmer/
-http://zach-adams.com/2014/05/music-to-listen-to-while-coding/
+http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -81,6 +82,7 @@ http://www.nearform.com/nodecrunch/?p=109#.UnujOj_CeaA
 http://uaihebert.com/complete-web-application-angular-twitter-bootstrap-spring-mvc-data-and-security/
 http://java.dzone.com/articles/java-enterprise-software
 http://www.methodsandtools.com/archive/onionsoftwarearchitecture.php
+http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system
 
 snippets
 http://www.jacopretorius.net/2013/12/prevent-a-user-navigating-away-from-a-page-with-unsaved-changes.html
@@ -171,6 +173,22 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 
 
+https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
+http://jaxenter.com/cracking-microservices-practices-50692.html
+http://java.dzone.com/articles/5-quick-points-about-threads
+http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
+http://shipilev.net/blog/2014/jmm-pragmatics/
+http://tutorials.techmytalk.com/2014/06/02/java-interview-reference-guide-part-2/
+http://javarevisited.blogspot.sg/2012/03/10-object-oriented-design-principles.html
+blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
+https://realworldocaml.org/v1/en/html/index.html
+http://sysadmincasts.com/
+http://javarevisited.blogspot.sg/2014/07/top-5-java-performance-tuning-books.html
+http://mnx.io/blog/a-proper-server-naming-scheme/
+http://blog.fanout.io/2014/06/24/you-might-not-need-a-websocket/
+http://java.dzone.com/articles/common-mistakes-when-using
+http://www.javatpoint.com/corejava-interview-questions
+https://bartaz.github.io/impress.js/#/overview
 http://www.informit.com/articles/article.aspx?p=2221791
 http://syntx.io/
 http://www.itsprite.com/
@@ -388,6 +406,7 @@ ux
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
 unix
+http://cfenollosa.com/misc/tricks.txt?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 http://www.coolcoder.in/2014/03/20-useful-lesser-known-commands-for.htmlahttps://svn.campuseai.org/nexus/content/groups/public
 http://kkovacs.eu/cool-but-obscure-unix-tools/
 http://www.danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands

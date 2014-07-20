@@ -1,3 +1,9 @@
+Thread.currentThread().getStackTrace()[0].getMethodName();
+
+SHOW ENGINE INNODB STATUS
+
+vb.customize ["modifyvm", :id, "--cpuexecutioncap", "50"]
+
 <Listener className="org.apache.catalina.mbeans.JmxRemoteLifecycleListener" rmiRegistryPortPlatform="8055" rmiServerPortPlatform="10002" />
 CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m \
 -Dcom.sun.management.jmxremote \
@@ -79,6 +85,8 @@ bind '"\e[B":history-search-forward'
 
 PS1='\u@\h \W \$ '
 export PS1
+
+export HISTSIZE=2000
 
 [base-local]
 name=CentOS 6.4 x86_64 base

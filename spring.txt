@@ -45,6 +45,8 @@ MVC
 @RequestParam("categoryId") Long categoryId
 @ModelAttribute on method & as parameter
 @SessionAttributes
+@ResponseBody @RequestBody
+@NumberFormat @DateTimeFormat
 
 
 VALIDATION
@@ -90,10 +92,18 @@ ALL PERSIST MERGE REMOVE REFRESH DETACH
 
 
 
-AOP
+Spring AOP
 aspect joinpoint advice pointcut introduction target proxy weaving
-before after returning throwing finally around
 
 <aop:aspectj-autoproxy/>
 @Aspect @Pointcut @Before @AfterRetruning @AfterThrowing @After @Around
+execution within this target args @target @args @within @annotation bean
+kinded scoping contextual
+@DeclareParents
+final methods cannot be advised
+non-spring classes cannot be used
+
+AspectJ AOP
+@Configurable @EnableSpringConfigured/@Component?
+
 
