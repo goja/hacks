@@ -50,7 +50,7 @@ http://examples.javacodegeeks.com/enterprise-java/rest/jersey/json-example-with-
 http://blog.eviac.com/2013/11/restful-web-services-with-java.html
 
 spring mvc
-https://raymondhlee.wordpress.com/2011/06/08/using-initbinder-in-spring-3-controller/
+
 https://hop2croft.wordpress.com/2011/07/06/jpa-basic-example-with-entitymanager-spring-and-maven/
 http://www.programsji.com/spring/crud
 http://examples.javacodegeeks.com/enterprise-java/maven/create-web-application-project-with-maven-example/
@@ -169,10 +169,16 @@ aclocal
 https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
 
 
+big data
+https://snap.stanford.edu/data/
 
 
 
 
+
+http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
+http://natureofcode.com/book/introduction/
+http://www.petrikainulainen.net/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://jaxenter.com/cracking-microservices-practices-50692.html
 http://java.dzone.com/articles/5-quick-points-about-threads
@@ -202,7 +208,7 @@ https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
 http://angularjs.io/6-rules-for-mastering-angularjs/
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
-https://browserhacker.com/toc/toc_index.html
+
 http://techarena51.com/index.php/linux-memory-usage/
 http://openbookproject.net/thinkcs/python/english2e/
 http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/
