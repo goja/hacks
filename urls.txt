@@ -4,6 +4,8 @@ http://java-source.net/open-source/profilers
 http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
 https://github.com/kahun/awesome-sysadmin
 http://namingschemes.com/
+http://www.freshtechapps.com/top-6-must-have-windows-software-in-2014/
+http://codegeekz.com/20-essential-tools-for-coders/
 
 craft
 http://java.dzone.com/articles/you-want-become-software
@@ -38,6 +40,7 @@ http://www.mattstine.com/microservices
 
 mysql
 http://shanto.me/how-to-see-currently-running-mysql-queries/
+http://blog.marceloaltmann.com/mysql-fabric-installing-instalar/
 
 rest
 http://java.dzone.com/articles/rest-api-best-practices
@@ -176,6 +179,14 @@ https://snap.stanford.edu/data/
 
 
 
+
+http://blog.cegeka.be/2014/07/parallel-processing-spring-batch/
+http://javarevisited.blogspot.sg/2012/05/10-points-about-class-file-in-java.html
+http://java.dzone.com/articles/four-best-refactorings-0?mz=38541-devops
+http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
+http://java.dzone.com/articles/part-1-getting-started-ansible
+http://java.dzone.com/articles/part-2-deploying-applications
+http://java.dzone.com/articles/anatomy-devops-orchestration
 http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
 http://www.petrikainulainen.net/
@@ -412,6 +423,7 @@ ux
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
 unix
+http://www.revsys.com/writings/quicktips/ssh-tunnel.html
 http://cfenollosa.com/misc/tricks.txt?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
 http://www.coolcoder.in/2014/03/20-useful-lesser-known-commands-for.htmlahttps://svn.campuseai.org/nexus/content/groups/public
 http://kkovacs.eu/cool-but-obscure-unix-tools/
@@ -428,6 +440,9 @@ http://www.coolcoder.in/2014/02/track-each-and-every-process-with.html
 http://crybit.com/lsof-command-usages/
 http://www.coolcoder.in/2014/02/how-to-change-hostname-ip-address-and.html
 http://www.coolcoder.in/2014/02/10-du-disk-usage-command-examples-to.html
+http://pastebin.com/yGmGiDQX
+http://www.sitepoint.com/15-little-known-unix-commands/
+http://blog.scoutapp.com/articles/2014/07/31/the_slow_server_flow_chart
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
