@@ -1,3 +1,16 @@
+git tag -d 12345
+git push origin :refs/tags/12345
+
+>"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:n
+"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s1TVn
+"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s1THn
+"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s2THn
+ /cmd @startup.txt
+
+
+@Query("SELECT t FROM Todo t where t.title=:searchTerm")
+public List<Todo> search(@Param("searchTerm") String searchTerm)
+
 Thread.currentThread().getStackTrace()[0].getMethodName();
 
 SHOW ENGINE INNODB STATUS
@@ -33,17 +46,17 @@ autossh -M 20000 -p 22 -D 1080 raoul@raoul-vm
 SET GLOBAL general_log = 'ON';
 SET GLOBAL general_log = 'OFF';
 
-git cygwin mysql virtualbox wireshark
-sourcegear diffmerge
-autohotkey ditto sysinternalssuite
+git cygwin mysql virtualbox wireshark 
+sourcegear diffmerge softerra ldap browser
+autohotkey ditto sysinternalssuite skitch
 ant jmeter maven tomcat groovy
 conemupack eclipse heidisql sublime hxden
 7zip adfssetup 
 collabnet subversion client
-cropper fiddler vagrant
+fiddler vagrant 
 
 firefox
-cookies manager firebug poster selenium ide tamperdata
+cookies manager firebug firepath restclient selenium ide tamperdata clear console
 
 eclipse
 subclipse objectaid memory analyzer jvm monitor
@@ -113,7 +126,7 @@ done
 
 ssh-copy-id -i id_rsa.pub vagrant@raoul-tomcat
 
-wget --no-check-certificate --no-cookies --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2Ftechnetwork%2Fjava%2Fjavase%2Fdownloads%2Fjdk7-downloads-1880260.html;" http://download.oracle.com/otn-pub/java/jdk/7u25-b15/jdk-7u25-linux-x64.rpm
+wget --no-check-certificate --no-cookies --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2Ftechnetwork%2Fjava%2Fjavase%2Fdownloads%2Fjdk7-downloads-1880260.html;" http://download.oracle.com/otn-pub/java/jdk/7u67-b01/jdk-7u67-linux-x64.rpm
 
 It is recommended to run two commands before you commit:
 • svn update to synchronize with the central repository. If any of your changes conflict with changes made to the repository, you will resolve these before you commit.
@@ -249,16 +262,5 @@ jQuery(.'classname').hide() -- uses jQuery 1.2.6
 
 
 
-
-liferay portlet does not deploy
-
-1. stop portal
-
-2. delete all of what is inside temp and work -- but be sure that those two dirs are still in place
-
-3. start portal
-let it start up completely to finish.
-
-4. copy war into deploy dir as normal.
 
 

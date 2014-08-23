@@ -3,11 +3,11 @@
         <filter-class>org.jasig.cas.client.authentication.AuthenticationFilter</filter-class>
         <init-param>
             <param-name>casServerLoginUrl</param-name>
-            <param-value>https://raoul-tomcat/cas/login</param-value>
+            <param-value>https://cas1-test.campus.bridgew.edu/cas/login</param-value>
         </init-param>
         <init-param>
             <param-name>serverName</param-name>
-            <param-value>https://raoul-test</param-value>
+            <param-value>https://qlsso-test</param-value>
         </init-param>
     </filter>
 
@@ -16,11 +16,11 @@
         <filter-class>org.jasig.cas.client.validation.Cas20ProxyReceivingTicketValidationFilter</filter-class>
         <init-param>
             <param-name>casServerUrlPrefix</param-name>
-            <param-value>https://raoul-tomcat/cas</param-value>
+            <param-value>https://cas1-test.campus.bridgew.edu/cas</param-value>
         </init-param>
         <init-param>
             <param-name>serverName</param-name>
-            <param-value>https://raoul-test</param-value>
+            <param-value>https://qlsso-test</param-value>
         </init-param>
     </filter>
 

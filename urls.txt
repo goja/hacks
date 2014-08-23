@@ -1,3 +1,9 @@
+http://projects.apache.org/indexes/category.html
+http://www.jboss.org/projects/
+http://wso2.com/products/
+http://spring.io/projects
+
+
 tools
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
@@ -6,6 +12,7 @@ https://github.com/kahun/awesome-sysadmin
 http://namingschemes.com/
 http://www.freshtechapps.com/top-6-must-have-windows-software-in-2014/
 http://codegeekz.com/20-essential-tools-for-coders/
+http://tirthalpatel.blogspot.in/2014/07/java-reverse-engineering-and-diagramming-tools.html
 
 craft
 http://java.dzone.com/articles/you-want-become-software
@@ -38,9 +45,19 @@ https://github.com/dotless-de/vagrant-vbguest
 http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
 http://www.mattstine.com/microservices
 
+sql
+http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
+http://java.dzone.com/articles/10-more-common-mistakes-java
+http://jaxenter.com/advanced-mysql-query-tuning-49150.html
+http://use-the-index-luke.com/
+
 mysql
 http://shanto.me/how-to-see-currently-running-mysql-queries/
 http://blog.marceloaltmann.com/mysql-fabric-installing-instalar/
+http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
+http://java.dzone.com/articles/mysql-transaction-isolation
+http://java.dzone.com/articles/mysql-find-and-replace-replace
+http://jmoses.co/2014/03/18/setting-up-a-mysql-cluster-with-mariadb-galera.html
 
 rest
 http://java.dzone.com/articles/rest-api-best-practices
@@ -73,8 +90,9 @@ http://www.ntu.edu.sg/home/ehchua/programming/
 https://blog.codecentric.de/en/
 http://babdev.blogspot.co.at/
 
-logstash
+logging
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
+http://www.takipiblog.com/2014/07/23/how-to-instantly-improve-your-java-logging-with-7-logback-tweaks/
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -107,6 +125,11 @@ http://www.sw-engineering-candies.com/blog-1/unit-testing-best-practices
 http://www.dzone.com/links/r/running_junit_tests_in_parallel_with_maven_3.html
 http://softwarecave.wordpress.com/2014/01/12/test-driven-development-using-junit-and-maven/
 http://www.smissltd.com/blog/selenium-webdriver
+http://javarevisited.blogspot.sg/2014/08/top-5-books-to-learn-unit-testing-junit-tdd-Java-programmers.html
+http://databene.org/contiperf.html
+http://sagarkarnati.wordpress.com/2014/05/12/unittesting-daos-with-h2-in-spring-hibernate-environment/
+http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
+https://blog.logentries.com/2014/06/smart-integration-testing/
 
 jsf
 http://www.byteslounge.com/tutorials/how-to-configure-jsf-in-tomcat-example
@@ -135,6 +158,10 @@ security
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
 http://spenserj.com/blog/2013/07/15/securing-a-linux-server/
 http://blog.smartbear.com/security/your-death-by-kerberos/
+
+
+saml
+http://blog.keksrolle.de/2010/07/27/how-to-create-a-valid-saml-2-0-assertion-with-opensaml-for-java.html
 http://umeshagunasinghe.blogspot.in/2014/06/saml2-sso-with-is-500.html
 
 tomcat
@@ -147,11 +174,6 @@ http://gridgaintech.wordpress.com/2013/09/03/gridgain-in-memory-database-plain-e
 http://anton-shakhmin.blogspot.ru/2014/01/gridgain-how-easy-imdb-can-be-to-start.html
 http://atlassian.gridgain.com/wiki/display/GG60/Home
 http://www.redhat.com/magazine/001nov04/features/vm/
-
-sql
-http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
-http://java.dzone.com/articles/10-more-common-mistakes-java
-http://jaxenter.com/advanced-mysql-query-tuning-49150.html
 
 algorithms
 http://algs4.cs.princeton.edu/code/
@@ -167,6 +189,7 @@ jpa/hibernate/jooq/
 http://www.objectdb.com/
 http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configuration/
 http://blog.jhades.org/logging-the-actualreal-sql-queries-of-a-springhibernate-application/
+http://java.dzone.com/articles/beginners-guide-jpahibernate-0
 
 aclocal
 https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
@@ -174,18 +197,28 @@ https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-
 
 big data
 https://snap.stanford.edu/data/
+https://haifengl.wordpress.com/2014/05/14/hbase-and-accumulo/
 
 
 
 
 
 
+http://www.techtalkshub.com/optimizing-linux-servers/
+http://www.java-allandsundry.com/2014/07/tailing-file-spring-websocket-sample.html
+http://java.dzone.com/articles/beginners-guide-jpahibernate-0
+http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/
+http://java.dzone.com/articles/osgi-gateway-micro-services
+http://tutorials.techmytalk.com/2013/09/14/spring-integration-a-lightweight-integration-approach/#more-498
+https://stormpath.com/blog/jersey-app-key-management/
+http://codecondo.com/9-free-books-for-learning-data-mining-data-analysis/
 http://blog.cegeka.be/2014/07/parallel-processing-spring-batch/
 http://javarevisited.blogspot.sg/2012/05/10-points-about-class-file-in-java.html
 http://java.dzone.com/articles/four-best-refactorings-0?mz=38541-devops
 http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
 http://java.dzone.com/articles/part-1-getting-started-ansible
 http://java.dzone.com/articles/part-2-deploying-applications
+http://java.dzone.com/articles/part-4-ansible-tower
 http://java.dzone.com/articles/anatomy-devops-orchestration
 http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
@@ -209,7 +242,7 @@ https://bartaz.github.io/impress.js/#/overview
 http://www.informit.com/articles/article.aspx?p=2221791
 http://syntx.io/
 http://www.itsprite.com/
-https://blog.logentries.com/2014/06/smart-integration-testing/
+
 http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
 http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
 http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
@@ -225,11 +258,11 @@ http://openbookproject.net/thinkcs/python/english2e/
 http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/
 http://contino.co.uk/use-docker-continuous-delivery-part-2/
 https://plumbr.eu/outofmemoryerror
-http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
+http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
+
 http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
 http://java.dzone.com/articles/devops-apache-tomcattomee-and?mz=110215-high-perf
-http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
-http://java.dzone.com/articles/mysql-transaction-isolation
+
 http://www.mediawiki.org/wiki/Git/Gerrit_evaluation
 http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
@@ -244,7 +277,7 @@ http://jmeter-plugins.org/
 http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
-http://sagarkarnati.wordpress.com/2014/05/12/unittesting-daos-with-h2-in-spring-hibernate-environment/
+
 http://www.sitepoint.com/time-complexity-algorithms/
 http://www.de-swaef.com/spring-data-jpa/
 http://krams915.blogspot.in/p/tutorials.html
@@ -263,7 +296,7 @@ http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
 http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 http://java.dzone.com/articles/6-simple-performance-tips-sql
-http://jmoses.co/2014/03/18/setting-up-a-mysql-cluster-with-mariadb-galera.html
+
 http://java.dzone.com/articles/hibernate-facts-integration
 http://flywaydb.org/
 http://vitalflux.com/oauth-based-authentication/
@@ -382,9 +415,6 @@ http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
 http://www.petrikainulainen.net/spring-data-jpa-tutorial
 http://stackoverflow.com/questions/3393515/jpa-how-to-have-one-to-many-relation-of-the-same-entity-type
 
-test
-http://databene.org/contiperf.html
-
 tcp/ip
 http://www.cubrid.org/blog/dev-platform/understanding-tcp-ip-network-stack/
 
@@ -401,6 +431,7 @@ http://www.adamretter.org.uk/blog/entries/LDAPTest.java
 http://java.dzone.com/articles/how-create-ldap-server-apache
 http://docs.nimsoft.com/prodhelp/en_US/NSD/6.2.2/SSOConfigGuide/index.htm?toc.htm?2010468.html
 http://www.thegeekispeak.com/ad-lds-101
+http://dotnet.dzone.com/articles/getting-started-active-0
 
 jstl
 http://www.javatips.net/blog/2011/10/jstl-functions
@@ -423,8 +454,9 @@ ux
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
 unix
+http://data.langly.fr/blackhat
 http://www.revsys.com/writings/quicktips/ssh-tunnel.html
-http://cfenollosa.com/misc/tricks.txt?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+http://cfenollosa.com/misc/tricks.txt
 http://www.coolcoder.in/2014/03/20-useful-lesser-known-commands-for.htmlahttps://svn.campuseai.org/nexus/content/groups/public
 http://kkovacs.eu/cool-but-obscure-unix-tools/
 http://www.danielmiessler.com/blog/collection-of-less-commonly-used-unix-commands
@@ -443,6 +475,7 @@ http://www.coolcoder.in/2014/02/10-du-disk-usage-command-examples-to.html
 http://pastebin.com/yGmGiDQX
 http://www.sitepoint.com/15-little-known-unix-commands/
 http://blog.scoutapp.com/articles/2014/07/31/the_slow_server_flow_chart
+http://www.itsprite.com/how-to-enablegeneratedebug-core-dump-in-linux/
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
@@ -463,6 +496,8 @@ http://agile.dzone.com/articles/how-manage-risk
 performance
 http://net.tutsplus.com/articles/web-assets-tips-for-better-organization-and-performance/
 http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
+https://github.com/puniverse/quasar
+http://trove.starlight-systems.com/
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
@@ -475,10 +510,11 @@ https://wikihub.berkeley.edu/display/calnet/How+CAS+Works
 https://wiki.jasig.org/display/CASUM/Home
 https://wiki.jasig.org/display/CASC/Home
 https://code.google.com/p/cas-client-test/
-http://www.jasig.org/cas/protocol
 https://wiki.jasig.org/display/CAS/Home
-http://www.jasig.org/cas/cas2-architecture
 http://sites.ewu.edu/jgasper/ws-federation-cas-user-manual/
+https://github.com/Unicon
+http://www.jusfortechies.com/java/cas/protocol.php
+https://github.com/Jasig/cas
 
 messaging
 http://architects.dzone.com/articles/drastically-improving-your
@@ -554,7 +590,6 @@ http://www.dzone.com/links/r/popular_web_design_trends_for_responsive_navigati.h
 
 there yet?
 http://java.dzone.com/articles/writing-and-testing-high
-Cassandra, Elasticsearch, MongoDB, Kafka, Zookeeper, and Redis
 
 http
 http://css.dzone.com/articles/http-katas
