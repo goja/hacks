@@ -1,3 +1,31 @@
+mvn archetype:generate -DgroupId= -DartifactId= -DarchetypeArtifactId=maven-archetype-webapp
+
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <SOAP-ENV:Body>
+    <samlp:Request xmlns:samlp="urn:oasis:names:tc:SAML:1.0:protocol" MajorVersion="1"
+      MinorVersion="1" RequestID="_192.168.16.51.1024506224023"
+      IssueInstant="2014-08-29T17:03:44.022Z">
+      <samlp:AssertionArtifact>
+        ST-588-OIBOFvx2CQmdCk3oeaq6-cas1-test.campus.bridgew.edu
+      </samlp:AssertionArtifact>
+    </samlp:Request>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+
+java -cp catalina.jar org.apache.catalina.util.ServerInfo
+
+console.debug(object);
+
+<filter>
+  <filter-name>CorsFilter</filter-name>
+  <filter-class>org.apache.catalina.filters.CorsFilter</filter-class>
+</filter>
+<filter-mapping>
+  <filter-name>CorsFilter</filter-name>
+  <url-pattern>/*</url-pattern>
+</filter-mapping>
+
 git tag -d 12345
 git push origin :refs/tags/12345
 
@@ -28,7 +56,7 @@ identity & access management
 provisioning automation
 performance & availability monitoring
 
-[code language="bash"]
+[code language="xml"]
 [/code]
 
 LD_LIBRARY_PATH="/lib/:/usr/local/curl/lib"
