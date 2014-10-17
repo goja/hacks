@@ -38,6 +38,7 @@ http://alfasin.com/20-tips-for-becoming-a-better-programmer/
 http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.txt
 http://java.dzone.com/articles/top-10-lists-common-java
 http://blog.codinghorror.com/a-pragmatic-quick-reference/
+http://www.starling-software.com/employment/programmer-competency-matrix.html
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -180,6 +181,7 @@ saml
 http://blog.keksrolle.de/2010/07/27/how-to-create-a-valid-saml-2-0-assertion-with-opensaml-for-java.html
 http://umeshagunasinghe.blogspot.in/2014/06/saml2-sso-with-is-500.html
 http://pushpalankajaya.blogspot.in/2014/09/how-to-write-custom-saml-sso-assertion.html
+http://saml.xml.org/saml-specifications
 
 tomcat
 http://blog.markshead.com/1129/connecting-visual-vm-to-tomcat-7/
@@ -243,6 +245,14 @@ http://www.mattstine.com/microservices
 
 
 
+
+http://opensource.com/education/13/9/back-to-school-with-open-source
+http://www.baeldung.com/guava-cache
+http://java.dzone.com/articles/developing-identity-management
+http://java.dzone.com/articles/percona-xtrabackup-225-now
+http://java.dzone.com/articles/dead-simple-configuration
+http://java.dzone.com/articles/top-10-most-popular-articles
+http://www.hyperic.com/downloads/hyperic-open-source-downloads?sid=61720
 http://www.lordofthejars.com/2014/09/apache-tomee-shrinkwrap-javaee-boot-not.html
 http://java.dzone.com/articles/15-tools-make-life-easy-java
 http://www.javais.cool/
@@ -273,7 +283,6 @@ http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
 http://www.petrikainulainen.net/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
-
 http://java.dzone.com/articles/5-quick-points-about-threads
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
@@ -291,7 +300,6 @@ https://bartaz.github.io/impress.js/#/overview
 http://www.informit.com/articles/article.aspx?p=2221791
 http://syntx.io/
 http://www.itsprite.com/
-
 http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
 http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
 http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
@@ -303,7 +311,6 @@ http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
 http://techarena51.com/index.php/linux-memory-usage/
 http://openbookproject.net/thinkcs/python/english2e/
-
 https://plumbr.eu/outofmemoryerror
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
 http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
@@ -447,6 +454,7 @@ gc
 http://www.cubrid.org/blog/tags/Garbage%20Collection/
 http://insightfullogic.com/blog/2013/may/7/garbage-collection-java-3/
 http://michalplachta.com/garbage-collection-101/
+http://javapapers.com/java/how-java-garbage-collection-works/
 
 jms
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
@@ -475,6 +483,7 @@ http://docs.nimsoft.com/prodhelp/en_US/NSD/6.2.2/SSOConfigGuide/index.htm?toc.ht
 http://www.thegeekispeak.com/ad-lds-101
 http://dotnet.dzone.com/articles/getting-started-active-0
 http://www-01.ibm.com/support/docview.wss?uid=swg21290631
+http://www.forumeasy.com/forums/thread.jsp?tid=135257584774&fid=ldapprof9&highlight=How+enable+SSL+ADLDS+instance+running+Windows
 
 jstl
 http://www.javatips.net/blog/2011/10/jstl-functions

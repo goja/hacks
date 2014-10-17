@@ -1,3 +1,14 @@
+    <cas:attributes>
+        <c:forEach var="attr"
+                   items="${assertion.chainedAuthentications[fn:length(assertion.chainedAuthentications)-1].principal.attributes}"
+                   varStatus="loopStatus" begin="0"
+                   end="${fn:length(assertion.chainedAuthentications[fn:length(assertion.chainedAuthentications)-1].principal.attributes)-1}"
+                   step="1">
+          <%-- Produce output exactly as CAS client code expects it: <cas:attrName>attrValue</cas:attrName> --%>
+          <cas:${fn:escapeXml(attr.key)}>${fn:escapeXml(attr.value)}</cas:${fn:escapeXml(attr.key)}>
+        </c:forEach>
+      </cas:attributes>
+
 mvn archetype:generate -DgroupId= -DartifactId= -DarchetypeArtifactId=maven-archetype-webapp
 
 <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
@@ -5,15 +16,13 @@ mvn archetype:generate -DgroupId= -DartifactId= -DarchetypeArtifactId=maven-arch
   <SOAP-ENV:Body>
     <samlp:Request xmlns:samlp="urn:oasis:names:tc:SAML:1.0:protocol" MajorVersion="1"
       MinorVersion="1" RequestID="_192.168.16.51.1024506224023"
-      IssueInstant="2014-08-29T17:03:44.022Z">
+      IssueInstant="2014-10-04T17:03:44.022Z">
       <samlp:AssertionArtifact>
-        ST-588-OIBOFvx2CQmdCk3oeaq6-cas1-test.campus.bridgew.edu
+        ST-370-Lnv1EpsoWK6klaVMOOxg-cas1-test.campus.bridgew.edu
       </samlp:AssertionArtifact>
     </samlp:Request>
   </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
-
-java -cp catalina.jar org.apache.catalina.util.ServerInfo
 
 console.debug(object);
 
