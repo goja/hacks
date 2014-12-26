@@ -6,6 +6,10 @@ http://www.ibm.com/developerworks/topics/
 http://dzone.com/zb/products
 
 
+resources
+http://www.it-ebooks.info/
+
+
 tools
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
@@ -39,6 +43,8 @@ http://web.archive.org/web/20091003023412/http://tothink.com/mnemonic/wordlist.t
 http://java.dzone.com/articles/top-10-lists-common-java
 http://blog.codinghorror.com/a-pragmatic-quick-reference/
 http://www.starling-software.com/employment/programmer-competency-matrix.html
+http://www.mastertheboss.com/
+http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -50,7 +56,13 @@ https://blog.codecentric.de/en/2014/01/lightweight-virtual-machines-made-simple-
 http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/
 https://github.com/dotless-de/vagrant-vbguest
 http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
+http://zeroturnaround.com/rebellabs/docker-for-java-developers-how-to-sandbox-your-app-in-a-clean-environment/
+http://www.drissamri.be/blog/continuous-delivery/introducing-docker-java-developer/
+http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/
 
+javascript
+http://berzniz.com/post/68001735765/javascript-hacks-for-hipsters
+http://zeroturnaround.com/rebellabs/javascript-confessions-12-js-technologies-im-not-ashamed-of-loving/
 
 sql
 http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
@@ -70,6 +82,7 @@ http://jmoses.co/2014/03/18/setting-up-a-mysql-cluster-with-mariadb-galera.html
 rest
 http://java.dzone.com/articles/rest-api-best-practices
 http://codeplanet.io/principles-good-restful-api-design/
+https://github.com/interagent/http-api-design
 http://examples.javacodegeeks.com/enterprise-java/rest/restful-java-client-with-java-net-url/
 http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/xml-example-with-resteasy-jaxb/
 http://examples.javacodegeeks.com/enterprise-java/rest/jersey/xml-example-with-jersey-jaxb/
@@ -99,11 +112,14 @@ http://www.ntu.edu.sg/home/ehchua/programming/
 https://blog.codecentric.de/en/
 http://babdev.blogspot.co.at/
 http://www.drdobbs.com/
+http://vladmihalcea.com/
+http://www.baeldung.com/
 
 logging
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
 http://www.takipiblog.com/2014/07/23/how-to-instantly-improve-your-java-logging-with-7-logback-tweaks/
 http://www.radcortez.com/monitoring-and-filtering-application-log-to-mail-with-log4j/
+https://blog.codecentric.de/en/2014/10/log-management-spring-boot-applications-logstash-elastichsearch-kibana/
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -111,10 +127,12 @@ http://www.aosabook.org/en/index.html
 http://www.dzone.com/links/r/4_great_programming_architectures_you_should_know.html
 http://www.programcreek.com/2011/08/the-most-widely-used-java-apis/
 http://www.nearform.com/nodecrunch/?p=109#.UnujOj_CeaA
-http://uaihebert.com/complete-web-application-angular-twitter-bootstrap-spring-mvc-data-and-security/
+https://leanpub.com/software-architecture-for-developers/read#c4
+
 http://java.dzone.com/articles/java-enterprise-software
 http://www.methodsandtools.com/archive/onionsoftwarearchitecture.php
 http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system
+http://www.java-allandsundry.com/2014/11/externalizing-session-state-for-spring.html
 
 snippets
 http://www.jacopretorius.net/2013/12/prevent-a-user-navigating-away-from-a-page-with-unsaved-changes.html
@@ -220,6 +238,7 @@ https://haifengl.wordpress.com/2014/05/14/hbase-and-accumulo/
 http://datavu.blogspot.in/2014/08/useful-unix-commands-for-exploring-data.html
 http://java.dzone.com/articles/io-files-arent-files
 https://opensource.com/life/14/8/intro-apache-hadoop-big-data
+http://java.dzone.com/articles/getting-started-hadoop
 
 load testing
 http://techblog.bozho.net/?p=1535
@@ -245,7 +264,14 @@ http://www.mattstine.com/microservices
 
 
 
-
+http://dcg.ethz.ch/lectures/podc_allstars
+http://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
+http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
+http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong
+http://opensource.com/business/13/11/selinux-policy-guide
+http://opensource.com/resources/projects-and-applications
+http://www.infoworld.com/article/2843821/google-go/10-open-source-projects-google-go.html#tk.IFWNLE__2014-11-14
+http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/
 http://opensource.com/education/13/9/back-to-school-with-open-source
 http://www.baeldung.com/guava-cache
 http://java.dzone.com/articles/developing-identity-management
@@ -266,7 +292,6 @@ http://zeroturnaround.com/rebellabs/the-6-built-in-jdk-tools-the-average-develop
 http://www.techtalkshub.com/optimizing-linux-servers/
 http://www.java-allandsundry.com/2014/07/tailing-file-spring-websocket-sample.html
 http://java.dzone.com/articles/beginners-guide-jpahibernate-0
-http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/
 http://java.dzone.com/articles/osgi-gateway-micro-services
 http://tutorials.techmytalk.com/2013/09/14/spring-integration-a-lightweight-integration-approach/#more-498
 https://stormpath.com/blog/jersey-app-key-management/
@@ -329,18 +354,20 @@ http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-e
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
 http://www.sitepoint.com/time-complexity-algorithms/
-http://www.de-swaef.com/spring-data-jpa/
+
 http://krams915.blogspot.in/p/tutorials.html
 http://blog.paralleluniverse.co/2014/05/01/modern-java/
 http://java.dzone.com/articles/hibernate-debugging-where-does
 http://www.roussos.cc/2014/05/08/free-your-android/
+http://opensource.com/resources/what-is-openstack
 http://opensource.com/business/14/5/new-openstack-tutorials
+http://opensource.com/business/14/11/8-new-tips-getting-things-done-openstack
 http://www.javacodegeeks.com/2014/05/spring-interview-questions-and-answers.html
 http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
 http://info.predictiveedge.com/a-startups-guide-to-time-hacking
 http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html
 http://www.programming-free.com/2014/04/spring-mvc-consuming-restful-web-services.html
-http://geekabyte.blogspot.in/2014/04/configuring-spring-data-jpa.html
+
 http://www.baeldung.com/hibernate-pagination
 http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
@@ -464,6 +491,9 @@ jpa
 http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
 http://www.petrikainulainen.net/spring-data-jpa-tutorial
 http://stackoverflow.com/questions/3393515/jpa-how-to-have-one-to-many-relation-of-the-same-entity-type
+http://www.de-swaef.com/spring-data-jpa/
+http://geekabyte.blogspot.in/2014/04/configuring-spring-data-jpa.html
+http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-getting-the-required-dependencies/
 
 tcp/ip
 http://www.cubrid.org/blog/dev-platform/understanding-tcp-ip-network-stack/
@@ -484,6 +514,7 @@ http://www.thegeekispeak.com/ad-lds-101
 http://dotnet.dzone.com/articles/getting-started-active-0
 http://www-01.ibm.com/support/docview.wss?uid=swg21290631
 http://www.forumeasy.com/forums/thread.jsp?tid=135257584774&fid=ldapprof9&highlight=How+enable+SSL+ADLDS+instance+running+Windows
+http://technet.microsoft.com/en-us/library/ee913566%28WS.10%29.aspx
 
 jstl
 http://www.javatips.net/blog/2011/10/jstl-functions
@@ -504,6 +535,7 @@ http://www.thegeekstuff.com/2013/11/reverse-ssh-tunnel/
 
 ux
 http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?hn=1
 
 unix
 http://data.langly.fr/blackhat
@@ -541,7 +573,7 @@ http://stackoverflow.com/questions/6755180/java-ssl-connect-add-server-cert-to-k
 http://docs.oracle.com/javase/6/docs/api/java/security/KeyStore.html#store%28java.io.OutputStream,%20char%5b%5d%29
 http://www.itworld.com/development/79351/how-configure-tomcat-always-require-https
 
-sql
+sql`
 http://java.dzone.com/articles/10-common-mistakes-java
 http://java.dzone.com/articles/everything-you-wanted-know
 
@@ -553,6 +585,8 @@ http://net.tutsplus.com/articles/web-assets-tips-for-better-organization-and-per
 http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
 https://github.com/puniverse/quasar
 http://trove.starlight-systems.com/
+http://www.infoq.com/articles/Tuning-Java-Servers
+https://github.com/peter-lawrey/Java-Chronicle
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
@@ -713,6 +747,7 @@ http://software.dzhuvinov.com/cors-filter-installation.html
 
 mongo
 http://java.dzone.com/articles/getting-started-mongodb-and-3
+http://www.petrikainulainen.net/programming/spring-framework/creating-a-rest-api-with-spring-boot-and-mongodb/
 
 acer
 http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utility/
@@ -720,3 +755,5 @@ http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utili
 messaging
 http://syntx.io/getting-started-with-rabbitmq-using-the-spring-framework/
 
+
+http://www.mental-math-trainer.com

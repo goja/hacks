@@ -74,7 +74,7 @@ readOnly timeout rollbackFor/noRollbackFor
 
 
 JPA
-@Entity @EntityListeners @Table @Id @GeneratedValue @Column @JoinColumn
+@Entity @EntityListeners @Table @Id @GeneratedValue @Column @JoinColumn @Access
 @Enumerated @Basic @Lob @JoinTable
 @OneToOne @OneToMany @ManyToOne @ManyToMany
 @MappedSuperclass @Version
@@ -108,6 +108,11 @@ AspectJ AOP
 
 
 Web Services
+port type java interface service endpoint interface @WebService @SOAPBinding
+operation method in sei @WebMethod
+message input output fault:exception
+@WebParam @WebResult @RequestWrapper @ResponseWrapper
+
 
 
 
