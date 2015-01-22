@@ -23,6 +23,7 @@ http://thedesignpixel.com/best-database-management-tools-for-web-developers.html
 http://www.infoworld.com/article/2683857/network-monitoring/article.html
 
 craft
+http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014
 http://java.dzone.com/articles/you-want-become-software
 http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects
 http://www.takipiblog.com/2014/06/18/42-newsletters-for-developers-the-ultimate-list/
@@ -45,6 +46,7 @@ http://blog.codinghorror.com/a-pragmatic-quick-reference/
 http://www.starling-software.com/employment/programmer-competency-matrix.html
 http://www.mastertheboss.com/
 http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
+http://blog.slideshare.net/2015/01/06/upload-campaign-your-best-life-hacks/
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -59,6 +61,8 @@ http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
 http://zeroturnaround.com/rebellabs/docker-for-java-developers-how-to-sandbox-your-app-in-a-clean-environment/
 http://www.drissamri.be/blog/continuous-delivery/introducing-docker-java-developer/
 http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/
+http://opensource.com/business/14/7/guide-docker
+http://technologyconversations.com/category/continuous-integration-delivery-and-deployment/
 
 javascript
 http://berzniz.com/post/68001735765/javascript-hacks-for-hipsters
@@ -78,6 +82,7 @@ http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-in
 http://java.dzone.com/articles/mysql-transaction-isolation
 http://java.dzone.com/articles/mysql-find-and-replace-replace
 http://jmoses.co/2014/03/18/setting-up-a-mysql-cluster-with-mariadb-galera.html
+http://vladmihalcea.com/2014/12/23/a-beginners-guide-to-transaction-isolation-levels-in-enterprise-java/
 
 rest
 http://java.dzone.com/articles/rest-api-best-practices
@@ -115,11 +120,21 @@ http://www.drdobbs.com/
 http://vladmihalcea.com/
 http://www.baeldung.com/
 
+threads
+http://blog.takipi.com/java-thread-magic-tricks/
+http://java.dzone.com/articles/painless-introduction-javas-threadlocal-storage
+http://java.dzone.com/articles/5-quick-points-about-threads
+http://blog.javabenchmark.org/2013/04/check-that-your-code-is-thread-safe.html
+
 logging
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
 http://www.takipiblog.com/2014/07/23/how-to-instantly-improve-your-java-logging-with-7-logback-tweaks/
 http://www.radcortez.com/monitoring-and-filtering-application-log-to-mail-with-log4j/
 https://blog.codecentric.de/en/2014/10/log-management-spring-boot-applications-logstash-elastichsearch-kibana/
+https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-and-visualize-logs-on-ubuntu-14-04
+http://www.javacodegeeks.com/2014/03/5-techniques-to-improve-your-server-logging.html
+http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
+http://www.thegeekstuff.com/2014/12/logstash-setup/
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -145,7 +160,7 @@ http://jlunaquiroga.blogspot.in/2013/08/java-collections-framework-part-7.html
 http://javarevisited.blogspot.sg/2013/10/what-is-priorityqueue-data-structure-java-example-tutorial.html
 http://java.dzone.com/articles/javalangoutofmemory-permgen
 http://www.dzone.com/links/r/top_10_questions_for_java_regular_expression.html
-http://java.dzone.com/articles/painless-introduction-javas-threadlocal-storage
+
 http://www.programcreek.com/simple-java/
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-nullpointerexception-how-to-handle-null-pointer-exception/
 
@@ -193,7 +208,20 @@ http://securitywing.com/8-open-source-web-application-security-testing-tools/
 http://crazygui.wordpress.com/2014/08/29/secure-rest-services-using-spring-security/
 http://java.dzone.com/articles/setting-java-applications
 http://java.dzone.com/articles/10-things-make-your-app-secure
-
+http://kielczewski.eu/2014/12/spring-boot-security-application/
+http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
+http://www.tecmint.com/linux-server-hardening-security-tips/
+http://www.baeldung.com/spring-security-basic-authentication
+http://code.google.com/p/owasp-esapi-java/
+http://css.dzone.com/articles/attacking-web-applications
+https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet
+https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+https://www.owasp.org/index.php/OWASP_Guide_Project
+https://www.owasp.org/index.php/OWASP_Testing_Project
+http://code.naishe.in/2011/07/looks-like-article-no-more-unable-to.html
+http://stackoverflow.com/questions/6755180/java-ssl-connect-add-server-cert-to-keystore-programatically
+http://docs.oracle.com/javase/6/docs/api/java/security/KeyStore.html#store%28java.io.OutputStream,%20char%5b%5d%29
+http://www.itworld.com/development/79351/how-configure-tomcat-always-require-https
 
 saml
 http://blog.keksrolle.de/2010/07/27/how-to-create-a-valid-saml-2-0-assertion-with-opensaml-for-java.html
@@ -262,8 +290,8 @@ http://www.mattstine.com/microservices
 
 
 
-
-
+http://www.corejavainterviewquestions.com/idiots-guide-big-o/
+http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://dcg.ethz.ch/lectures/podc_allstars
 http://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
 http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
@@ -308,7 +336,7 @@ http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
 http://www.petrikainulainen.net/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
-http://java.dzone.com/articles/5-quick-points-about-threads
+
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
 http://tutorials.techmytalk.com/2014/06/02/java-interview-reference-guide-part-2/
@@ -326,12 +354,10 @@ http://www.informit.com/articles/article.aspx?p=2221791
 http://syntx.io/
 http://www.itsprite.com/
 http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
-http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
 http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
 http://ajenti.org/
 http://vimawesome.com/
 https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
-http://angularjs.io/6-rules-for-mastering-angularjs/
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
 http://techarena51.com/index.php/linux-memory-usage/
@@ -344,7 +370,6 @@ http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
 http://java.dzone.com/articles/performance-tuning
 http://java67.blogspot.sg/2012/09/what-is-copyonwritearraylist-in-java-example-vs-arraylist.html
-http://wildlyinaccurate.com/a-hackers-guide-to-git
 http://java.dzone.com/articles/spring-31-caching-and-ehcache
 https://code.google.com/p/guava-libraries/wiki/GuavaExplained
 https://inventropy.us/blog/50-linux-resources-for-developers/
@@ -354,7 +379,6 @@ http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-e
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
 http://www.sitepoint.com/time-complexity-algorithms/
-
 http://krams915.blogspot.in/p/tutorials.html
 http://blog.paralleluniverse.co/2014/05/01/modern-java/
 http://java.dzone.com/articles/hibernate-debugging-where-does
@@ -367,12 +391,10 @@ http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
 http://info.predictiveedge.com/a-startups-guide-to-time-hacking
 http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html
 http://www.programming-free.com/2014/04/spring-mvc-consuming-restful-web-services.html
-
 http://www.baeldung.com/hibernate-pagination
 http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
 http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
-http://java.dzone.com/articles/6-simple-performance-tips-sql
 http://java.dzone.com/articles/hibernate-facts-integration
 http://flywaydb.org/
 http://vitalflux.com/oauth-based-authentication/
@@ -388,14 +410,12 @@ http://java.dzone.com/articles/legacy-java-applications
 http://www.cubrid.org/blog/dev-platform/x86-server-virtualization-technology/
 http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding
 http://blog.scramcode.com/post/4/6-tips-to-make-eclipse-lighter-prettier-and-more-efficient/
-http://www.tecmint.com/linux-server-hardening-security-tips/
 http://java.dzone.com/articles/how-setup-basic-authentication
 http://kim.saabye-pedersen.org/2013/06/spring-singletons-potential-source-of.html
 http://www.webdesignerdepot.com/2013/06/side-project-silver-screen-society/
 http://java.dzone.com/articles/java-api-json-processing-%E2%80%93
 http://java.dzone.com/articles/how-use-springs-java
 http://h30499.www3.hp.com/t5/HP-Software-Developers-Blog/Embedding-Jetty-in-a-Java-Main-Application/ba-p/6107503#.UcNYNpPvvmg
-http://www.findbestopensource.com/stack-detail/git-windows-stack
 http://fernandorubbo.blogspot.com.br/2013/06/embedded-war-using-gradle.html
 http://plumbr.eu/blog/why-does-my-java-process-consume-more-memory-than-xmx
 http://www.tutorialspoint.com/maven/maven_deployment_automation.htm
@@ -419,7 +439,7 @@ http://java.dzone.com/articles/mapping-software-architecture
 http://java.dzone.com/articles/lessons-learn-hibernate-core
 http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
 http://www.baeldung.com/persistence-with-spring-series/
-http://blog.javabenchmark.org/2013/04/check-that-your-code-is-thread-safe.html
+
 http://eclipsesource.com/blogs/2012/06/06/cleaner-code-with-guava-optionals-and-preconditions/
 http://www.dzone.com/links/r/maven_tutorial_2.html
 http://www.baeldung.com/spring-with-maven
@@ -445,7 +465,7 @@ http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
 http://www.kumaranuj.com/2013/05/jpa-2-understanding-relationships.html
 http://blogs.msdn.com/b/africaapps/archive/2013/05/29/application-lifecycle-management-part-1-of-5.aspx
 http://theprofessionalspoint.blogspot.in/2013/05/10-interesting-unix-commands-you-should.html
-http://www.baeldung.com/spring-security-basic-authentication
+
 http://www.coolcoder.in/2014/02/10-du-disk-usage-command-examples-to.html
 https://developers.google.com/java-dev-tools/codepro/doc/analytix
 http://java.dzone.com/articles/beginners-guide-acid-and
@@ -461,14 +481,6 @@ shell
 http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html
 http://www.tldp.org/LDP/abs/html/index.html
 
-security
-http://code.google.com/p/owasp-esapi-java/
-http://css.dzone.com/articles/attacking-web-applications
-https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet
-https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-https://www.owasp.org/index.php/OWASP_Guide_Project
-https://www.owasp.org/index.php/OWASP_Testing_Project
-
 508
 http://www.w3.org/TR/WCAG10/
 
@@ -476,6 +488,9 @@ git
 https://ochronus.com/git-tips-from-the-trenches/
 https://www.digitalocean.com/community/articles/how-to-install-git-on-a-centos-6-4-vps
 https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
+http://www.javacodegeeks.com/2014/12/implementing-the-git-flow-2.html
+http://www.findbestopensource.com/stack-detail/git-windows-stack
+http://wildlyinaccurate.com/a-hackers-guide-to-git
 
 gc
 http://www.cubrid.org/blog/tags/Garbage%20Collection/
@@ -563,19 +578,15 @@ http://www.itsprite.com/how-to-enablegeneratedebug-core-dump-in-linux/
 http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/
 http://www.thegeekstuff.com/2010/11/50-linux-commands/
 http://www.thegeekstuff.com/best-of-the-blog/
+http://www.grymoire.com/Unix/sed.html
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
 
-security
-http://code.naishe.in/2011/07/looks-like-article-no-more-unable-to.html
-http://stackoverflow.com/questions/6755180/java-ssl-connect-add-server-cert-to-keystore-programatically
-http://docs.oracle.com/javase/6/docs/api/java/security/KeyStore.html#store%28java.io.OutputStream,%20char%5b%5d%29
-http://www.itworld.com/development/79351/how-configure-tomcat-always-require-https
-
-sql`
+sql
 http://java.dzone.com/articles/10-common-mistakes-java
 http://java.dzone.com/articles/everything-you-wanted-know
+http://java.dzone.com/articles/6-simple-performance-tips-sql
 
 risk
 http://agile.dzone.com/articles/how-manage-risk
@@ -668,6 +679,7 @@ http://insightfullogic.com/blog/2013/mar/6/garbage-collection-java-2/
 
 nginx
 http://nginx.org/packages/centos/6/x86_64/RPMS/
+https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-centos-6
 
 java memory
 http://java.dzone.com/articles/monitoring-and-detecting
