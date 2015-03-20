@@ -11,6 +11,7 @@ http://www.it-ebooks.info/
 
 
 tools
+http://www.javacodegeeks.com/2015/03/take-the-intellij-challenge.html
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
 http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
@@ -47,6 +48,7 @@ http://www.starling-software.com/employment/programmer-competency-matrix.html
 http://www.mastertheboss.com/
 http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
 http://blog.slideshare.net/2015/01/06/upload-campaign-your-best-life-hacks/
+http://www.java-success.com/top-11-slacknesses-mistakes-can-come-back-bite-experienced-java-developer-java-architect/
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -289,7 +291,7 @@ http://www.mattstine.com/microservices
 
 
 
-
+http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://dcg.ethz.ch/lectures/podc_allstars
@@ -579,6 +581,7 @@ http://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/
 http://www.thegeekstuff.com/2010/11/50-linux-commands/
 http://www.thegeekstuff.com/best-of-the-blog/
 http://www.grymoire.com/Unix/sed.html
+http://vincebuffalo.com/2013/08/08/the-mighty-named-pipe.html
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
@@ -760,6 +763,7 @@ http://software.dzhuvinov.com/cors-filter-installation.html
 mongo
 http://java.dzone.com/articles/getting-started-mongodb-and-3
 http://www.petrikainulainen.net/programming/spring-framework/creating-a-rest-api-with-spring-boot-and-mongodb/
+http://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example
 
 acer
 http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utility/
