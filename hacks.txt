@@ -1,3 +1,5 @@
+-javaagent:C:\Tools\spring-loaded\springloaded-1.2.1.RELEASE.jar -noverify
+
 sudo netstat -nlp | grep 8080
 
 permitrootlogin /etc/ssh/sshd_config service sshd restart

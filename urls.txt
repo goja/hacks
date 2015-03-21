@@ -47,6 +47,7 @@ http://www.starling-software.com/employment/programmer-competency-matrix.html
 http://www.mastertheboss.com/
 http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
 http://blog.slideshare.net/2015/01/06/upload-campaign-your-best-life-hacks/
+http://java.dzone.com/articles/11-mistakes-come-back-bite
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -143,7 +144,6 @@ http://www.dzone.com/links/r/4_great_programming_architectures_you_should_know.h
 http://www.programcreek.com/2011/08/the-most-widely-used-java-apis/
 http://www.nearform.com/nodecrunch/?p=109#.UnujOj_CeaA
 https://leanpub.com/software-architecture-for-developers/read#c4
-
 http://java.dzone.com/articles/java-enterprise-software
 http://www.methodsandtools.com/archive/onionsoftwarearchitecture.php
 http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system
@@ -160,7 +160,6 @@ http://jlunaquiroga.blogspot.in/2013/08/java-collections-framework-part-7.html
 http://javarevisited.blogspot.sg/2013/10/what-is-priorityqueue-data-structure-java-example-tutorial.html
 http://java.dzone.com/articles/javalangoutofmemory-permgen
 http://www.dzone.com/links/r/top_10_questions_for_java_regular_expression.html
-
 http://www.programcreek.com/simple-java/
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-nullpointerexception-how-to-handle-null-pointer-exception/
 
@@ -336,7 +335,6 @@ http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
 http://www.petrikainulainen.net/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
-
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
 http://tutorials.techmytalk.com/2014/06/02/java-interview-reference-guide-part-2/
@@ -439,7 +437,6 @@ http://java.dzone.com/articles/mapping-software-architecture
 http://java.dzone.com/articles/lessons-learn-hibernate-core
 http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
 http://www.baeldung.com/persistence-with-spring-series/
-
 http://eclipsesource.com/blogs/2012/06/06/cleaner-code-with-guava-optionals-and-preconditions/
 http://www.dzone.com/links/r/maven_tutorial_2.html
 http://www.baeldung.com/spring-with-maven
@@ -465,7 +462,6 @@ http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
 http://www.kumaranuj.com/2013/05/jpa-2-understanding-relationships.html
 http://blogs.msdn.com/b/africaapps/archive/2013/05/29/application-lifecycle-management-part-1-of-5.aspx
 http://theprofessionalspoint.blogspot.in/2013/05/10-interesting-unix-commands-you-should.html
-
 http://www.coolcoder.in/2014/02/10-du-disk-usage-command-examples-to.html
 https://developers.google.com/java-dev-tools/codepro/doc/analytix
 http://java.dzone.com/articles/beginners-guide-acid-and
