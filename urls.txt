@@ -128,6 +128,7 @@ http://blog.takipi.com/java-thread-magic-tricks/
 http://java.dzone.com/articles/painless-introduction-javas-threadlocal-storage
 http://java.dzone.com/articles/5-quick-points-about-threads
 http://blog.javabenchmark.org/2013/04/check-that-your-code-is-thread-safe.html
+http://www.infoq.com/articles/Advanced-Java-Debugging-Techniques
 
 logging
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
@@ -289,7 +290,7 @@ http://www.mattstine.com/microservices
 
 
 
-
+http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
 http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 http://g00glen00b.be/prototyping-spring-boot-angularjs/

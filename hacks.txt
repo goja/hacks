@@ -39,7 +39,7 @@ mvn archetype:generate -DgroupId=org.goja -DartifactId=jx -DarchetypeArtifactId=
       MinorVersion="1" RequestID="_192.168.16.51.1024506224023"
       IssueInstant="2014-10-04T17:03:44.022Z">
       <samlp:AssertionArtifact>
-        ST-5-V1S4NEfurEaqQ7wF2aJm-cas1-prd.campus.bridgew.edu
+        ST-5-vsZ7gx2No5RYe6w5c6jj-raoul-cas
       </samlp:AssertionArtifact>
     </samlp:Request>
   </SOAP-ENV:Body>
