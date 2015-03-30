@@ -290,6 +290,8 @@ http://www.mattstine.com/microservices
 
 
 
+
+http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
 http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
@@ -598,6 +600,7 @@ https://github.com/puniverse/quasar
 http://trove.starlight-systems.com/
 http://www.infoq.com/articles/Tuning-Java-Servers
 https://github.com/peter-lawrey/Java-Chronicle
+http://www.javacodegeeks.com/2015/03/oracle-java-mission-control-the-ultimate-guide.html
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
