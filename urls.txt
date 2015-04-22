@@ -97,6 +97,8 @@ http://examples.javacodegeeks.com/enterprise-java/rest/jersey/xml-example-with-j
 http://examples.javacodegeeks.com/enterprise-java/rest/resteasy/json-example-with-resteasy-jackson/
 http://examples.javacodegeeks.com/enterprise-java/rest/jersey/json-example-with-jersey-jackson/
 http://blog.eviac.com/2013/11/restful-web-services-with-java.html
+www.baeldung.com/rest-api-search-language-spring-data-specifications
+http://blog.parasoft.com/top-10-api-testing-resources-of-2014
 
 spring mvc
 www.baeldung.com/spring-httpmessageconverter-rest
@@ -154,9 +156,6 @@ http://www.java-allandsundry.com/2014/11/externalizing-session-state-for-spring.
 
 snippets
 http://www.jacopretorius.net/2013/12/prevent-a-user-navigating-away-from-a-page-with-unsaved-changes.html
-
-eclipse
-http://www.dzone.com/links/r/top_5_useful_hidden_eclipse_features.html
 
 java
 http://jlunaquiroga.blogspot.in/2013/08/java-collections-framework-part-7.html
@@ -291,6 +290,9 @@ http://www.mattstine.com/microservices
 
 
 
+
+
+http://www.java-allandsundry.com/2014/10/spring-caching-abstraction-and-google.html
 http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
 http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
@@ -312,7 +314,6 @@ http://java.dzone.com/articles/dead-simple-configuration
 http://java.dzone.com/articles/top-10-most-popular-articles
 http://www.hyperic.com/downloads/hyperic-open-source-downloads?sid=61720
 http://www.lordofthejars.com/2014/09/apache-tomee-shrinkwrap-javaee-boot-not.html
-http://java.dzone.com/articles/15-tools-make-life-easy-java
 http://www.javais.cool/
 adlervermillion.com/how-to-read-a-patent
 theprogrammersparadox.blogspot.in/2014/09/estimation.html
@@ -338,7 +339,6 @@ http://java.dzone.com/articles/part-4-ansible-tower
 http://java.dzone.com/articles/anatomy-devops-orchestration
 http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
-http://www.petrikainulainen.net/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
@@ -368,7 +368,6 @@ http://openbookproject.net/thinkcs/python/english2e/
 https://plumbr.eu/outofmemoryerror
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
 http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
-http://www.mediawiki.org/wiki/Git/Gerrit_evaluation
 http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
 http://java.dzone.com/articles/performance-tuning
@@ -399,7 +398,6 @@ http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
 http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 http://java.dzone.com/articles/hibernate-facts-integration
-http://flywaydb.org/
 http://vitalflux.com/oauth-based-authentication/
 http://www.binarytides.com/glances-linux-system-monitor/
 http://java.dzone.com/articles/caching-best-practices
@@ -461,7 +459,6 @@ http://tech.deepumohan.com/2012/08/http-caching-explained.html
 http://allenc.com/2013/05/10-front-end-development-tools/
 http://gun.io/blog/analytics/
 http://puneetlamba.blogspot.in/2013/05/are-jsp-tag-libraries-still-relevant.html
-http://www.jyops.blogspot.in/2012/01/useful-eclipse-plugins-that-didnt-made.html
 http://www.dzone.com/links/r/increasing_performance_in_orders_of_magnitude_asy.html
 http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
 http://www.kumaranuj.com/2013/05/jpa-2-understanding-relationships.html
@@ -738,9 +735,6 @@ http://getbootstrap.com/
 
 dropbox
 https://www.dropbox.com/help/1909/en
-
-jquery
-http://css-tricks.com/multiple-simultaneous-ajax-requests-one-callback-jquery/
 
 http://thornelabs.net/2013/01/10/linux-install-cmatrix-from-rpm-deb-xz-or-source.html
 http://www.tuomistolari.net/blog/2014/3/1/journey-to-windows-identity-part-2-claims
