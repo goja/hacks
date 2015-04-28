@@ -1,4 +1,14 @@
--javaagent:C:\Tools\spring-loaded\springloaded-1.2.1.RELEASE.jar -noverify
+sudo apt-get install fglrx
+
+To grant the super privilege to the MySQL user, use the MySQL Query browser and connect to the database that the user needs super privilege. Then execute the following command:
+
+grant super on *.* to Tim
+
+If you ever want to revoke the super privilege from the user you can use:
+
+revoke super on *.* from Tim
+
+-javaagent:/tools/spring-loaded/springloaded-1.2.3.RELEASE.jar -noverify
 
 disable ipv6 centos
 /etc/sysctl.conf

@@ -367,7 +367,6 @@ http://techarena51.com/index.php/linux-memory-usage/
 http://openbookproject.net/thinkcs/python/english2e/
 https://plumbr.eu/outofmemoryerror
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
-http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
 http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
 http://java.dzone.com/articles/performance-tuning
