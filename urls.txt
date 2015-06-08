@@ -1,9 +1,18 @@
+https://brendakaren.wordpress.com/2009/07/19/overview-of-a-simplified-method-of-teaching-music/
+http://www.pianobychords.com
+
 http://projects.apache.org/indexes/category.html
 http://www.jboss.org/projects/
 http://wso2.com/products/
 http://spring.io/projects
 http://www.ibm.com/developerworks/topics/
 http://dzone.com/zb/products
+
+
+money
+http://www.enterprisesales.nyc/
+http://www.mrmoneymustache.com/
+http://submit.co/
 
 
 resources
@@ -18,7 +27,6 @@ http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-brow
 https://github.com/kahun/awesome-sysadmin
 http://namingschemes.com/
 http://www.freshtechapps.com/top-6-must-have-windows-software-in-2014/
-http://codegeekz.com/20-essential-tools-for-coders/
 http://tirthalpatel.blogspot.in/2014/07/java-reverse-engineering-and-diagramming-tools.html
 http://thedesignpixel.com/best-database-management-tools-for-web-developers.html
 http://www.infoworld.com/article/2683857/network-monitoring/article.html
@@ -50,6 +58,9 @@ http://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
 http://blog.slideshare.net/2015/01/06/upload-campaign-your-best-life-hacks/
 http://java.dzone.com/articles/11-mistakes-come-back-bite
 http://www.java-success.com/top-11-slacknesses-mistakes-can-come-back-bite-experienced-java-developer-java-architect/
+http://java.dzone.com/articles/linux-simulating-degraded
+https://sourcegraph.com/
+http://stackshare.io/
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -99,6 +110,7 @@ http://examples.javacodegeeks.com/enterprise-java/rest/jersey/json-example-with-
 http://blog.eviac.com/2013/11/restful-web-services-with-java.html
 www.baeldung.com/rest-api-search-language-spring-data-specifications
 http://blog.parasoft.com/top-10-api-testing-resources-of-2014
+http://restcookbook.com/
 
 spring mvc
 www.baeldung.com/spring-httpmessageconverter-rest
@@ -131,6 +143,7 @@ http://java.dzone.com/articles/painless-introduction-javas-threadlocal-storage
 http://java.dzone.com/articles/5-quick-points-about-threads
 http://blog.javabenchmark.org/2013/04/check-that-your-code-is-thread-safe.html
 http://www.infoq.com/articles/Advanced-Java-Debugging-Techniques
+http://www.javaspecialists.eu/archive/Issue229.html
 
 logging
 http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
@@ -189,6 +202,7 @@ http://java.dzone.com/articles/collection-resources-android
 
 ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
+http://askubuntu.com/questions/187862/after-update-get-error-file-not-found-followed-by-grub-rescue
 
 angular
 http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
@@ -200,6 +214,7 @@ http://www.ng-newsletter.com/posts/how-to-learn-angular.html
 http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e78b7e505a417713000002
 http://www.dzone.com/links/r/tutorial_how_to_create_a_responsive_website_with.html angular
 http://www.designyourway.net/blog/resources/so-you-want-to-learn-angularjs-start-with-these-tutorials-and-resources/
+http://sap.github.io/openui5/
 
 security
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
@@ -224,11 +239,13 @@ http://stackoverflow.com/questions/6755180/java-ssl-connect-add-server-cert-to-k
 http://docs.oracle.com/javase/6/docs/api/java/security/KeyStore.html#store%28java.io.OutputStream,%20char%5b%5d%29
 http://www.itworld.com/development/79351/how-configure-tomcat-always-require-https
 
-saml
+saml/shibboleth
 http://blog.keksrolle.de/2010/07/27/how-to-create-a-valid-saml-2-0-assertion-with-opensaml-for-java.html
 http://umeshagunasinghe.blogspot.in/2014/06/saml2-sso-with-is-500.html
 http://pushpalankajaya.blogspot.in/2014/09/how-to-write-custom-saml-sso-assertion.html
 http://saml.xml.org/saml-specifications
+http://java.dzone.com/articles/developing-identity-management
+http://mylifewithjava.blogspot.in/
 
 tomcat
 http://blog.markshead.com/1129/connecting-visual-vm-to-tomcat-7/
@@ -286,12 +303,15 @@ http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/
 http://contino.co.uk/use-docker-continuous-delivery-part-2/
 http://www.mattstine.com/microservices
 
+flyway
+http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
 
 
 
 
 
-
+http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
+http://geekabyte.blogspot.co.uk/2015/05/how-to-publish-software-artifacts-to.html
 http://www.java-allandsundry.com/2014/10/spring-caching-abstraction-and-google.html
 http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
@@ -308,7 +328,7 @@ http://www.infoworld.com/article/2843821/google-go/10-open-source-projects-googl
 http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/
 http://opensource.com/education/13/9/back-to-school-with-open-source
 http://www.baeldung.com/guava-cache
-http://java.dzone.com/articles/developing-identity-management
+
 http://java.dzone.com/articles/percona-xtrabackup-225-now
 http://java.dzone.com/articles/dead-simple-configuration
 http://java.dzone.com/articles/top-10-most-popular-articles
@@ -725,6 +745,7 @@ http://vanillajava.blogspot.in/
 http://i-programmer.info/programming/theory/6431-functional-and-dysfunctional-programming.html
 
 hazelcast
+http://java.dzone.com/articles/hands-hazelcast-using-open
 http://www.dzone.com/links/r/recommended_viewingdemo_hazelcasts_distributed_ja.html
 http://www.data4j.org/distributed-spring-beans-via-infinispan/
 http://darylmathison.wordpress.com/2014/06/22/beginners-guide-to-hazelcast-part-3/
@@ -757,6 +778,7 @@ mongo
 http://java.dzone.com/articles/getting-started-mongodb-and-3
 http://www.petrikainulainen.net/programming/spring-framework/creating-a-rest-api-with-spring-boot-and-mongodb/
 http://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example
+http://java.dzone.com/articles/creating-test-data-mongodb-0?mz=36885-nosql
 
 acer
 http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utility/

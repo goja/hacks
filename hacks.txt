@@ -1,3 +1,24 @@
+https://adfs.utopic.local/adfs/ls/IdpInitiatedSignon.aspx
+
+@Query("SELECT t FROM Todo t where t.title = :title AND t.description = :description")
+    public Optional<Todo> findByTitleAndDescription(@Param("title") String title, 
+                                                    @Param("description") String description);
+     
+    @Query(
+        value = "SELECT * FROM todos t where t.title = :title AND t.description = :description", 
+        nativeQuery=true
+    )
+    public Optional<Todo> findByTitleAndDescription(@Param("title") String title, 
+                                                    @Param("description") String description);
+
+
+javadoc -d ./docs/ $(find -name *.java)
+
+svn co https://svn.shibboleth.net/java-opensaml2/tags/2.5.3/
+
+sudo dpkg -i /path/to/deb/file
+sudo apt-get install -f
+
 sudo apt-get install fglrx
 
 To grant the super privilege to the MySQL user, use the MySQL Query browser and connect to the database that the user needs super privilege. Then execute the following command:
@@ -8,7 +29,7 @@ If you ever want to revoke the super privilege from the user you can use:
 
 revoke super on *.* from Tim
 
--javaagent:/tools/spring-loaded/springloaded-1.2.3.RELEASE.jar -noverify
+-javaagent:/opt/spring-loaded/springloaded-1.2.3.RELEASE.jar -noverify
 
 disable ipv6 centos
 /etc/sysctl.conf
@@ -86,7 +107,7 @@ SHOW ENGINE INNODB STATUS
 vb.customize ["modifyvm", :id, "--cpuexecutioncap", "50"]
 
 <Listener className="org.apache.catalina.mbeans.JmxRemoteLifecycleListener" rmiRegistryPortPlatform="8055" rmiServerPortPlatform="10002" />
-CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m \
+CATALINA_OPTS="$CATALINA_OPTS -Xms2048m -Xmx2048m -XX:MaxPermSize=768m \
 -Dcom.sun.management.jmxremote \
 -Dcom.sun.management.jmxremote.authenticate=false \
 -Dcom.sun.management.jmxremote.ssl=false \
@@ -281,7 +302,7 @@ JAVA_OPTS="$JAVA_OPTS -Xms4096m -Xmx4096m -XX:MaxPermSize=768m"
 
 do NOT run tests during a maven build
 
-mvn clean package -Dmaven.test.skip=true
+mvn clean package -DskipTests
 
 
 
