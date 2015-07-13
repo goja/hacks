@@ -30,8 +30,10 @@ http://www.freshtechapps.com/top-6-must-have-windows-software-in-2014/
 http://tirthalpatel.blogspot.in/2014/07/java-reverse-engineering-and-diagramming-tools.html
 http://thedesignpixel.com/best-database-management-tools-for-web-developers.html
 http://www.infoworld.com/article/2683857/network-monitoring/article.html
+https://atom.io/
 
 craft
+simpleprogrammer.com/2015/03/16/11-rules-all-programmers-should-live-by
 http://blog.fogus.me/2014/12/29/the-best-things-and-stuff-of-2014
 http://java.dzone.com/articles/you-want-become-software
 http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects
@@ -61,6 +63,7 @@ http://www.java-success.com/top-11-slacknesses-mistakes-can-come-back-bite-exper
 http://java.dzone.com/articles/linux-simulating-degraded
 https://sourcegraph.com/
 http://stackshare.io/
+http://designimag.com/9-must-read-articles-for-programmers/
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -95,8 +98,12 @@ http://blog.marceloaltmann.com/mysql-fabric-installing-instalar/
 http://umumble.com/blogs/mysql/mysql-%28innodb%29-clustered-and-non_clustered-indexes-/
 http://java.dzone.com/articles/mysql-transaction-isolation
 http://java.dzone.com/articles/mysql-find-and-replace-replace
+https://www.digitalocean.com/community/tutorials/how-to-configure-a-galera-cluster-with-mariadb-on-ubuntu-12-04-servers
 http://jmoses.co/2014/03/18/setting-up-a-mysql-cluster-with-mariadb-galera.html
 http://vladmihalcea.com/2014/12/23/a-beginners-guide-to-transaction-isolation-levels-in-enterprise-java/
+http://www.thenoccave.com/2013/12/30/mariadb-galera-cluster-ha-proxy-keepalived-centos-6/
+http://behindtheracks.com/2014/04/redundant-load-balancers-haproxy-and-keepalived/
+http://behindtheracks.com/2014/04/mysql-high-availability-with-galera-and-haproxy/
 
 rest
 http://java.dzone.com/articles/rest-api-best-practices
@@ -151,9 +158,12 @@ http://www.takipiblog.com/2014/07/23/how-to-instantly-improve-your-java-logging-
 http://www.radcortez.com/monitoring-and-filtering-application-log-to-mail-with-log4j/
 https://blog.codecentric.de/en/2014/10/log-management-spring-boot-applications-logstash-elastichsearch-kibana/
 https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-and-visualize-logs-on-ubuntu-14-04
+https://dzone.com/articles/elk-using-centralized-logging
 http://www.javacodegeeks.com/2014/03/5-techniques-to-improve-your-server-logging.html
 http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 http://www.thegeekstuff.com/2014/12/logstash-setup/
+http://www.loggly.com/ultimate-guide/logging/java-logging-basics/
+http://java.dzone.com/articles/log-collection-graylog-aws
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -190,6 +200,7 @@ http://sagarkarnati.wordpress.com/2014/05/12/unittesting-daos-with-h2-in-spring-
 http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
 https://blog.logentries.com/2014/06/smart-integration-testing/
 http://testautomation.applitools.com/post/96465361682/7-must-read-selenium-tutorials
+http://blog.codeleak.pl/2015/03/spring-boot-integration-testing-with.html
 
 jsf
 http://www.byteslounge.com/tutorials/how-to-configure-jsf-in-tomcat-example
@@ -203,6 +214,9 @@ http://java.dzone.com/articles/collection-resources-android
 ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 http://askubuntu.com/questions/187862/after-update-get-error-file-not-found-followed-by-grub-rescue
+
+date
+www.baeldung.com/jackson-serialize-dates
 
 angular
 http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
@@ -267,6 +281,8 @@ https://softwaremill.com/online-meeting-that-works/
 
 deployment
 http://zeroturnaround.com/blog/release-apps-twice-a-week-with-99point99-percent-uptime/
+https://medium.com/aws-activate-startup-blog/upgrades-without-tears-part-1-introduction-to-blue-green-deployment-on-aws-e5bcf90eb60b
+https://medium.com/aws-activate-startup-blog/upgrades-without-tears-part-2-blue-green-deployment-step-by-step-on-aws-29c0ffe99c60
 
 jpa/hibernate/jooq/
 http://www.objectdb.com/
@@ -274,12 +290,15 @@ http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configur
 http://blog.jhades.org/logging-the-actualreal-sql-queries-of-a-springhibernate-application/
 http://java.dzone.com/articles/beginners-guide-jpahibernate-0
 http://vladmihalcea.com/2014/08/29/how-to-customize-hibernate-dirty-checking-mechanism/
+http://www.thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-performance-issues/
 
 aclocal
 https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
 
 big data
 https://snap.stanford.edu/data/
+https://data.ny.gov/
+https://data.nasa.gov/
 https://haifengl.wordpress.com/2014/05/14/hbase-and-accumulo/
 http://datavu.blogspot.in/2014/08/useful-unix-commands-for-exploring-data.html
 http://java.dzone.com/articles/io-files-arent-files
@@ -305,6 +324,13 @@ http://www.mattstine.com/microservices
 
 flyway
 http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
+
+devops
+http://blog.frankel.ch/become-a-devops-with-spring-boot
+
+
+gradle
+http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-web-application-project/
 
 
 
@@ -617,6 +643,7 @@ http://trove.starlight-systems.com/
 http://www.infoq.com/articles/Tuning-Java-Servers
 https://github.com/peter-lawrey/Java-Chronicle
 http://www.javacodegeeks.com/2015/03/oracle-java-mission-control-the-ultimate-guide.html
+http://codedependents.com/2014/01/27/11-best-practices-for-low-latency-systems/
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
@@ -752,6 +779,8 @@ http://darylmathison.wordpress.com/2014/06/22/beginners-guide-to-hazelcast-part-
 
 bootstrap
 http://getbootstrap.com/
+http://sap.github.io/openui5/
+https://www.patternfly.org/
 
 dropbox
 https://www.dropbox.com/help/1909/en

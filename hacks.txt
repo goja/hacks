@@ -1,3 +1,35 @@
+/etc/mysql/conf.d/cluster.cnf
+[mysqld]
+query_cache_size=0
+binlog_format=ROW
+default-storage-engine=innodb
+innodb_autoinc_lock_mode=2
+query_cache_type=0
+bind-address=0.0.0.0
+
+# Galera Provider Configuration
+wsrep_provider=/usr/lib/galera/libgalera_smm.so
+#wsrep_provider_options="gcache.size=32G"
+
+# Galera Cluster Configuration
+wsrep_cluster_name="test_cluster"
+wsrep_cluster_address="gcomm://192.168.1.7,192.168.1.5"
+
+# Galera Synchronization Congifuration
+wsrep_sst_method=rsync
+#wsrep_sst_auth=user:pass
+
+# Galera Node Configuration
+wsrep_node_address="192.168.1.7"
+wsrep_node_name="utopic"
+
+
+netstat -tunap | grep mysql
+
+set password for 'debian-sys-maint'@'localhost' = password('3kJalvwg0ZjpIddy');
+
+^.*entryUUID.*\n
+
 https://adfs.utopic.local/adfs/ls/IdpInitiatedSignon.aspx
 
 @Query("SELECT t FROM Todo t where t.title = :title AND t.description = :description")
@@ -45,8 +77,6 @@ application/soap+xml; charset=utf-8
     Dynamically from the MySQL command line:SET GLOBAL slave_compressed_protocol = 1;
     In the MySQL configuration file:#compress master-slave communication
     slave_compressed_protocol = 1
-
-https://<>/adfs/ls/IdpInitiatedSignon.aspx
 
 jmap -dump:format=b,file=cheap.bin <pid>
 
