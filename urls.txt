@@ -1,3 +1,4 @@
+http://www.songspk.link
 https://brendakaren.wordpress.com/2009/07/19/overview-of-a-simplified-method-of-teaching-music/
 http://www.pianobychords.com
 
@@ -313,7 +314,6 @@ multitenant/saas
 http://msdn.microsoft.com/en-us/library/aa479069.aspx
 http://msdn.microsoft.com/en-us/library/aa479086.aspx
 
-
 microservice
 http://java.dzone.com/articles/apache-camel-micro%C2%ADservice
 http://java.dzone.com/articles/microservices-and-paas-part-2
@@ -328,10 +328,19 @@ http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
 devops
 http://blog.frankel.ch/become-a-devops-with-spring-boot
 
-
 gradle
 http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-web-application-project/
 
+jquery
+http://www.thegeekstuff.com/2015/07/write-jquery-plugin
+http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
+
+puppet
+http://www.thegeekstuff.com/2015/07/puppet-configuration-examples
+http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
+
+audit
+http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-auditing-part-one/
 
 
 
@@ -385,7 +394,6 @@ http://java.dzone.com/articles/part-4-ansible-tower
 http://java.dzone.com/articles/anatomy-devops-orchestration
 http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
-https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
 http://tutorials.techmytalk.com/2014/06/02/java-interview-reference-guide-part-2/
@@ -407,14 +415,12 @@ http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fl
 http://ajenti.org/
 http://vimawesome.com/
 https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
-http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
 http://techarena51.com/index.php/linux-memory-usage/
 http://openbookproject.net/thinkcs/python/english2e/
 https://plumbr.eu/outofmemoryerror
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
 http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
-http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
 http://java.dzone.com/articles/performance-tuning
 http://java67.blogspot.sg/2012/09/what-is-copyonwritearraylist-in-java-example-vs-arraylist.html
 http://java.dzone.com/articles/spring-31-caching-and-ehcache
@@ -483,7 +489,6 @@ http://java.dzone.com/articles/devops-scares-me-part-2
 http://java.dzone.com/articles/complex-event-processing-made
 http://java.dzone.com/articles/mapping-software-architecture
 http://java.dzone.com/articles/lessons-learn-hibernate-core
-http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
 http://www.baeldung.com/persistence-with-spring-series/
 http://eclipsesource.com/blogs/2012/06/06/cleaner-code-with-guava-optionals-and-preconditions/
 http://www.dzone.com/links/r/maven_tutorial_2.html
@@ -536,14 +541,20 @@ http://www.findbestopensource.com/stack-detail/git-windows-stack
 http://wildlyinaccurate.com/a-hackers-guide-to-git
 
 gc
+http://www.javacodegeeks.com/2013/07/5-coding-hacks-to-reduce-gc-overhead.html
 http://www.cubrid.org/blog/tags/Garbage%20Collection/
 http://insightfullogic.com/blog/2013/may/7/garbage-collection-java-3/
 http://michalplachta.com/garbage-collection-101/
 http://javapapers.com/java/how-java-garbage-collection-works/
+https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
+http://insightfullogic.com/blog/2013/mar/6/garbage-collection-java-2/
+https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
+http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
 
 jms
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
 http://java.dzone.com/articles/spring-jms-activemq
+www.javaworld.com/article/2142107/spring-framework/open-source-java-projects-spring-integration.html
 
 jpa
 http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
@@ -720,9 +731,6 @@ debugging
 http://www.vogella.com/articles/EclipseDebugging/article.html
 http://www.ibm.com/developerworks/library/os-ecbug/
 
-gc
-http://insightfullogic.com/blog/2013/mar/6/garbage-collection-java-2/
-
 nginx
 http://nginx.org/packages/centos/6/x86_64/RPMS/
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-centos-6
@@ -781,6 +789,7 @@ bootstrap
 http://getbootstrap.com/
 http://sap.github.io/openui5/
 https://www.patternfly.org/
+http://designposts.net/best-bootstrap-3-themes/?ref=dzone
 
 dropbox
 https://www.dropbox.com/help/1909/en

@@ -1,3 +1,5 @@
+sudo update-rc.d apache2 disable
+
 /etc/mysql/conf.d/cluster.cnf
 [mysqld]
 query_cache_size=0
@@ -24,7 +26,8 @@ wsrep_node_address="192.168.1.7"
 wsrep_node_name="utopic"
 
 
-netstat -tunap | grep mysql
+netstat -punta | grep mysql
+sudo netstat -nlp | grep 8080
 
 set password for 'debian-sys-maint'@'localhost' = password('3kJalvwg0ZjpIddy');
 
@@ -67,8 +70,6 @@ disable ipv6 centos
 /etc/sysctl.conf
 net.ipv6.conf.default.disable_ipv6=1
 net.ipv6.conf.all.disable_ipv6 = 1
-
-sudo netstat -nlp | grep 8080
 
 permitrootlogin /etc/ssh/sshd_config service sshd restart
 
