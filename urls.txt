@@ -1,4 +1,3 @@
-http://www.songspk.link
 https://brendakaren.wordpress.com/2009/07/19/overview-of-a-simplified-method-of-teaching-music/
 http://www.pianobychords.com
 
@@ -7,12 +6,12 @@ http://www.jboss.org/projects/
 http://wso2.com/products/
 http://spring.io/projects
 http://www.ibm.com/developerworks/topics/
+https://developer.ibm.com/open/projects/
 http://dzone.com/zb/products
 
 
 money
 http://www.enterprisesales.nyc/
-http://www.mrmoneymustache.com/
 http://submit.co/
 
 
@@ -24,7 +23,6 @@ tools
 http://www.javacodegeeks.com/2015/03/take-the-intellij-challenge.html
 http://smartbear.com/products/
 http://java-source.net/open-source/profilers
-http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
 https://github.com/kahun/awesome-sysadmin
 http://namingschemes.com/
 http://www.freshtechapps.com/top-6-must-have-windows-software-in-2014/
@@ -32,6 +30,9 @@ http://tirthalpatel.blogspot.in/2014/07/java-reverse-engineering-and-diagramming
 http://thedesignpixel.com/best-database-management-tools-for-web-developers.html
 http://www.infoworld.com/article/2683857/network-monitoring/article.html
 https://atom.io/
+opensource.com/life/15/7/10-community-tools
+https://xebialabs.com/the-ultimate-devops-tool-chest/
+https://xebialabs.com/periodic-table-of-devops-tools/
 
 craft
 simpleprogrammer.com/2015/03/16/11-rules-all-programmers-should-live-by
@@ -65,6 +66,8 @@ http://java.dzone.com/articles/linux-simulating-degraded
 https://sourcegraph.com/
 http://stackshare.io/
 http://designimag.com/9-must-read-articles-for-programmers/
+https://blog.hartleybrody.com/http://www.javacodegeeks.com/2015/09/advanced-java.html
+http://www.javacodegeeks.com/2014/09/reduce-boilerplate-code-in-your-java-applications-with-project-lombok.html
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -144,6 +147,7 @@ http://babdev.blogspot.co.at/
 http://www.drdobbs.com/
 http://vladmihalcea.com/
 http://www.baeldung.com/
+https://www.digitalocean.com/community
 
 threads
 http://blog.takipi.com/java-thread-magic-tricks/
@@ -165,6 +169,11 @@ http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 http://www.thegeekstuff.com/2014/12/logstash-setup/
 http://www.loggly.com/ultimate-guide/logging/java-logging-basics/
 http://java.dzone.com/articles/log-collection-graylog-aws
+https://www.loggly.com/ultimate-guide/
+
+spring boot
+http://geekabyte.blogspot.ro/2015/08/embedding-elasticsearch-in-spring.html
+
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -230,6 +239,7 @@ http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e
 http://www.dzone.com/links/r/tutorial_how_to_create_a_responsive_website_with.html angular
 http://www.designyourway.net/blog/resources/so-you-want-to-learn-angularjs-start-with-these-tutorials-and-resources/
 http://sap.github.io/openui5/
+http://www.kogonuso.com/2015/09/15-useful-angularjs-tools-for-developers.html
 
 security
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
@@ -279,11 +289,14 @@ http://bost.ocks.org/mike/algorithms/
 
 collaboration
 https://softwaremill.com/online-meeting-that-works/
+opensource.com/education/15/8/5-back-school-open-source-programs-2015
+opensource.com/education/15/9/6-open-source-tools-help-educators-stay-organized
 
 deployment
 http://zeroturnaround.com/blog/release-apps-twice-a-week-with-99point99-percent-uptime/
 https://medium.com/aws-activate-startup-blog/upgrades-without-tears-part-1-introduction-to-blue-green-deployment-on-aws-e5bcf90eb60b
 https://medium.com/aws-activate-startup-blog/upgrades-without-tears-part-2-blue-green-deployment-step-by-step-on-aws-29c0ffe99c60
+http://www.webcodegeeks.com/web-development/scaling-infinity-docker-swarm-docker-compose-consul-part-14-taste-come/
 
 jpa/hibernate/jooq/
 http://www.objectdb.com/
@@ -330,6 +343,7 @@ http://blog.frankel.ch/become-a-devops-with-spring-boot
 
 gradle
 http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-web-application-project/
+http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-spring-boot-web-application-project/
 
 jquery
 http://www.thegeekstuff.com/2015/07/write-jquery-plugin
@@ -351,7 +365,6 @@ http://www.java-allandsundry.com/2014/10/spring-caching-abstraction-and-google.h
 http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
 http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
-http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://dcg.ethz.ch/lectures/podc_allstars
 http://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
@@ -363,7 +376,6 @@ http://www.infoworld.com/article/2843821/google-go/10-open-source-projects-googl
 http://blog.jooq.org/2014/11/03/10-things-you-didnt-know-about-java/
 http://opensource.com/education/13/9/back-to-school-with-open-source
 http://www.baeldung.com/guava-cache
-
 http://java.dzone.com/articles/percona-xtrabackup-225-now
 http://java.dzone.com/articles/dead-simple-configuration
 http://java.dzone.com/articles/top-10-most-popular-articles
@@ -396,21 +408,17 @@ http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
 http://razshahriar.com/2014/07/understanding-time-best-practices-for-distributed-applications/
 http://shipilev.net/blog/2014/jmm-pragmatics/
-http://tutorials.techmytalk.com/2014/06/02/java-interview-reference-guide-part-2/
 http://javarevisited.blogspot.sg/2012/03/10-object-oriented-design-principles.html
 blog.nullspace.io/beginners-guide-to-ocaml-beginners-guides.html
 https://realworldocaml.org/v1/en/html/index.html
 http://sysadmincasts.com/
-http://javarevisited.blogspot.sg/2014/07/top-5-java-performance-tuning-books.html
 http://mnx.io/blog/a-proper-server-naming-scheme/
 http://blog.fanout.io/2014/06/24/you-might-not-need-a-websocket/
 http://java.dzone.com/articles/common-mistakes-when-using
-http://www.javatpoint.com/corejava-interview-questions
-https://bartaz.github.io/impress.js/#/overview
 http://www.informit.com/articles/article.aspx?p=2221791
 http://syntx.io/
 http://www.itsprite.com/
-http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
+
 http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
 http://ajenti.org/
 http://vimawesome.com/
@@ -421,7 +429,7 @@ http://openbookproject.net/thinkcs/python/english2e/
 https://plumbr.eu/outofmemoryerror
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-outofmemoryerror-how-to-solve-outofmemoryerror/
 http://codeandme.blogspot.in/2012/11/setup-dedicated-gerrit-server.html
-http://java.dzone.com/articles/performance-tuning
+
 http://java67.blogspot.sg/2012/09/what-is-copyonwritearraylist-in-java-example-vs-arraylist.html
 http://java.dzone.com/articles/spring-31-caching-and-ehcache
 https://code.google.com/p/guava-libraries/wiki/GuavaExplained
@@ -439,15 +447,12 @@ http://www.roussos.cc/2014/05/08/free-your-android/
 http://opensource.com/resources/what-is-openstack
 http://opensource.com/business/14/5/new-openstack-tutorials
 http://opensource.com/business/14/11/8-new-tips-getting-things-done-openstack
-http://www.javacodegeeks.com/2014/05/spring-interview-questions-and-answers.html
 http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
-http://info.predictiveedge.com/a-startups-guide-to-time-hacking
 http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html
 http://www.programming-free.com/2014/04/spring-mvc-consuming-restful-web-services.html
 http://www.baeldung.com/hibernate-pagination
 http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
-http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 http://java.dzone.com/articles/hibernate-facts-integration
 http://vitalflux.com/oauth-based-authentication/
 http://www.binarytides.com/glances-linux-system-monitor/
@@ -497,7 +502,6 @@ http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-m
 http://architects.dzone.com/articles/data-analysis-unix-shell
 http://msdn.microsoft.com/en-us/library/ms997506.aspx
 http://www.embeddedrelated.com/showarticle/128.php
-http://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/
 http://plumbr.eu/blog/automating-a-multi-platform-build
 http://palkonyves.blogspot.hu/2013/03/how-to-design-clean-business-tier-with.html
 http://queue.acm.org/detail.cfm?id=2482856
@@ -507,9 +511,7 @@ http://syntx.co/languages-frameworks/java/implementing-google-guava-cache-using-
 http://i-programmer.info/babbages-bag/359-memory-2.html
 http://tech.deepumohan.com/2012/08/http-caching-explained.html
 http://allenc.com/2013/05/10-front-end-development-tools/
-http://gun.io/blog/analytics/
 http://puneetlamba.blogspot.in/2013/05/are-jsp-tag-libraries-still-relevant.html
-http://www.dzone.com/links/r/increasing_performance_in_orders_of_magnitude_asy.html
 http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
 http://www.kumaranuj.com/2013/05/jpa-2-understanding-relationships.html
 http://blogs.msdn.com/b/africaapps/archive/2013/05/29/application-lifecycle-management-part-1-of-5.aspx
@@ -518,6 +520,16 @@ http://www.coolcoder.in/2014/02/10-du-disk-usage-command-examples-to.html
 https://developers.google.com/java-dev-tools/codepro/doc/analytix
 http://java.dzone.com/articles/beginners-guide-acid-and
 http://java.dzone.com/articles/cglib-missing-manual
+
+analytics
+http://rethinkdb.com/
+http://gun.io/blog/analytics/
+
+scale
+http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/
+http://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/
+https://blog.hartleybrody.com/scale-load/
+
 
 liferay
 http://www.liferay.com/video?title=video-university-portal-architecture
@@ -655,6 +667,12 @@ http://www.infoq.com/articles/Tuning-Java-Servers
 https://github.com/peter-lawrey/Java-Chronicle
 http://www.javacodegeeks.com/2015/03/oracle-java-mission-control-the-ultimate-guide.html
 http://codedependents.com/2014/01/27/11-best-practices-for-low-latency-systems/
+http://blog.takipi.com/7-java-performance-metrics-to-watch-after-a-major-release/
+http://www.tecmint.com/monitors-linux-server-performance-remotely-using-web-browser/
+http://javarevisited.blogspot.sg/2014/07/top-5-java-performance-tuning-books.html
+http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
+http://java.dzone.com/articles/performance-tuning
+http://www.dzone.com/links/r/increasing_performance_in_orders_of_magnitude_asy.html
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
@@ -677,6 +695,7 @@ http://architects.dzone.com/articles/drastically-improving-your
 
 css
 http://purecss.io/
+http://www.webcodegeeks.com/html5/html5-development-tools-list/
 
 sun jdk
 http://fedorasolved.org/Members/zcat/using-sun-java-instead-of-openjdk
@@ -734,6 +753,7 @@ http://www.ibm.com/developerworks/library/os-ecbug/
 nginx
 http://nginx.org/packages/centos/6/x86_64/RPMS/
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-centos-6
+https://dzone.com/articles/secure-existing-restful-services-no-need-for-chang?oid=integration
 
 java memory
 http://java.dzone.com/articles/monitoring-and-detecting
@@ -826,3 +846,106 @@ http://syntx.io/getting-started-with-rabbitmq-using-the-spring-framework/
 
 
 http://www.mental-math-trainer.com
+
+
+No.	Name	Website	Twitter
+1	Code Simplicity	http://www.codesimplicity.com/	@mkanat
+2	Joel On Software	http://www.joelonsoftware.com/	@spolsky
+3	Coding Horror	http://blog.codinghorror.com/	@codinghorror
+4	Andy’s Blog	http://andy.pragprog.com/	@PragmaticAndy
+5	Paul Graham	http://www.paulgraham.com/articles.html/	@paulg
+6	Federico Cargnelutti	http://blog.fedecarg.com/	@fedecarg
+7	Pontikis	http://www.pontikis.net/	@CPontikis
+8	Six Revisions	http://sixrevisions.com/	@sixrevisions
+9	Ajaxian	http://ajaxian.com/	@dalmaer
+10	Programmable Web	http://www.programmableweb.com/	@programmableweb
+11	Martin Fowler Blog	http://martinfowler.com/bliki/	@martinfowler
+12	Eric Sink	http://ericsink.com/	@eric_sink
+13	The Daily WTF	http://thedailywtf.com/	@RemyPorter
+14	The UIE Brain Sparks	http://www.uie.com/brainsparks/	@jmspool
+15	Silk and Spinach	http://silkandspinach.net/	@kevinrutherford
+16	Ytechie	http://www.ytechie.com/	@ytechie
+17	Exploration through Example	http://www.exampler.com/blog/	@marick
+18	Specky Boy	http://speckyboy.com/	@speckyboy
+19	David Walsh	http://davidwalsh.name/	@davidwalshblog
+20	Smashing Magazine	http://www.smashingmagazine.com	@smashingmag
+21	Paul Irish	http://www.paulirish.com/	@paul_irish
+22	Net Flix	http://alistapart.com/	@alistapart
+23	Scott’s Blog	http://weblogs.asp.net/scottgu/about	@scottgu
+24	MountainGoat Software	http://www.mountaingoatsoftware.com/blog	@mikewcohn
+25	Mind the Product	http://www.mindtheproduct.com/	@MindTheProduct
+26	Mark Needham	http://www.markhneedham.com/blog/	@markhneedham
+27	Belatrix	http://blog.belatrixsf.com/	@BelatrixSF
+28	Ycombinator	https://news.ycombinator.com/	@ycombinator
+29	Toptal Blog	http://www.toptal.com/blog	@toptalllc
+30	Monster	http://insidetech.monster.com/	@monster
+31	Spiceworks	http://community.spiceworks.com/	@spiceworks
+32	Atlassian	http://blogs.atlassian.com/	@atlassian
+33	Udacity	http://blog.udacity.com/	@udacity
+34	IT World	http://www.itworld.com/	@itworld
+35	Code Guru	http://www.codeguru.com/	@codeguru
+36	Tom’s IT Pro	http://www.tomsitpro.com/	@tomsitpro
+37	CIO	http://www.cio.com/category/consumer-technology	@CIOonline
+38	Software Testing Help	http://www.softwaretestinghelp.com/	@vijayshinde
+39	DevX	http://www.devx.com/	@devx_com
+40	Eric Brown Blog	http://ericbrown.com/	EricDBrown
+41	Ron Jeffries	http://ronjeffries.com/	@RonJeffries
+42	Simple Programmer	http://simpleprogrammer.com/	@jsonmez
+43	CIO Insight	http://www.cioinsight.com	@CIOInsight
+44	Less than dot	http://lessthandot.com/	@LessThanDot
+45	IT Career Finder	http://www.itcareerfinder.com/	@ITCareerJuice
+46	QA Area	http://blog.qarea.com/	@QArea
+47	Software Testing Class	http://www.softwaretestingclass.com/	@mytestingclass
+48	Virtuous Code	http://devblog.avdi.org/	@avdi
+49	Tim Anderson’s IT Writing	http://www.itwriting.com/blog/	@timanderson
+50	Software Specialists	http://www.softwarespecialists.com/blog/	@SWSpecialists
+51	Randall Degges	http://www.rdegges.com/	@rdegges"
+52	Project Manager	http://projectmanager.com.au/	@ProjectMgr_au
+53	Technoracle	http://technoracle.blogspot.com.au/	@duanenickull
+54	Software Development Today	http://softwaredevelopmenttoday.com/	@duarte_vasco
+55	Git Tower	http://www.git-tower.com/blog/	@gittower
+56	Henrik Kniberg	http://blog.crisp.se/author/henrikkniberg	@henrikkniberg
+57	Daily JS	http://dailyjs.com/	@dailyjs
+58	Coding for interviews	http://blog.codingforinterviews.com/	@interviewcoding
+59	Dice	http://insights.dice.com/	@DiceTechJobs
+60	Jon Udell	http://blog.jonudell.net/	@judell
+61	Stack Exchange	https://blog.stackexchange.com/	@StackExchange
+62	Artima	http://www.artima.com/weblogs/index.jsp?blogger=ward	@WardCunningham
+63	Cedric’s Web blogs	http://beust.com/weblog/	@cbeust
+64	Thoughtworks	http://www.thoughtworks.com/blogs	@thoughtworks
+65	A Geek with a hat	http://swizec.com/blog/	@Swizec
+66	Construx	http://www.construx.com/Blogs/	@stevemconstrux
+67	Creative Chaos	http://xndev.com/creative-chaos/	@mheusser
+68	Secret Geek	http://www.secretgeek.net/	@secretGeek
+69	Dr.Dobbs	http://www.drdobbs.com/blogs/	@dr_dobbs
+70	Alistair Cockburn	http://alistair.cockburn.us/Blog	@TotherAlistair
+71	Rothman	http://www.jrothman.com/blog/mpd/	@johannarothman
+72	Regular Geek	http://regulargeek.com/	@robdiana
+73	Jeff Sutherland Blog	http://www.scruminc.com/scrum-blog/	@jeffsutherland
+74	The Blog Ride	http://blogs.tedneward.com/	@tedneward
+75	Steven Harman Blog	http://stevenharman.net/blog	@stevenharman
+76	The Art of Agile	http://jamesshore.com/Blog/	@jamesshore
+77	Pure Danger Tech	http://tech.puredanger.com/	@puredanger
+78	Reforming Project Management	http://www.reformingprojectmanagement.com/	@HalMacomber
+79	Jeff Patton’s Blog	http://jpattonassociates.com/blog/	@jeffpatton
+80	Code Squeeze	http://codesqueeze.com/	@mpool
+81	Tyner Blain Blog	http://tynerblain.com/blog/	@sehlhorst
+82	Coding the Architecture	http://www.codingthearchitecture.com/	@simonbrown
+83	Knowing. NET	http://www.knowing.net/	@lobrien
+84	Agile Advice	http://www.agileadvice.com/	@AgileAdvice
+85	Elegant Code	http://elegantcode.com/	@ElegantCode
+86	James Bach’s Blog	http://www.satisfice.com/blog/	@jamesmarcusbach
+87	Software By Rob	http://www.softwarebyrob.com/	@robwalling
+88	Lean Software Engineering	http://leansoftwareengineering.com/	@corey_ladas
+89	PM Think	http://www.pmthink.com/	@pmthink
+90	Agile Connection	http://www.agileconnection.com/	@agileconn
+91	Agile Developer	http://blog.agiledeveloper.com/	@venkat_s
+92	Bit Player	http://bit-player.org/	@bit_player
+93	My Secret Life as a Spaghetti Coder	http://www.codeodor.com/	@codeodor
+94	Scaling Software Agility	https://scalingsoftwareagility.wordpress.com/	@Deanleffingwell
+95	Thomas Guest	http://wordaligned.org/	@thomasguest
+96	Joshua Porter	http://bokardo.com/	@bokardo
+97	Pawel Broazinski	http://brodzinski.com/	@pawelbrodzinski
+98	Avail Agility	http://availagility.co.uk/	@kjscotland
+99	Lambda the Ultimate	http://lambda-the-ultimate.org/	@lambda_ultimate
+100	Nelly Yusupova	http://www.digitalwoman.com/	@DigitalWoman

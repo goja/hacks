@@ -1,3 +1,16 @@
+in "c:\wamp\www\vtigercrm\include\logging.php", line 21, just after "require_once...", add:
+
+ini_set('display_errors', '0'); # don't show any errors...
+error_reporting(e_all | e_strict); # ...but do log them
+
+
+server {
+    listen 80; 
+    server_name some.example.com;
+    root /home/me/public_html/some;
+    index index.html index.htm;
+}
+
 sudo update-rc.d apache2 disable
 
 /etc/mysql/conf.d/cluster.cnf
