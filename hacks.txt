@@ -1,3 +1,21 @@
+while ( sleep 1 ) ; do ps -p $PID -o %cpu,%mem,rss  ; done
+java -XX:+PrintFlagsFinal -version | grep -i HeapSize
+java -Xms128m -Xmx256m
+jmap -histo $PID
+jmap -dump:format=b,file=/tmp/dump1.hprof $PID
+jhat -baseline /tmp/dump1.hprof /tmp/dump2.hprof
+ssh -L 7000:localhost:7000 $HOST
+
+
+#!/bin/sh
+while inotifywait -e modify *.adoc; do
+  asciidoctor-pdf -a icons=font *.adoc
+done
+
+ng-minlength="8" ng-maxlength="20" ng-pattern="/(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[^a-zA-Z0-9])/"
+
+sudo /usr/lib/insserv/insserv /etc/init.d/tomcat
+
 in "c:\wamp\www\vtigercrm\include\logging.php", line 21, just after "require_once...", add:
 
 ini_set('display_errors', '0'); # don't show any errors...
@@ -5,7 +23,7 @@ error_reporting(e_all | e_strict); # ...but do log them
 
 
 server {
-    listen 80; 
+    listen 80;
     server_name some.example.com;
     root /home/me/public_html/some;
     index index.html index.htm;
@@ -49,14 +67,14 @@ set password for 'debian-sys-maint'@'localhost' = password('3kJalvwg0ZjpIddy');
 https://adfs.utopic.local/adfs/ls/IdpInitiatedSignon.aspx
 
 @Query("SELECT t FROM Todo t where t.title = :title AND t.description = :description")
-    public Optional<Todo> findByTitleAndDescription(@Param("title") String title, 
+    public Optional<Todo> findByTitleAndDescription(@Param("title") String title,
                                                     @Param("description") String description);
-     
+
     @Query(
-        value = "SELECT * FROM todos t where t.title = :title AND t.description = :description", 
+        value = "SELECT * FROM todos t where t.title = :title AND t.description = :description",
         nativeQuery=true
     )
-    public Optional<Todo> findByTitleAndDescription(@Param("title") String title, 
+    public Optional<Todo> findByTitleAndDescription(@Param("title") String title,
                                                     @Param("description") String description);
 
 
@@ -165,7 +183,7 @@ performance & availability monitoring
 [/code]
 
 LD_LIBRARY_PATH="/lib/:/usr/local/curl/lib"
-export LD_LIBRARY_PATH 
+export LD_LIBRARY_PATH
 
 post-receive
 curl -k https://raoul-wp/jenkins/git/notifyCommit?url=git@raoul-wp:/git/tracker.git
@@ -179,23 +197,16 @@ autossh -M 20000 -p 22 -D 1080 raoul@raoul-vm
 SET GLOBAL general_log = 'ON';
 SET GLOBAL general_log = 'OFF';
 
-git cygwin mysql virtualbox wireshark 
+wireshark
 sourcegear diffmerge softerra ldap browser
 autohotkey ditto sysinternalssuite skitch
 ant jmeter maven tomcat groovy
-conemupack eclipse heidisql sublime hxden
-7zip adfssetup 
+conemupack eclipse heidisql
 collabnet subversion client
-fiddler vagrant 
+virtualbox vagrant
 
 firefox
 cookies manager firebug firepath restclient selenium ide tamperdata clear console
-
-eclipse
-subclipse objectaid memory analyzer jvm monitor
-findbugs git eclemma 
-
-
 CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m"
 
 [base-local]
@@ -241,7 +252,7 @@ baseurl=http://10.2.1.93
 enabled=1
 gpgcheck=0
 
-scp -r 
+scp -r
 
 ctrl+V at first pos, select to last line and I # Esc to add or x to delete
 
@@ -249,7 +260,7 @@ mvn release:prepare -Darguments="-DskipTests"
 
 jstack -l JAVA_PID > jstack.out
 
-for i in {1..100} 
+for i in {1..100}
 do
 	TW=`netstat | grep TIME_WAIT | wc -l`;
 	MP=`ps -eLf | grep mycampus | wc -l`;
@@ -287,7 +298,7 @@ swapoff -a && swapon -a
 
 vpn from shell
 install package
-sudo add-apt-repository ppa:network-manager/trunk  
+sudo add-apt-repository ppa:network-manager/trunk
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install network-manager
 ---------------------------------------------
@@ -376,14 +387,14 @@ trying to install a 32-bit package on a 64-bit system
 
 
 liferay multiple versions of jQuery
-<script type='text/javascript' src='js/jquery_1.4.js'></script>  
+<script type='text/javascript' src='js/jquery_1.4.js'></script>
 
 <script type='text/javascript'>
-	
+
 var $jq = jQuery.noConflict(true);
 
-</script>  
-  
+</script>
+
 
 
 <script type='text/javascript' src='js/jquery_1.2.6.js'></script>
@@ -392,8 +403,3 @@ var $jq = jQuery.noConflict(true);
 $jq('.classname').hide() -- uses jQuery 1.4
 
 jQuery(.'classname').hide() -- uses jQuery 1.2.6
-
-
-
-
-
