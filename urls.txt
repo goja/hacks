@@ -16,6 +16,9 @@ http://www.enterprisesales.nyc/
 http://submit.co/
 https://medium.com/swlh/graham-for-the-lazy-51a170dacc86
 http://pmarchive.com/how_to_hire_the_best_people.html
+https://weworkremotely.com/
+http://www.jobsintech.io/#q=&page=0&refinements=[]
+https://nces.ed.gov/collegenavigator/
 
 
 resources
@@ -25,6 +28,9 @@ https://github.com/datasciencemasters/go
 
 postfix
 http://www.binarytides.com/install-postfix-dovecot-debian/
+
+mean
+https://dzone.com/articles/proposed-tech-stack-to-build-online-store-with-mon
 
 tools
 http://blog.jetbrains.com/idea/2015/10/intellij-idea-tips-and-tricks/
@@ -42,8 +48,15 @@ https://xebialabs.com/the-ultimate-devops-tool-chest/
 https://xebialabs.com/periodic-table-of-devops-tools/
 http://opensource.com/business/15/1/top-project-management-tools-2015
 http://opensource.com/business/15/5/open-source-data-integration-karma
+http://www.devopsbookmarks.com/
+https://opensource.com/business/15/8/5-open-source-alternatives-trello
 
 craft
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+https://github.com/trending/java
+https://github.com/uhub/awesome-java
+https://dzone.com/articles/zlwell-written-java
+http://www.javaworld.com/article/3027160/application-development/were-living-in-the-golden-age-of-software-development.html
 http://opensource.com/business/15/11/how-record-screencasts
 http://zeroturnaround.com/rebellabs/reports/
 https://github.com/sindresorhus/awesome
@@ -82,15 +95,23 @@ http://designimag.com/9-must-read-articles-for-programmers/
 https://blog.hartleybrody.com/http://www.javacodegeeks.com/2015/09/advanced-java.html
 http://www.javacodegeeks.com/2014/09/reduce-boilerplate-code-in-your-java-applications-with-project-lombok.html
 http://www.javacodegeeks.com/2014/09/typical-mistakes-in-java-code.html
+https://openclipart.org/
+https://www.thoughtworks.com/radar
+http://patorjk.com/software/taag
 
 feature flag
 http://featureflags.io/resources/
 
 mobile
 http://code.tutsplus.com/tutorials/create-a-mobile-application-using-wordpress-ionic-and-angularjs--cms-24170
+https://dzone.com/articles/ioniccordova-demo-where-did-i-take-that-picture
+http://code.tutsplus.com/tutorials/an-introduction-to-cordova-example--cms-25328
 
 vps
 https://www.alvotech.de/vserver/kvm/compare/
+
+webdav
+https://wiki.apache.org/tomcat/Tomcat/WebDav
 
 vagrant/docker
 https://github.com/mitchellh/vagrant/issues/2019
@@ -110,6 +131,9 @@ http://technologyconversations.com/category/continuous-integration-delivery-and-
 https://dzone.com/articles/docker-machine-compose-swarm-how-they-work-togethe
 http://www.infoq.com/articles/docker-containers
 http://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html
+http://examples.javacodegeeks.com/core-java/introduction-docker-java-developers/
+https://dzone.com/articles/10-practical-docker-tips-for-day-to-day-docker-usa
+https://dzone.com/articles/installing-kubernetes-moving-from-physical-servers
 
 ci/cd
 https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/
@@ -117,6 +141,10 @@ https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-doc
 javascript
 http://berzniz.com/post/68001735765/javascript-hacks-for-hipsters
 http://zeroturnaround.com/rebellabs/javascript-confessions-12-js-technologies-im-not-ashamed-of-loving/
+https://github.com/airbnb/javascript/blob/master/README.md
+http://nvd3.org/
+https://opensource.com/life/15/6/eight-open-source-data-visualization-tools
+https://dzone.com/articles/three-projects-essential-for-elegant-javascript
 
 sql
 http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
@@ -153,6 +181,7 @@ www.baeldung.com/rest-api-search-language-spring-data-specifications
 http://blog.parasoft.com/top-10-api-testing-resources-of-2014
 http://restcookbook.com/
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+http://www.restpatterns.org/
 
 spring mvc
 www.baeldung.com/spring-httpmessageconverter-rest
@@ -164,8 +193,11 @@ http://www.just-thor.com/2014/03/01/spring-mvc-and-jpa-upload-and-retrieve-photo
 http://stackoverflow.com/questions/2977649/is-there-an-easy-way-to-turn-empty-java-spring-form-input-into-null-strings
 http://forum.springsource.org/showthread.php?83873-Can-t-set-update-nullable-reference-field-to-null
 http://geekabyte.blogspot.sg/2014/08/how-to-inject-objects-into-spring-mvc.html
+https://dzone.com/articles/non-blocking-rest-services-with-spring
+http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-interceptor-tutorial/
 
 blogs
+https://www.digitalocean.com/community/tutorials
 http://www.43folders.com/
 http://dada.theblogbowl.in/2014/01/10-common-mistakes-by-wordpress.html#more
 http://appointzilla.com/publish-code-in-wordpress-two-easy-ways/
@@ -180,6 +212,7 @@ http://www.drdobbs.com/
 http://vladmihalcea.com/
 http://www.baeldung.com/
 https://www.digitalocean.com/community
+http://swreflections.blogspot.in/
 
 threads
 http://blog.takipi.com/java-thread-magic-tricks/
@@ -190,12 +223,10 @@ http://www.infoq.com/articles/Advanced-Java-Debugging-Techniques
 http://www.javaspecialists.eu/archive/Issue229.html
 
 logging
-http://www.gridshore.nl/2013/11/10/oh-no-more-logs-start-with-logstash/
+*http://knes1.github.io/blog/2015/2015-08-16-manage-spring-boot-logs-with-elasticsearch-kibana-and-logstash.html
 http://www.takipiblog.com/2014/07/23/how-to-instantly-improve-your-java-logging-with-7-logback-tweaks/
 http://www.radcortez.com/monitoring-and-filtering-application-log-to-mail-with-log4j/
-https://blog.codecentric.de/en/2014/10/log-management-spring-boot-applications-logstash-elastichsearch-kibana/
 https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-and-visualize-logs-on-ubuntu-14-04
-https://dzone.com/articles/elk-using-centralized-logging
 http://www.javacodegeeks.com/2014/03/5-techniques-to-improve-your-server-logging.html
 http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 http://www.thegeekstuff.com/2014/12/logstash-setup/
@@ -203,11 +234,19 @@ http://www.loggly.com/ultimate-guide/logging/java-logging-basics/
 http://java.dzone.com/articles/log-collection-graylog-aws
 https://www.loggly.com/ultimate-guide/
 https://github.com/NarrativeScience/Log.io
+https://balamaci.ro/java-app-monitoring-with-elk-logstash/
+
+aws
+http://www.thegeekstuff.com/2016/02/aws-storage-and-db
 
 spring boot
 http://geekabyte.blogspot.ro/2015/08/embedding-elasticsearch-in-spring.html
 https://spring.io/blog/2015/09/01/react-js-and-spring-data-rest-part-1-basic-features
+https://dzone.com/articles/dropwizard-from-the-start-part-ii-building-a-ui-us
+http://yetanotherdevblog.com/introduction_to_spring_restdocs
 
+elasticsearch
+http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-elasticsearch-example/
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -235,6 +274,12 @@ http://www.dzone.com/links/r/top_10_questions_for_java_regular_expression.html
 http://www.programcreek.com/simple-java/
 http://examples.javacodegeeks.com/java-basics/exceptions/java-lang-nullpointerexception-how-to-handle-null-pointer-exception/
 http://examples.javacodegeeks.com/core-java/java-regular-expressions-tutorial/
+http://www.javaworld.com/blog/java-101/
+http://kennethjorgensen.com/blog/2016/introduction-to-completablefutures
+https://examples.javacodegeeks.com/core-java/util/concurrent/completablefuture/java-completionstage-completablefuture-example/
+
+maven
+http://zeroturnaround.com/rebellabs/your-maven-build-is-slow-speed-it-up/
 
 testing
 http://getgauge.io/
@@ -251,6 +296,8 @@ http://technologyconversations.com/2014/06/10/continuous-delivery-unit-tests/
 https://blog.logentries.com/2014/06/smart-integration-testing/
 http://testautomation.applitools.com/post/96465361682/7-must-read-selenium-tutorials
 http://blog.codeleak.pl/2015/03/spring-boot-integration-testing-with.html
+http://www.javacodegeeks.com/2015/11/testing-with-mockito.html
+http://examples.javacodegeeks.com/enterprise-java/selenium/selenium-standalone-server-example/
 
 jsf
 http://www.byteslounge.com/tutorials/how-to-configure-jsf-in-tomcat-example
@@ -261,6 +308,7 @@ http://hmkcode.com/android-layout-design-by-example-sign-inup-screens/
 http://creative-punch.net/2014/03/make-basic-single-touch-drawing-app-android/
 http://java.dzone.com/articles/collection-resources-android
 http://zeroturnaround.com/rebellabs/7-best-android-libraries-that-java-developer-should-know-about/
+https://dzone.com/articles/location-aware-app-in-android-uv-index
 
 ubuntu
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
@@ -271,6 +319,7 @@ www.baeldung.com/jackson-serialize-dates
 http://shekhargulati.com/2015/10/25/lets-master-java-8-date-time-api/
 
 angular
+https://medium.com/developers-writing/tips-and-practices-to-optimize-your-angularjs-app-8118550ff808#.b0qji2olt
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://www.webcodegeeks.com/javascript/angular-js/angularjs-ui-router-example/
 http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/
@@ -287,8 +336,16 @@ http://www.kogonuso.com/2015/09/15-useful-angularjs-tools-for-developers.html
 http://foundation.zurb.com/apps/
 https://www.polymer-project.org/1.0/
 http://material-ui.com/#/
+http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-start-your-web-programming-projects.html
+https://www.webcodegeeks.com/javascript/node-js/creating-nodejs-web-server-run-angular-seed/
+https://www.webcodegeeks.com/javascript/angular-js/angularjs-mvc-tutorial-part-1-project-setup/
+https://www.webcodegeeks.com/javascript/angular-js/promises-angularjs-part-ii-q-service/
+
+angular2
+https://dzone.com/articles/getting-started-with-angular-2
 
 security
+http://docs.spring.io/spring-security/site/docs/3.1.3.RELEASE/reference/crypto.html
 http://shout.setfive.com/2015/11/02/spring-boot-authentication-with-custom-http-header/
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
 http://spenserj.com/blog/2013/07/15/securing-a-linux-server/
@@ -312,6 +369,12 @@ http://stackoverflow.com/questions/6755180/java-ssl-connect-add-server-cert-to-k
 http://docs.oracle.com/javase/6/docs/api/java/security/KeyStore.html#store%28java.io.OutputStream,%20char%5b%5d%29
 http://www.itworld.com/development/79351/how-configure-tomcat-always-require-https
 http://www.troyhunt.com/2015/09/troys-ultimate-list-of-security-links.html
+https://dzone.com/articles/10-steps-to-secure-software
+https://github.com/minimaxir/big-list-of-naughty-strings
+
+http://picketlink.org/
+http://keycloak.jboss.org/
+https://cxf.apache.org/fediz.html
 
 saml/shibboleth
 http://blog.keksrolle.de/2010/07/27/how-to-create-a-valid-saml-2-0-assertion-with-opensaml-for-java.html
@@ -325,6 +388,11 @@ tomcat
 http://blog.markshead.com/1129/connecting-visual-vm-to-tomcat-7/
 http://www.coolestguyplanettech.com/redirecting-http-https-tomcat/
 http://java.dzone.com/articles/how-configure-tomcatjboss-and
+http://skybert.net/java/improve-tomcat-startup-time/
+http://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_More.html
+http://examples.javacodegeeks.com/enterprise-java/maven/how-to-deploy-maven-based-war-file-to-tomcat-example/
+http://java.dzone.com/articles/load-balancing-apache-tomcat
+http://www.mulesoft.com/tcat/understanding-apache-tomcat
 
 certificate
 https://letsencrypt.org/
@@ -351,15 +419,17 @@ https://medium.com/aws-activate-startup-blog/upgrades-without-tears-part-2-blue-
 http://www.webcodegeeks.com/web-development/scaling-infinity-docker-swarm-docker-compose-consul-part-14-taste-come/
 opensource.com/business/14/10/top-3-open-source-alternatives-google-analytics
 https://www.digitalocean.com/community/tutorial_series/building-for-production-web-applications
+https://www.digitalocean.com/community/tutorials/how-to-create-a-high-availability-haproxy-setup-with-corosync-pacemaker-and-floating-ips-on-ubuntu-14-04
 
 jpa/hibernate/jooq/
-http://www.objectdb.com/
+http://zeroturnaround.com/rebellabs/three-jpa-2-1-features-that-will-boost-your-applications-performance/
 http://www.petrikainulainen.net/programming/jooq/using-jooq-with-spring-configuration/
 http://blog.jhades.org/logging-the-actualreal-sql-queries-of-a-springhibernate-application/
 http://java.dzone.com/articles/beginners-guide-jpahibernate-0
 http://vladmihalcea.com/2014/08/29/how-to-customize-hibernate-dirty-checking-mechanism/
 http://www.thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-performance-issues/
 https://prestodb.io/
+https://dzone.com/articles/calling-stored-procedures-from-spring-data-jpa
 
 aclocal
 https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
@@ -373,6 +443,12 @@ http://datavu.blogspot.in/2014/08/useful-unix-commands-for-exploring-data.html
 http://java.dzone.com/articles/io-files-arent-files
 https://opensource.com/life/14/8/intro-apache-hadoop-big-data
 http://java.dzone.com/articles/getting-started-hadoop
+https://dzone.com/articles/learning-big-data-tools-in-2016
+www.javaworld.com/article/3019754/application-development/16-things-you-should-know-about-hadoop-and-spark-right-now.html
+https://dzone.com/articles/big-data-java-survey-result
+https://dzone.com/articles/study-list-for-data-engineers-and-aspiring-data-ar
+http://www.javaworld.com/article/2972863/big-data/open-source-java-projects-apache-spark.html
+https://www.javacodegeeks.com/2016/02/apache-hadoop-tutorial.html
 
 load testing
 http://techblog.bozho.net/?p=1535
@@ -390,6 +466,8 @@ http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/
 http://contino.co.uk/use-docker-continuous-delivery-part-2/
 http://www.mattstine.com/microservices
 https://opensource.com/resources/what-are-microservices
+https://www.nginx.com/blog/event-driven-data-management-microservices/
+https://dzone.com/articles/microservices-in-practice-1
 
 flyway
 http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
@@ -400,10 +478,12 @@ http://blog.frankel.ch/become-a-devops-with-spring-boot
 gradle
 http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-web-application-project/
 http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-spring-boot-web-application-project/
+http://zeroturnaround.com/rebellabs/making-gradle-builds-faster/
 
 jquery
 http://www.thegeekstuff.com/2015/07/write-jquery-plugin
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
+https://dzone.com/articles/10-jquery-snippets-for-efficient-web-development
 
 puppet
 http://www.thegeekstuff.com/2015/07/puppet-configuration-examples
@@ -417,14 +497,24 @@ http://blog.codefx.org/tools/apache-jmeter-tutorial/
 http://jmeter-plugins.org/
 http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html
 
+ansible
+https://www.digitalocean.com/community/tutorial_series/getting-started-with-configuration-management
+http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
+https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/
+http://java.dzone.com/articles/part-1-getting-started-ansible
+http://java.dzone.com/articles/part-4-ansible-tower
 
+
+https://dzone.com/articles/become-a-better-programmer-by-mastering-google
+http://www.systemcodegeeks.com/
+http://opensource.com/life/15/11/getting-started-web-mapping
+opensource.com/life/13/1/three-open-source-school-management-software-programs-teachers-and-student
 http://www.javacodegeeks.com/2015/10/retryable-operations.html
 http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
 http://geekabyte.blogspot.co.uk/2015/05/how-to-publish-software-artifacts-to.html
 http://www.java-allandsundry.com/2014/10/spring-caching-abstraction-and-google.html
 http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
-http://www.javacodegeeks.com/2015/02/continuous-integration-delivery-deployment-jenkins-docker-ansible.html
 http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://dcg.ethz.ch/lectures/podc_allstars
 http://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
@@ -447,7 +537,6 @@ theprogrammersparadox.blogspot.in/2014/09/estimation.html
 http://java.dzone.com/articles/mysqldmulti-how-run-multiple
 http://12factor.net/
 http://www.garysieling.com/blog/auditing-data-changes-postgres
-https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/
 http://zeroturnaround.com/rebellabs/the-6-built-in-jdk-tools-the-average-developer-should-learn-to-use-more/
 http://www.techtalkshub.com/optimizing-linux-servers/
 http://www.java-allandsundry.com/2014/07/tailing-file-spring-websocket-sample.html
@@ -460,9 +549,7 @@ http://blog.cegeka.be/2014/07/parallel-processing-spring-batch/
 http://javarevisited.blogspot.sg/2012/05/10-points-about-class-file-in-java.html
 http://java.dzone.com/articles/four-best-refactorings-0?mz=38541-devops
 http://blog.scalyr.com/2014/07/impossible-problems-often-arent/
-http://java.dzone.com/articles/part-1-getting-started-ansible
 http://java.dzone.com/articles/part-2-deploying-applications
-http://java.dzone.com/articles/part-4-ansible-tower
 http://java.dzone.com/articles/anatomy-devops-orchestration
 http://www.daedtech.com/p-np-and-decision-problems-really-its-not-that-bad
 http://natureofcode.com/book/introduction/
@@ -481,7 +568,7 @@ http://www.itsprite.com/
 http://www.prahladyeri.com/2014/06/9-optimizations-to-make-your-linux-desktop-fly-like-a-rocket/
 http://ajenti.org/
 http://vimawesome.com/
-https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
+
 http://www.cyberciti.biz/faq/unix-linux-chroot-command-examples-usage-syntax/
 http://techarena51.com/index.php/linux-memory-usage/
 http://openbookproject.net/thinkcs/python/english2e/
@@ -546,7 +633,6 @@ http://theyougen.blogspot.in/2013/05/speed-up-your-project-build-without.html
 http://jlunaquiroga.blogspot.in/2013/04/java-concurrency-part-1.html
 http://www.objc.io/issue-10/ip-tcp-http.html
 http://javarevisited.blogspot.com.br/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html
-http://trove.starlight-systems.com/
 http://java.dzone.com/articles/devops-scares-me-part-2
 http://java.dzone.com/articles/complex-event-processing-made
 http://java.dzone.com/articles/mapping-software-architecture
@@ -608,6 +694,7 @@ https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin
 http://www.javacodegeeks.com/2014/12/implementing-the-git-flow-2.html
 http://www.findbestopensource.com/stack-detail/git-windows-stack
 http://wildlyinaccurate.com/a-hackers-guide-to-git
+http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 
 gc
 http://www.javacodegeeks.com/2013/07/5-coding-hacks-to-reduce-gc-overhead.html
@@ -619,11 +706,13 @@ https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://insightfullogic.com/blog/2013/mar/6/garbage-collection-java-2/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
+http://blog.takipi.com/5-tips-for-reducing-your-java-garbage-collection-overhead/
 
 jms
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
 http://java.dzone.com/articles/spring-jms-activemq
 www.javaworld.com/article/2142107/spring-framework/open-source-java-projects-spring-integration.html
+https://dzone.com/articles/aws-sqs-and-spring-jmsintegration
 
 jpa
 http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
@@ -703,6 +792,10 @@ http://www.thegeekstuff.com/2010/11/50-linux-commands/
 http://www.thegeekstuff.com/best-of-the-blog/
 http://www.grymoire.com/Unix/sed.html
 http://vincebuffalo.com/2013/08/08/the-mighty-named-pipe.html
+https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
+https://opensource.com/business/16/3/system-statistics-sar-and-proc-filesystem
+https://opensource.com/business/15/12/10-sysadmin-tools
+https://www.systemcodegeeks.com/unix/application-server-service-unix/
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
@@ -716,6 +809,8 @@ risk
 http://agile.dzone.com/articles/how-manage-risk
 
 performance
+http://spriteme.org/
+https://www.mnot.net/blog/2016/04/22/ideal-http
 http://net.tutsplus.com/articles/web-assets-tips-for-better-organization-and-performance/
 http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html
 https://github.com/puniverse/quasar
@@ -730,6 +825,8 @@ http://javarevisited.blogspot.sg/2014/07/top-5-java-performance-tuning-books.htm
 http://syntx.io/7-ways-to-significantly-improve-performance-of-your-webapp/
 http://java.dzone.com/articles/performance-tuning
 http://www.dzone.com/links/r/increasing_performance_in_orders_of_magnitude_asy.html
+http://techblog.bozho.net/general-performance-tips/
+https://dzone.com/articles/spring-boot-memory-performance-1
 
 samba
 https://rbgeek.wordpress.com/2012/05/25/how-to-install-samba-server-on-centos-6/
@@ -756,12 +853,6 @@ http://www.webcodegeeks.com/html5/html5-development-tools-list/
 
 sun jdk
 http://fedorasolved.org/Members/zcat/using-sun-java-instead-of-openjdk
-
-tomcat
-http://www.ntu.edu.sg/home/ehchua/programming/howto/Tomcat_More.html
-http://examples.javacodegeeks.com/enterprise-java/maven/how-to-deploy-maven-based-war-file-to-tomcat-example/
-http://java.dzone.com/articles/load-balancing-apache-tomcat
-http://www.mulesoft.com/tcat/understanding-apache-tomcat
 
 tapestry
 http://jumpstart.doublenegative.com.au/jumpstart/
@@ -801,6 +892,7 @@ https://dzone.com/articles/diagnosing-memory-leaks-in-java
 
 web service
 http://openejb.apache.org/examples-trunk/simple-webservice/
+https://blog.codecentric.de/en/2016/02/spring-boot-apache-cxf/
 
 db perf
 http://use-the-index-luke.com/sql/preface
@@ -812,8 +904,12 @@ http://www.ibm.com/developerworks/library/os-ecbug/
 nginx
 http://nginx.org/packages/centos/6/x86_64/RPMS/
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-centos-6
-https://dzone.com/articles/secure-existing-restful-services-no-need-for-chang?oid=integration
+https://dzone.com/articles/secure-existing-restful-services-no-need-for-chang
 http://www.javacodegeeks.com/2015/09/introduction-to-nginx.html
+https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04
+https://dzone.com/articles/the-benefits-of-microcaching-with-nginx
+https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-on-ubuntu-14-04
 
 java memory
 http://java.dzone.com/articles/monitoring-and-detecting
@@ -835,7 +931,6 @@ bookmarks
 http://linux.die.net/Intro-Linux/sect_10_02.html
 http://www.cyberciti.biz/faq/rhel-centos-fedora-linux-yum-command-howto/
 http://wiki.centos.org/HowTos/Network/IPTables
-http://pluralsight.com/training/Authors/Details/john-sonmez?psight
 http://www.thegeekstuff.com/2011/08/yum-command-examples/
 https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/sec-Yum_Repository.html
 http://www.howtoforge.com/setting-up-a-local-yum-repository-fedora8
@@ -867,12 +962,18 @@ http://java.dzone.com/articles/hands-hazelcast-using-open
 http://www.dzone.com/links/r/recommended_viewingdemo_hazelcasts_distributed_ja.html
 http://www.data4j.org/distributed-spring-beans-via-infinispan/
 http://darylmathison.wordpress.com/2014/06/22/beginners-guide-to-hazelcast-part-3/
+http://blog.hazelcast.com/spring-boot/
+
+redis
+https://www.digitalocean.com/community/tutorials/how-to-secure-your-redis-installation-on-ubuntu-14-04
 
 bootstrap
 http://getbootstrap.com/
 http://sap.github.io/openui5/
 https://www.patternfly.org/
 http://designposts.net/best-bootstrap-3-themes/?ref=dzone
+http://www.webcodegeeks.com/css/bootstrap/bootstrap-grid-example/
+
 
 dropbox
 https://www.dropbox.com/help/1909/en
@@ -887,6 +988,8 @@ http://windowsitpro.com/sharepoint-2010/understanding-claims-based-authenticatio
 vpn
 http://www.rackspace.com/knowledge_center/article/installing-rhel-epel-repo-on-centos-5x-or-6x
 http://wiki.centos.org/HowTos/vpnc
+https://www.howtoforge.com/setting-up-an-openvpn-server-with-authentication-against-openldap-on-ubuntu-10.04-lts
+https://dzone.com/articles/enabling-openvpn-configuration-autostart-on-ubuntu
 
 kerberos
 https://help.ubuntu.com/10.04/serverguide/kerberos.html
