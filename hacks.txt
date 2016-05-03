@@ -1,3 +1,6 @@
+sudo apt-get install incron
+/var/www/images/ IN_CREATE,IN_DELETE,IN_CLOSE_WRITE /usr/bin/rsync -a /var/www/images/ raoul@dhcppc2:/var/www/images/
+
 while ( sleep 1 ) ; do ps -p $PID -o %cpu,%mem,rss  ; done
 java -XX:+PrintFlagsFinal -version | grep -i HeapSize
 java -Xms128m -Xmx256m
