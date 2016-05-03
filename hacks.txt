@@ -1,3 +1,21 @@
+npm install --global gulp //only once
+npm install
+npm install --save-dev gulp
+npm install --save-dev gulp-util
+npm install --save-dev gulp-livereload
+// gulpfile.js
+var gulp = require('gulp'),
+    livereload = require('gulp-livereload');
+
+gulp.task('default', ['watch']);
+
+gulp.task('watch', function() {
+    livereload.listen();
+    gulp.watch(['app/**']).on('change', function(file) {
+        livereload.changed(file.path);
+    });
+});
+
 sudo apt-get install incron
 /var/www/images/ IN_CREATE,IN_DELETE,IN_CLOSE_WRITE /usr/bin/rsync -a /var/www/images/ raoul@dhcppc2:/var/www/images/
 

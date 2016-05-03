@@ -1,3 +1,27 @@
+wip
+http://www.dropwizard.io/0.9.2/docs/manual/jdbi.html
+http://connect2id.com/products/nimbus-jose-jwt
+http://connect2id.com/products/nimbus-jose-jwt/examples
+www.jroller.com/eyallupu/entry/jsr_303_beans_validation_using
+https://github.com/stoicflame/enunciate/wiki/Enunciate-Specific-Annotations
+file:///home/raoul/Downloads/rfc4918.pdf
+www.airpair.stfi.re/angularjs/posts/angularjs-from-prototyping-to-functional-code
+file:///home/raoul/Downloads/3932-rc197-010-springintegration_0.pdf
+https://github.com/shekhargulati/java8-the-missing-tutorial
+https://github.com/winterbe/java8-tutorial
+file:///home/raoul/Downloads/3874-rc200-010d-java_performance_optimization_0.pdf
+https://wiki.shibboleth.net/confluence/display/IDP30
+https://wiki.shibboleth.net/confluence/display/IDP30/Installation
+http://ngmodules.org/popular
+https://www.airpair.com/angularjs
+https://thinkster.io/a-better-way-to-learn-angularjs
+https://github.com/mgonto/restangular
+file:///home/raoul/Downloads/3061-rc206-010d-angularjs.pdf
+https://github.com/scribejava/scribejava
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial
+https://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide/
+
+
 https://brendakaren.wordpress.com/2009/07/19/overview-of-a-simplified-method-of-teaching-music/
 http://www.pianobychords.com
 https://github.com/Jack000/Expose
@@ -98,6 +122,7 @@ http://www.javacodegeeks.com/2014/09/typical-mistakes-in-java-code.html
 https://openclipart.org/
 https://www.thoughtworks.com/radar
 http://patorjk.com/software/taag
+http://blog.takipi.com/13-decks-java-developers-must-see-to-stay-updated/
 
 feature flag
 http://featureflags.io/resources/
@@ -134,9 +159,14 @@ http://www.javaworld.com/article/3000781/development-tools/open-source-java-proj
 http://examples.javacodegeeks.com/core-java/introduction-docker-java-developers/
 https://dzone.com/articles/10-practical-docker-tips-for-day-to-day-docker-usa
 https://dzone.com/articles/installing-kubernetes-moving-from-physical-servers
+https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/
+
+nagios
+https://www.systemcodegeeks.com/monitoring/nagios/nagios-core-installation-configuration/
 
 ci/cd
 https://blog.codecentric.de/en/2015/10/continuous-integration-platform-using-docker-container-jenkins-sonarqube-nexus-gitlab/
+https://dzone.com/articles/get-started-with-jenkins-20-with-docker
 
 javascript
 http://berzniz.com/post/68001735765/javascript-hacks-for-hipsters
@@ -145,6 +175,10 @@ https://github.com/airbnb/javascript/blob/master/README.md
 http://nvd3.org/
 https://opensource.com/life/15/6/eight-open-source-data-visualization-tools
 https://dzone.com/articles/three-projects-essential-for-elegant-javascript
+https://www.webcodegeeks.com/javascript/javascript-tutorial-part-3-variable-scope-closures/
+
+blockchain
+http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
 
 sql
 http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql
@@ -166,6 +200,9 @@ http://www.thenoccave.com/2013/12/30/mariadb-galera-cluster-ha-proxy-keepalived-
 http://behindtheracks.com/2014/04/redundant-load-balancers-haproxy-and-keepalived/
 http://behindtheracks.com/2014/04/mysql-high-availability-with-galera-and-haproxy/
 https://www.digitalocean.com/community/tutorials/how-to-install-memsql-on-ubuntu-14-04
+http://www.thegeekstuff.com/2016/05/move-mysql-directory/
+http://java.dzone.com/articles/mysqldmulti-how-run-multiple
+http://www.thegeekstuff.com/2016/04/mysql-optimize-table
 
 rest
 http://java.dzone.com/articles/rest-api-best-practices
@@ -213,6 +250,7 @@ http://vladmihalcea.com/
 http://www.baeldung.com/
 https://www.digitalocean.com/community
 http://swreflections.blogspot.in/
+http://marmelab.com/blog/
 
 threads
 http://blog.takipi.com/java-thread-magic-tricks/
@@ -235,6 +273,7 @@ http://java.dzone.com/articles/log-collection-graylog-aws
 https://www.loggly.com/ultimate-guide/
 https://github.com/NarrativeScience/Log.io
 https://balamaci.ro/java-app-monitoring-with-elk-logstash/
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04
 
 aws
 http://www.thegeekstuff.com/2016/02/aws-storage-and-db
@@ -242,11 +281,16 @@ http://www.thegeekstuff.com/2016/02/aws-storage-and-db
 spring boot
 http://geekabyte.blogspot.ro/2015/08/embedding-elasticsearch-in-spring.html
 https://spring.io/blog/2015/09/01/react-js-and-spring-data-rest-part-1-basic-features
-https://dzone.com/articles/dropwizard-from-the-start-part-ii-building-a-ui-us
 http://yetanotherdevblog.com/introduction_to_spring_restdocs
+https://dzone.com/articles/easily-generate-a-full-stack-java-javascript-app-w
+
+dropwizard
+https://dzone.com/articles/starting-dropwizard-microservices
+https://dzone.com/articles/dropwizard-from-the-start-part-ii-building-a-ui-us
 
 elasticsearch
 http://examples.javacodegeeks.com/enterprise-java/spring/spring-data-elasticsearch-example/
+https://dzone.com/articles/an-introduction-to-elasticsearch
 
 architecture
 http://effectivesoftwaredesign.com/2014/05/25/antifragile-software-design-abstraction-and-the-barbell-strategy/
@@ -310,15 +354,19 @@ http://java.dzone.com/articles/collection-resources-android
 http://zeroturnaround.com/rebellabs/7-best-android-libraries-that-java-developer-should-know-about/
 https://dzone.com/articles/location-aware-app-in-android-uv-index
 
+swift
+https://dzone.com/articles/easily-install-swift-on-linux
+
 ubuntu
+https://www.digitalocean.com/community/tags/ubuntu-16-04
 http://askubuntu.com/questions/174312/how-can-i-set-my-ubuntu-12-04-lts-to-boot-to-console-without-gui
 http://askubuntu.com/questions/187862/after-update-get-error-file-not-found-followed-by-grub-rescue
 
 date
-www.baeldung.com/jackson-serialize-dates
+http://www.baeldung.com/jackson-serialize-dates
 http://shekhargulati.com/2015/10/25/lets-master-java-8-date-time-api/
 
-angular
+angularjs
 https://medium.com/developers-writing/tips-and-practices-to-optimize-your-angularjs-app-8118550ff808#.b0qji2olt
 http://www.codelord.net/2015/10/22/angular-authentication-3-step-recipe/
 http://www.webcodegeeks.com/javascript/angular-js/angularjs-ui-router-example/
@@ -340,11 +388,21 @@ http://www.javacodegeeks.com/2015/12/10-awesome-angularjs-tutorials-to-kick-star
 https://www.webcodegeeks.com/javascript/node-js/creating-nodejs-web-server-run-angular-seed/
 https://www.webcodegeeks.com/javascript/angular-js/angularjs-mvc-tutorial-part-1-project-setup/
 https://www.webcodegeeks.com/javascript/angular-js/promises-angularjs-part-ii-q-service/
+https://www.webcodegeeks.com/javascript/angular-js/angular-js-http-post-example/
+http://g00glen00b.be/prototyping-spring-boot-angularjs/
+http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
+https://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide/
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial
+https://www.webcodegeeks.com/javascript/angular-js/angular-js-location-example/
 
 angular2
 https://dzone.com/articles/getting-started-with-angular-2
 
+ssl
+https://dzone.com/articles/how-to-install-free-ssl-easily-for-your-website
+
 security
+https://cipherli.st/
 http://docs.spring.io/spring-security/site/docs/3.1.3.RELEASE/reference/crypto.html
 http://shout.setfive.com/2015/11/02/spring-boot-authentication-with-custom-http-header/
 http://www.tripwire.com/state-of-security/security-data-protection/top-five-hacker-tools-every-ciso-should-understand/
@@ -371,7 +429,6 @@ http://www.itworld.com/development/79351/how-configure-tomcat-always-require-htt
 http://www.troyhunt.com/2015/09/troys-ultimate-list-of-security-links.html
 https://dzone.com/articles/10-steps-to-secure-software
 https://github.com/minimaxir/big-list-of-naughty-strings
-
 http://picketlink.org/
 http://keycloak.jboss.org/
 https://cxf.apache.org/fediz.html
@@ -430,6 +487,7 @@ http://vladmihalcea.com/2014/08/29/how-to-customize-hibernate-dirty-checking-mec
 http://www.thoughts-on-java.org/how-to-activate-hibernate-statistics-to-analyze-performance-issues/
 https://prestodb.io/
 https://dzone.com/articles/calling-stored-procedures-from-spring-data-jpa
+https://vladmihalcea.com/2016/05/03/the-best-way-of-logging-jdbc-statements/
 
 aclocal
 https://dragkh.wordpress.com/2013/12/18/how-to-install-mysql-10-0-6-mariadb-and-to-compile-lib_mysqludf_preg-on-centos-6-4/
@@ -449,6 +507,8 @@ https://dzone.com/articles/big-data-java-survey-result
 https://dzone.com/articles/study-list-for-data-engineers-and-aspiring-data-ar
 http://www.javaworld.com/article/2972863/big-data/open-source-java-projects-apache-spark.html
 https://www.javacodegeeks.com/2016/02/apache-hadoop-tutorial.html
+http://infoq.com/articles/apache-spark-introduction
+http://www.javaworld.com/article/3060078/big-data/big-data-messaging-with-kafka-part-1.html
 
 load testing
 http://techblog.bozho.net/?p=1535
@@ -474,6 +534,7 @@ http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
 
 devops
 http://blog.frankel.ch/become-a-devops-with-spring-boot
+https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins
 
 gradle
 http://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-creating-a-web-application-project/
@@ -488,6 +549,9 @@ https://dzone.com/articles/10-jquery-snippets-for-efficient-web-development
 puppet
 http://www.thegeekstuff.com/2015/07/puppet-configuration-examples
 http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
+
+chef
+http://www.thegeekstuff.com/2016/06/chef-cookbook-directory-structure
 
 audit
 http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-auditing-part-one/
@@ -515,7 +579,6 @@ http://geekabyte.blogspot.co.uk/2015/05/how-to-publish-software-artifacts-to.htm
 http://www.java-allandsundry.com/2014/10/spring-caching-abstraction-and-google.html
 http://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot
 http://www.infoworld.com/article/2896105/windows-tools/15-open-source-gems-for-windows-from-microsoft-codeplex.html
-http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://dcg.ethz.ch/lectures/podc_allstars
 http://www.programcreek.com/2013/08/top-books-for-advanced-level-java-developers/
 http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
@@ -534,7 +597,6 @@ http://www.lordofthejars.com/2014/09/apache-tomee-shrinkwrap-javaee-boot-not.htm
 http://www.javais.cool/
 adlervermillion.com/how-to-read-a-patent
 theprogrammersparadox.blogspot.in/2014/09/estimation.html
-http://java.dzone.com/articles/mysqldmulti-how-run-multiple
 http://12factor.net/
 http://www.garysieling.com/blog/auditing-data-changes-postgres
 http://zeroturnaround.com/rebellabs/the-6-built-in-jdk-tools-the-average-developer-should-learn-to-use-more/
@@ -581,7 +643,6 @@ https://code.google.com/p/guava-libraries/wiki/GuavaExplained
 https://inventropy.us/blog/50-linux-resources-for-developers/
 http://geektub.com/2014/05/20-best-ebooks-for-html5-learner/
 http://blog.sensible.io/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
-http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 http://designzum.com/2014/05/16/8-best-open-source-e-learning-cms/
 http://www.sitepoint.com/time-complexity-algorithms/
 http://krams915.blogspot.in/p/tutorials.html
@@ -641,7 +702,6 @@ http://www.baeldung.com/persistence-with-spring-series/
 http://eclipsesource.com/blogs/2012/06/06/cleaner-code-with-guava-optionals-and-preconditions/
 http://www.dzone.com/links/r/maven_tutorial_2.html
 http://www.baeldung.com/spring-with-maven
-http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
 http://architects.dzone.com/articles/data-analysis-unix-shell
 http://msdn.microsoft.com/en-us/library/ms997506.aspx
 http://www.embeddedrelated.com/showarticle/128.php
@@ -707,6 +767,7 @@ http://insightfullogic.com/blog/2013/mar/6/garbage-collection-java-2/
 https://blog.codecentric.de/en/2014/07/fixing-garbage-collection-issues-easily/
 http://howtojboss.com/2013/04/10/garbage-collector-performance-comparison/
 http://blog.takipi.com/5-tips-for-reducing-your-java-garbage-collection-overhead/
+https://dzone.com/articles/understanding-garbage-collection-log
 
 jms
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
@@ -765,6 +826,7 @@ http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda?hn=1
 
 unix
+https://www.systemcodegeeks.com/linux/systemd-upstart-services/
 http://data.langly.fr/blackhat
 http://www.revsys.com/writings/quicktips/ssh-tunnel.html
 http://cfenollosa.com/misc/tricks.txt
@@ -850,6 +912,9 @@ http://architects.dzone.com/articles/drastically-improving-your
 css
 http://purecss.io/
 http://www.webcodegeeks.com/html5/html5-development-tools-list/
+https://www.webcodegeeks.com/css/css-button-style-example/
+http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
+https://www.webcodegeeks.com/css/css-multiple-classes-example/
 
 sun jdk
 http://fedorasolved.org/Members/zcat/using-sun-java-instead-of-openjdk
@@ -954,6 +1019,9 @@ http://java.dzone.com/articles/quick-intro-hibernate-search
 http://vanillajava.blogspot.in/
 http://i-programmer.info/programming/theory/6431-functional-and-dysfunctional-programming.html
 
+10x
+http://www.javaslang.io/
+
 non-functional
 https://en.wikipedia.org/wiki/Non-functional_requirement
 
@@ -990,6 +1058,7 @@ http://www.rackspace.com/knowledge_center/article/installing-rhel-epel-repo-on-c
 http://wiki.centos.org/HowTos/vpnc
 https://www.howtoforge.com/setting-up-an-openvpn-server-with-authentication-against-openldap-on-ubuntu-10.04-lts
 https://dzone.com/articles/enabling-openvpn-configuration-autostart-on-ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04
 
 kerberos
 https://help.ubuntu.com/10.04/serverguide/kerberos.html
@@ -1010,6 +1079,7 @@ http://www.javacodegeeks.com/2015/09/mongodb-a-scalable-nosql-db.html
 
 nosql
 http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
+https://dzone.com/articles/polyglot-persistence-in-nosql-space
 
 acer
 http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utility/
