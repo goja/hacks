@@ -12,13 +12,7 @@ https://github.com/winterbe/java8-tutorial
 file:///home/raoul/Downloads/3874-rc200-010d-java_performance_optimization_0.pdf
 https://wiki.shibboleth.net/confluence/display/IDP30
 https://wiki.shibboleth.net/confluence/display/IDP30/Installation
-http://ngmodules.org/popular
-https://www.airpair.com/angularjs
-https://thinkster.io/a-better-way-to-learn-angularjs
-https://github.com/mgonto/restangular
-file:///home/raoul/Downloads/3061-rc206-010d-angularjs.pdf
 https://github.com/scribejava/scribejava
-https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial
 https://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide/
 
 
@@ -145,21 +139,16 @@ http://stackoverflow.com/questions/17117063/how-can-i-create-a-vm-in-vagrant-wit
 http://jongalentine.com/2012/12/22/creating-vagrant-base-boxes-with-veewee/
 https://github.com/mitchellh/vagrant/issues/1446
 https://blog.codecentric.de/en/2014/01/lightweight-virtual-machines-made-simple-docker-run-100-virtual-maschines/
-http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/
 https://github.com/dotless-de/vagrant-vbguest
-http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/
-http://zeroturnaround.com/rebellabs/docker-for-java-developers-how-to-sandbox-your-app-in-a-clean-environment/
-http://www.drissamri.be/blog/continuous-delivery/introducing-docker-java-developer/
 http://blog.sequenceiq.com/blog/2014/08/12/docker-networking/
-http://opensource.com/business/14/7/guide-docker
 http://technologyconversations.com/category/continuous-integration-delivery-and-deployment/
 https://dzone.com/articles/docker-machine-compose-swarm-how-they-work-togethe
-http://www.infoq.com/articles/docker-containers
-http://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html
-http://examples.javacodegeeks.com/core-java/introduction-docker-java-developers/
 https://dzone.com/articles/10-practical-docker-tips-for-day-to-day-docker-usa
 https://dzone.com/articles/installing-kubernetes-moving-from-physical-servers
+create and destroy servers in docker for mvn tests
 https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/
+package mvn build as a docker image
+http://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html?page=2
 
 nagios
 https://www.systemcodegeeks.com/monitoring/nagios/nagios-core-installation-configuration/
@@ -376,7 +365,6 @@ http://www.jptacek.com/2014/06/angularJS-intro-to-directives/
 http://www.learn-angular.org/
 http://www.cheatography.com/proloser/cheat-sheets/angularjs/
 http://www.ng-newsletter.com/posts/how-to-learn-angular.html
-http://www.thinkster.io/pick/GtaQ0oMGIl/a-better-way-to-learn-angularjs#item-51e78b7e505a417713000002
 http://www.dzone.com/links/r/tutorial_how_to_create_a_responsive_website_with.html angular
 http://www.designyourway.net/blog/resources/so-you-want-to-learn-angularjs-start-with-these-tutorials-and-resources/
 http://sap.github.io/openui5/
@@ -392,8 +380,8 @@ https://www.webcodegeeks.com/javascript/angular-js/angular-js-http-post-example/
 http://g00glen00b.be/prototyping-spring-boot-angularjs/
 http://jpgmr.wordpress.com/2014/05/16/pagination-with-spring-data-and-hateoas-in-an-angularjs-app/
 https://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide/
-https://examples.javacodegeeks.com/enterprise-java/spring/mvc/angularjs-spring-integration-tutorial
 https://www.webcodegeeks.com/javascript/angular-js/angular-js-location-example/
+https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js
 
 angular2
 https://dzone.com/articles/getting-started-with-angular-2
@@ -971,7 +959,6 @@ http://nginx.org/packages/centos/6/x86_64/RPMS/
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-centos-6
 https://dzone.com/articles/secure-existing-restful-services-no-need-for-chang
 http://www.javacodegeeks.com/2015/09/introduction-to-nginx.html
-https://www.digitalocean.com/community/tutorials/how-to-run-nginx-in-a-docker-container-on-ubuntu-14-04
 https://dzone.com/articles/the-benefits-of-microcaching-with-nginx
 https://dzone.com/articles/scaling-web-applications-with-nginx-part-ii-cachin
 https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-on-ubuntu-14-04
