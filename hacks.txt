@@ -1,3 +1,37 @@
+@Id
+@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "author_generator")
+@SequenceGenerator(name="author_generator", sequenceName = "author_seq")
+@Column(name = "id", updatable = false, nullable = false)
+private Long id;
+
+sudo netstat -punta | grep tcp | grep LISTEN
+
+git log -p
+
+javascript big_data full_stack devops python ruby nodejs security mobile cloud aws iot
+the ability to break down big projects into small stories, prioritizing, adapting to change, and delivering the most value
+project_management plan track process culture
+confluence wiki jira documentation
+bootstrap static_analysis testing code_review deploy monitor
+
+git bitbicket
+liquibase maven jenkins nexus ansible rundeck docker compose swarm elk tripwire
+code reivew issue tracking
+fitnesse junit selenium jmeter jasmine
+gulp
+
+app:
+  image: java
+  command: java -jar /app/bin/core.war
+  volumes:
+    - /docker/java:/app
+    - /workspace/goja:/web
+  links:
+    - mariadb
+    - redis
+
+SECURITY PERSISTENCE MESSAGING TRANSACTIONS INTEGRATION PRESENTATION
+
 docker run -v /workspace/speed/:/opt/speed -p 80:80 --rm java java -jar /opt/speed/target/speed-0.0.1-SNAPSHOT.jar
 
 docker network create sso
@@ -115,14 +149,11 @@ sudo apt-get install -f
 sudo apt-get install fglrx
 
 To grant the super privilege to the MySQL user, use the MySQL Query browser and connect to the database that the user needs super privilege. Then execute the following command:
-
 grant super on *.* to Tim
-
 If you ever want to revoke the super privilege from the user you can use:
-
 revoke super on *.* from Tim
 
--javaagent:/opt/spring-loaded/springloaded-1.2.3.RELEASE.jar -noverify
+-javaagent:/opt/spring-loaded/springloaded-1.2.6.RELEASE.jar -noverify
 
 disable ipv6 centos
 /etc/sysctl.conf
