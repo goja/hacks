@@ -1,3 +1,26 @@
+
+
+echo fs.inotify.max_user_watches=582222 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+NAÏVE BAYES CLASSIFIER
+K-MEANS CLUSTERING
+SUPPORT VECTOR MACHINE
+APIORI ALGORITHM
+LINEAR REGRESSION
+LOGISTIC REGRESSION
+NEURAL NETWORKS
+RANDOM FORESTS
+DECISION TREES
+NEAREST NEIGHBORS
+
+JSON.stringify(obj, null, 4);
+
+consul agent -server -bootstrap-expect 1 -data-dir /tmp/consul -node=agent-one -bind=192.168.1.17 -config-dir /etc/consul.d -ui
+consul agent -data-dir /tmp/consul -node=agent-two -bind=192.168.1.4 -config-dir /etc/consul.d
+
+dig  ANY +noall +answer
+dig  +trace
+
 @Id
 @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "author_generator")
 @SequenceGenerator(name="author_generator", sequenceName = "author_seq")
@@ -7,6 +30,10 @@ private Long id;
 sudo netstat -punta | grep tcp | grep LISTEN
 
 git log -p
+git reset --hard
+git checkout .
+git clean -df
+git diff --name-only SHA1 SHA2
 
 javascript big_data full_stack devops python ruby nodejs security mobile cloud aws iot
 the ability to break down big projects into small stories, prioritizing, adapting to change, and delivering the most value
@@ -17,8 +44,11 @@ bootstrap static_analysis testing code_review deploy monitor
 git bitbicket
 liquibase maven jenkins nexus ansible rundeck docker compose swarm elk tripwire
 code reivew issue tracking
-fitnesse junit selenium jmeter jasmine
+fitnesse junit selenium jmeter jasmine groovy rest-assured dbunit vcr wiremock mockito
 gulp
+
+JVM Debugger Memory View
+gradle profile clover mockito jetty guava log findbugs
 
 app:
   image: java
@@ -37,6 +67,8 @@ docker run -v /workspace/speed/:/opt/speed -p 80:80 --rm java java -jar /opt/spe
 docker network create sso
 docker run --net=sso --name speed -v /workspace/speed/:/opt/speed -d java java -jar /opt/speed/target/speed-0.0.1-SNAPSHOT.jar
 docker run --net=sso --name nginx -p 80:80 -v /docker/nginx/conf/nginx.conf:/etc/nginx/nginx.conf -v /docker/nginx/conf/default.conf:/etc/nginx/conf.d/default.conf nginx
+docker run --name cxl-mariadb -p 3306:3306 -v /sandbox/mariadb/:/var/lib/mysql -e MYSQL_DATABASE=cxl -e MYSQL_ROOT_PASSWORD=password -e MYSQL_USER=sa -e MYSQL_PASSWORD=password -d mariadb
+docker run --name cxl-postgres -p 5432:5432 -v /sandbox/postgres/:/var/lib/postgresql/data -e POSTGRES_PASSWORD=password -e POSTGRES_USER=sa -e POSTGRES_DB=test -d postgres
 
 npm install --global gulp //only once
 npm install
@@ -210,13 +242,6 @@ console.debug(object);
 git tag -d 12345
 git push origin :refs/tags/12345
 
->"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:n
-"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s1TVn
-"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s1THn
-"%ProgramFiles(x86)%\Git\bin\sh" --login -i -cur_console:s2THn
- /cmd @startup.txt
-
-
 @Query("SELECT t FROM Todo t where t.title=:searchTerm")
 public List<Todo> search(@Param("searchTerm") String searchTerm)
 
@@ -257,37 +282,12 @@ SET GLOBAL general_log = 'OFF';
 
 wireshark
 sourcegear diffmerge softerra ldap browser
-autohotkey ditto sysinternalssuite skitch
-ant jmeter maven tomcat groovy
 conemupack eclipse heidisql
 collabnet subversion client
-virtualbox vagrant
 
 firefox
 cookies manager firebug firepath restclient selenium ide tamperdata clear console
 CATALINA_OPTS="$CATALINA_OPTS -Xms1024m -Xmx1024m -XX:MaxPermSize=512m"
-
-[base-local]
-name=CentOS 6.4 x86_64 base
-failovermethod=priority
-baseurl=http://raoul-yum/
-enabled=1
-gpgcheck=0
-
-http://apt.sw.be/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
-
-qt-x11 libGL qt SDL libpng libXt libXmu libXinerama libXcursor make gcc kernel-devel
-
-mvn release:prepare -Darguments="-DskipTests"
-
-search.maven.org
-
-ctrl+shift+g references in project in windows
-ctrl+tab next editor in windows
-alt+d max active view or editor in windows
-alt+q copy line editing text
-
-%APPDATA%\Microsoft\Windows\SendTo
 
 sudo arp-scan -I p4p1 -l
 nmap -sP 10.2.0.211/22
@@ -324,6 +324,14 @@ do
 	MP=`ps -eLf | grep mycampus | wc -l`;
 	echo "TIME WAIT = $TW";
 	echo "MyCampus Processes = $MP";
+done
+
+for i in {1..1000}
+do
+FR=`free -m`;
+echo $FR;
+sleep 10;
+clear;
 done
 
 ssh-copy-id -i id_rsa.pub vagrant@raoul-tomcat
@@ -368,96 +376,26 @@ adduser -m raoul
 passwd raoul
 echo 'useraccount ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
 
-external applications in svn is QuickLinksSSO
-
-
 find last 10 changes in svn
-
 svn log https://svn.campuseai.org/svn/portlets/projects/LiveIntegration/trunk/ -v --limit 10
 
-
-
 if mvn release gives auth error
-
 mvn release:prepare -Dusername=[username] -Dpassword=[password]
 
-
 disable ivy checksum
-
 in ivysettings.xml, add <property name="ivy.checksums" value=""/> under <ivysettings>.
-
-
 
 <c:foreach varStatus="counter"
 ${counter.index} starts from 0
 ${counter.count} starts from 1
 
-
 ERROR 2006 (HY000) at line 1374: MySQL server has gone away
-
 in my.cnf/ini, add max_allowed_packet = 16M restart server
 
-
-
-check jquery version
-
-alert(jQuery.fn.jquery);
-
-
-
 increase tomcat memory
-
 add the following line to catalina.sh below the last JAVA_OPTS setting (eg JAVA_OPTS="$JAVA_OPTS $LOGGING_MANAGER") OUTSIDE any blocks
-
 JAVA_OPTS="$JAVA_OPTS -Xms4096m -Xmx4096m -XX:MaxPermSize=768m"
 
 
-
-do NOT run tests during a maven build
-
-mvn clean package -DskipTests
-
-
-
-JAVA_HOME in ubuntu
-add the following line at the end of .bashrc
-
-export JAVA_HOME="/home/raoul/Programs/jdk1.6.0_38"
-
-
-
 start tomcat in debug mode
-
 startup.sh add jpda before start
-
-
-
-junit executing cached class in eclipse maven project
-
-rt clk on src/test/java, build path > configure output folder, specific output folder - target/test-classes
-
-
-
-ubuntu no such file or directory
-
-trying to install a 32-bit package on a 64-bit system
-
-
-
-liferay multiple versions of jQuery
-<script type='text/javascript' src='js/jquery_1.4.js'></script>
-
-<script type='text/javascript'>
-
-var $jq = jQuery.noConflict(true);
-
-</script>
-
-
-
-<script type='text/javascript' src='js/jquery_1.2.6.js'></script>
-
-
-$jq('.classname').hide() -- uses jQuery 1.4
-
-jQuery(.'classname').hide() -- uses jQuery 1.2.6

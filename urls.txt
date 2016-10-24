@@ -1,7 +1,5 @@
 wip
 http://www.dropwizard.io/0.9.2/docs/manual/jdbi.html
-http://connect2id.com/products/nimbus-jose-jwt
-http://connect2id.com/products/nimbus-jose-jwt/examples
 www.jroller.com/eyallupu/entry/jsr_303_beans_validation_using
 https://github.com/stoicflame/enunciate/wiki/Enunciate-Specific-Annotations
 www.airpair.stfi.re/angularjs/posts/angularjs-from-prototyping-to-functional-code
@@ -37,6 +35,34 @@ http://ngmodules.org/popular
 https://www.airpair.com/angularjs
 https://www.airpair.com/angularjs/posts/angularjs-from-prototyping-to-functional-code
 
+http://www.circuitstoday.com/category/arduino/page/2
+https://www.webcodegeeks.com/css/bootstrap/bootstrap-tutorial/
+https://www.sitepoint.com/easy-angularjs-authentication-with-auth0/
+https://www.loggly.com/blog/angularjs-exception-logging-made-simple/
+https://www.terraform.io/docs/providers/docker/r/container.html
+https://www.terraform.io/intro/getting-started/dependencies.html
+https://www.javacodegeeks.com/2016/07/git-tutorial.html
+https://www.javacodegeeks.com/2016/07/token-authentication-java-applications.html
+https://blog.jetbrains.com/idea/2016/07/java-8-top-tips/
+http://zeroturnaround.com/rebellabs/java-collections-cheat-sheet/
+http://blog.takipi.com/java-productivity-tips-top-picks-from-the-community/
+https://hacks.mozilla.org/2016/05/css-coding-techniques/
+https://www.digitalocean.com/community/tutorials/5-ways-to-improve-your-production-web-application-server-setup
+http://www.baeldung.com/rest-api-spring-oauth2-angularjs
+http://makitweb.com/ng-show-and-hide-directives-in-angularjs/
+https://www.linkedin.com/pulse/how-build-automated-continuous-deployment-pipeline-jenkins-demiris
+http://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
+https://zeroturnaround.com/rebellabs/jenkins-protip-artifact-propagation/
+
+http://www.instructables.com/id/Control-Your-Home-Appliances-Using-Arduino-and-Rel/?ALLSTEPS
+http://angular-ui.github.io/bootstrap/
+https://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
+http://www.thoughts-on-java.org/hibernate-best-practices/
+http://in.relation.to/2016/09/12/jdbc-time-zone-configuration-property/
+http://www.baeldung.com/java-web-weekly-142
+
+
+
 https://brendakaren.wordpress.com/2009/07/19/overview-of-a-simplified-method-of-teaching-music/
 http://www.pianobychords.com
 https://github.com/Jack000/Expose
@@ -49,6 +75,9 @@ http://www.ibm.com/developerworks/topics/
 https://developer.ibm.com/open/projects/
 http://dzone.com/zb/products
 
+read
+https://www.javacodegeeks.com/2010/12/things-every-programmer-should-know.html
+https://www.javacodegeeks.com/2012/05/top-10-things-every-software-engineer.html
 
 money
 http://www.enterprisesales.nyc/
@@ -60,7 +89,8 @@ http://www.jobsintech.io/#q=&page=0&refinements=[]
 https://nces.ed.gov/collegenavigator/
 http://www.infoworld.com/article/3084659/open-source-tools/7-tools-for-cutting-through-software-legalese.html
 
-
+swift
+https://dzone.com/articles/learn-how-to-integrate-google-signin-sdk-using-swi
 
 resources
 http://www.it-ebooks.info/
@@ -75,6 +105,10 @@ https://dzone.com/articles/proposed-tech-stack-to-build-online-store-with-mon
 
 jwt
 https://www.javacodegeeks.com/2016/07/token-authentication-java-applications.html
+
+java8
+https://examples.javacodegeeks.com/core-java/time/java-8-date-time-api-tutorial/
+https://www.javacodegeeks.com/2015/07/java-se-8-new-features-tour-processing-collections-with-streams-api.html
 
 tools
 http://blog.jetbrains.com/idea/2015/10/intellij-idea-tips-and-tricks/
@@ -183,6 +217,7 @@ create and destroy servers in docker for mvn tests
 https://examples.javacodegeeks.com/devops/docker/docker-tutorial-beginners/
 package mvn build as a docker image
 http://www.javaworld.com/article/3000781/development-tools/open-source-java-projects-docker.html
+http://stackoverflow.com/questions/27763340/docker-opts-do-not-work-in-config-file-etc-default-docker
 
 nagios
 https://www.systemcodegeeks.com/monitoring/nagios/nagios-core-installation-configuration/
@@ -199,6 +234,8 @@ http://nvd3.org/
 https://opensource.com/life/15/6/eight-open-source-data-visualization-tools
 https://dzone.com/articles/three-projects-essential-for-elegant-javascript
 https://www.webcodegeeks.com/javascript/javascript-tutorial-part-3-variable-scope-closures/
+https://dzone.com/articles/what-are-closures-in-javascript
+https://github.com/hustcc/timeago.js
 
 blockchain
 http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
@@ -307,6 +344,7 @@ https://spring.io/blog/2015/09/01/react-js-and-spring-data-rest-part-1-basic-fea
 http://yetanotherdevblog.com/introduction_to_spring_restdocs
 https://dzone.com/articles/easily-generate-a-full-stack-java-javascript-app-w
 http://www.lucassaldanha.com/unit-and-integration-tests-in-spring-boot/
+https://dzone.com/articles/spring-boot-secured-by-lets-encrypt
 
 dropwizard
 https://dzone.com/articles/starting-dropwizard-microservices
@@ -333,6 +371,7 @@ http://www.jacopretorius.net/2013/12/prevent-a-user-navigating-away-from-a-page-
 
 nodejs
 http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/
+https://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools
 
 java
 http://jlunaquiroga.blogspot.in/2013/08/java-collections-framework-part-7.html
@@ -379,6 +418,7 @@ http://creative-punch.net/2014/03/make-basic-single-touch-drawing-app-android/
 http://java.dzone.com/articles/collection-resources-android
 http://zeroturnaround.com/rebellabs/7-best-android-libraries-that-java-developer-should-know-about/
 https://dzone.com/articles/location-aware-app-in-android-uv-index
+http://www.javaworld.com/article/3095406/android/android-studio-for-beginners-part-1-installation-and-setup.html
 
 swift
 http://dotneverland.blogspot.in/2016/05/swift-for-java-guy-part-1-getting.html
@@ -426,6 +466,12 @@ http://www.baeldung.com/rest-api-spring-oauth2-angularjs
 http://makitweb.com/ng-show-and-hide-directives-in-angularjs/
 https://dzone.com/articles/angular-router-empty-paths-componentless-routes-an
 http://www.geekhours.com/2016/07/19/creating-custom-directives-in-angularjs-4-examples/
+https://www.loggly.com/blog/angularjs-exception-logging-made-simple/
+https://www.sitepoint.com/easy-angularjs-authentication-with-auth0/
+https://www.sitepoint.com/easy-form-validation-angularjs-ngmessages/
+http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/
+http://code.tutsplus.com/tutorials/mastering-angularjs-directives--cms-22511
+https://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application
 
 angular2
 https://dzone.com/articles/getting-started-with-angular-2
@@ -546,6 +592,7 @@ http://www.javaworld.com/article/2972863/big-data/open-source-java-projects-apac
 https://www.javacodegeeks.com/2016/02/apache-hadoop-tutorial.html
 http://infoq.com/articles/apache-spark-introduction
 http://www.javaworld.com/article/3060078/big-data/big-data-messaging-with-kafka-part-1.html
+https://dzone.com/articles/top-10-big-data-technology-to-start-adopting-today
 
 load testing
 http://techblog.bozho.net/?p=1535
@@ -566,9 +613,6 @@ https://opensource.com/resources/what-are-microservices
 https://www.nginx.com/blog/event-driven-data-management-microservices/
 https://dzone.com/articles/microservices-in-practice-1
 
-flyway
-http://java.dzone.com/articles/database-migration-flyway?mz=164405-sql
-
 devops
 http://blog.frankel.ch/become-a-devops-with-spring-boot
 https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins
@@ -582,13 +626,6 @@ jquery
 http://www.thegeekstuff.com/2015/07/write-jquery-plugin
 http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/
 https://dzone.com/articles/10-jquery-snippets-for-efficient-web-development
-
-puppet
-http://www.thegeekstuff.com/2015/07/puppet-configuration-examples
-http://techarena51.com/index.php/a-simple-way-to-install-and-configure-a-puppet-server-on-linux/
-
-chef
-http://www.thegeekstuff.com/2016/06/chef-cookbook-directory-structure
 
 audit
 http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-auditing-part-one/
@@ -693,7 +730,6 @@ http://opensource.com/business/14/11/8-new-tips-getting-things-done-openstack
 http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
 http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html
 http://www.programming-free.com/2014/04/spring-mvc-consuming-restful-web-services.html
-http://www.baeldung.com/hibernate-pagination
 http://java.dzone.com/articles/creating-object-pool-java
 http://geekabyte.blogspot.in/2014/04/configuring-hibernate-jpa-in-spring.html
 http://java.dzone.com/articles/hibernate-facts-integration
@@ -709,7 +745,6 @@ http://engineering.linkedin.com/distributed-systems/log-what-every-software-engi
 http://java.dzone.com/articles/legacy-java-applications
 http://www.cubrid.org/blog/dev-platform/x86-server-virtualization-technology/
 http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding
-http://blog.scramcode.com/post/4/6-tips-to-make-eclipse-lighter-prettier-and-more-efficient/
 http://java.dzone.com/articles/how-setup-basic-authentication
 http://kim.saabye-pedersen.org/2013/06/spring-singletons-potential-source-of.html
 http://www.webdesignerdepot.com/2013/06/side-project-silver-screen-society/
@@ -723,7 +758,6 @@ http://h30499.www3.hp.com/t5/HP-Software-Developers-Blog/8-aspects-that-software
 http://blog.castsoftware.com/using-hibernate-frameworks-what-are-the-best-practices/
 http://www.sachtechnologies.com/blogs/?p=2491:hibernate-best-practices
 http://stackoverflow.com/questions/15496/hidden-features-of-java/42686#42686
-http://howtodoinjava.com/spring-3/
 http://www.javacodegeeks.com/2011/10/services-practices-tools-that-should_18.html
 http://eclipsesource.com/blogs/2013/04/11/junit-the-difference-of-practice-and-theory/
 http://www.kumaranuj.com/2013/06/jpa-2-entitymanagers-transactions-and.html
@@ -769,6 +803,7 @@ scale
 http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/
 http://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/
 https://blog.hartleybrody.com/scale-load/
+http://realscale.cloud66.com/
 
 shell
 http://www.fizerkhan.com/blog/posts/What-I-learned-from-other-s-shell-scripts.html
@@ -781,6 +816,7 @@ http://www.javacodegeeks.com/2014/12/implementing-the-git-flow-2.html
 http://www.findbestopensource.com/stack-detail/git-windows-stack
 http://wildlyinaccurate.com/a-hackers-guide-to-git
 http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+https://dzone.com/articles/source-control-branching-for-success
 
 gc
 http://www.javacodegeeks.com/2013/07/5-coding-hacks-to-reduce-gc-overhead.html
@@ -800,6 +836,7 @@ http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html?spref=tw
 http://java.dzone.com/articles/spring-jms-activemq
 www.javaworld.com/article/2142107/spring-framework/open-source-java-projects-spring-integration.html
 https://dzone.com/articles/aws-sqs-and-spring-jmsintegration
+https://dzone.com/articles/jms-a-quick-amp-complete-guide-with-example
 
 jpa
 http://mdshannan1.blogspot.in/2010/10/reuse-jpa-entities-as-dto.html
@@ -884,6 +921,7 @@ https://anturis.com/blog/11-awesome-tools-for-linux-sysadmins/
 https://opensource.com/business/16/3/system-statistics-sar-and-proc-filesystem
 https://opensource.com/business/15/12/10-sysadmin-tools
 https://www.systemcodegeeks.com/unix/application-server-service-unix/
+https://opensource.com/business/16/8/introduction-linux-network-routing
 
 builder
 http://java.dzone.com/articles/too-many-parameters-java-1
@@ -942,6 +980,9 @@ http://www.webcodegeeks.com/html5/html5-development-tools-list/
 https://www.webcodegeeks.com/css/css-button-style-example/
 http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
 https://www.webcodegeeks.com/css/css-multiple-classes-example/
+http://jgthms.com/web-design-in-4-minutes/
+https://dzone.com/articles/best-front-end-development-tools-for-css
+http://designposts.net/15-killer-techniques-about-css
 
 sun jdk
 http://fedorasolved.org/Members/zcat/using-sun-java-instead-of-openjdk
@@ -983,6 +1024,7 @@ https://opensource.com/life/16/7/object-storage
 
 jvm
 http://viralpatel.net/blogs/java-virtual-machine-an-inside-story/
+https://dzone.com/articles/jvm-architecture-explained
 
 memory
 http://www.ibm.com/developerworks/java/library/j-codetoheap/index.html
@@ -1077,6 +1119,7 @@ https://www.patternfly.org/
 http://designposts.net/best-bootstrap-3-themes/?ref=dzone
 http://www.webcodegeeks.com/css/bootstrap/bootstrap-grid-example/
 https://www.webcodegeeks.com/css/bootstrap/tutorial-use-bootstrap-templates/
+http://angular-ui.github.io/bootstrap/
 
 dropbox
 https://www.dropbox.com/help/1909/en
@@ -1116,11 +1159,9 @@ http://www.javacodegeeks.com/2015/10/nosql-vs-sql.html
 https://dzone.com/articles/polyglot-persistence-in-nosql-space
 http://www.javaworld.com/article/3062899/big-data/lightning-fast-nosql-with-spring-data-redis.html
 
-acer
-http://www.notebook-driver.com/acer/acer-aspire-3000-notebook-winxp-driver-utility/
-
 messaging
 http://syntx.io/getting-started-with-rabbitmq-using-the-spring-framework/
+http://www.java-allandsundry.com/2016/08/integrating-with-rabbit-mq-using-spring.html
 
 
 http://www.mental-math-trainer.com
